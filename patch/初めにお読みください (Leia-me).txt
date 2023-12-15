@@ -1,0 +1,96 @@
+---------------------------------------------------------
+Cradle Dolly's Dreaming Awakening "Cradle Song" PT-BR
+Versao 1.0.0
+---------------------------------------------------------
+
+＜Traducao＞
+Knox Translations.
+
+＜Sobre o jogo＞
+O jogo original em Nscript foi portado para PONscripter, corrigindo problemas de acentuacao e outros bugs.
+Todos os creditos originais abaixo. Em caso de problemas, abra um issue no Github.
+
+■Ferramenta de desenvolvimento
+
+「PONscripter」  			http://unclemion.com/onscripter/releases/
+
+■Licenca
+
+ONScripter is copyright c 2001-2007 Ogapee. The Ponscripter fork is copyright c 2006-2009 Haeleth.
+
+Ponscripter is licensed under the GNU General Public License, version 2 or (at your option) any later version. See COPYING for details.
+
+---------------------------------------------------------
+Cradle Dolly's Dreaming Awakening "Cradle Song" 体験版
+2010.09.01 ver1 配布
+Copyright (C) 2010 RA/MLESS 和音&なゆた
+----------------------------------------------------------
+
+＜ゲームについて＞
+・体験版は三日目まで収録されています。繰り返しプレイ推奨です。
+
+＜このソフトについて＞
+「Cradle Dolly's Dreaming Awakening "Cradle Song"」は「うみねこのなく頃に」二次創作パロディゲームです。本家様とは何の関係もございません。少しでもお楽しみ頂ければ幸いです。
+
+
+＜免責事項＞
+　
+万一このソフトをプレイすることにより問題が発生しても責任を負いかねますのでご了承ください。
+
+
+＜インストールとアンインストール＞
+
+■　インストール方法
+ダウンロードしたファイルを解凍ソフトを使用し、ご解凍下さい。
+
+
+■アンインストール方法
+インストールしたファイルを「cradle」フォルダごと削除してください。
+ 
+
+＜素材提供＞
+
+■開発ツール
+
+「Nscripter」  			http://www.nscripter.com/
+
+■背景画像
+
+「きまぐれアフター」　http://www5d.biglobe.ne.jp/~gakai/
+ ｢マメダイフク｣　 　　http://omame.fool.jp
+ ｢背景素材店｣　 　　　http://shass.sakura.ne.jp/
+ ｢Drop Items｣　　　　 http://blackxxx.sakura.ne.jp/
+　
+■BGM
+
+「H/MIX GALLERY」　　http://www.hmix.net/
+「D'va;;;;;;;;;5」   http://www5.pf-x.net/~malie/
+「SENTIVE」　　　　　http://sentive.net/
+ ｢Presence of Music｣ http://www.geocities.jp/presence_of_music/index.html
+ ｢propan_mode｣　 　　http://propanmode.net/index.php
+
+
+■効果音
+
+「On-Jin　～音人～」　http://yen-soft.com/ssse/
+「WEB WAVE LIB」　　　http://www.s-t-t.com/wwl/
+ ｢Hanac200x｣　　　　　http://879.hanac200x.jp/se/index.html
+ ｢メカニワ工房｣　　　 http://www.geocities.jp/niwashi_hiyoko/index.html
+ ｢Tam Music Factory｣　http://www.tam-music.com/index.html
+
+＜注意事項＞
+無断転載・法的に認められる範囲外での引用などはご遠慮下さい。
+
+
+＜お問い合わせ＞
+バグ・不具合などありましたら、お手数ですが、お知らせください。
+
+
+■mail
+　amuness@mail.goo.ne.jp
+
+
+お読み下さり、ありがとうございました。
+
+
+
