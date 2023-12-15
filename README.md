@@ -1,8 +1,8 @@
 # Cradle Song
 
-Tradução em português do fan-game de Umineko intitulado "[Cradle[Dolly's Dreaming Awakening "Cradle Song"]]"(https://vndb.org/v5057), lançado no dia 1º de abril de 2010.
+Tradução em português do fan-game de Umineko intitulado "[Cradle[Dolly's Dreaming Awakening "Cradle Song"]](https://vndb.org/v5057)", lançado no dia 1º de abril de 2010.
 
-O jogo original ainda pode ser encontrado neste [link arquivado] (https://web.archive.org/web/20130120065944/http://xgamedata.com/demo4/g4257/).
+O jogo original ainda pode ser encontrado neste [link arquivado](https://web.archive.org/web/20130120065944/http://xgamedata.com/demo4/g4257/).
 
 Este patch não requer o jogo original, uma vez que a tradução foi portada para outra engine, no intúito de resolver problemas de acentuação e outros bugs. Basta baixar o patch.
 
