@@ -3,94 +3,89 @@ Cradle Dolly's Dreaming Awakening "Cradle Song" PT-BR
 Versao 1.0.0
 ---------------------------------------------------------
 
-ƒTraducao„
+ï¼œTraduÃ§Ã£oï¼
 Knox Translations.
 
-ƒSobre o jogo„
-O jogo original em Nscript foi portado para PONscripter, corrigindo problemas de acentuacao e outros bugs.
-Todos os creditos originais abaixo. Em caso de problemas, abra um issue no Github.
+ï¼œSobre o jogoï¼
+O jogo original foi feito e NScripter, entretanto o patch roda em ONScripter-EN, corrigindo problemas de acentuacao e outros bugs.
+Todos os crÃ©ditos originais abaixo. Em caso de problemas, abra um issue no Github.
 
-¡Ferramenta de desenvolvimento
+â– Ferramenta de desenvolvimento
 
-uPONscripterv  			http://unclemion.com/onscripter/releases/
+ã€ŒONScripter-EN ã€  			https://github.com/Galladite27/ONScripter-EN
 
-¡Licenca
+â– LicenÃ§a
 
-ONScripter is copyright c 2001-2007 Ogapee. The Ponscripter fork is copyright c 2006-2009 Haeleth.
-
-Ponscripter is licensed under the GNU General Public License, version 2 or (at your option) any later version. See COPYING for details.
+ONScripter and ONScripter-EN are distributed under the terms of the GNU General Public License v2. See COPYING for details.
 
 ---------------------------------------------------------
-Cradle Dolly's Dreaming Awakening "Cradle Song" ‘ÌŒ±”Å
-2010.09.01 ver1 ”z•z
-Copyright (C) 2010 RA/MLESS ˜a‰¹&‚È‚ä‚½
+Cradle Dolly's Dreaming Awakening "Cradle Song" ä½“é¨“ç‰ˆ
+2010.09.01 ver1 é…å¸ƒ
+Copyright (C) 2010 RA/MLESS å’ŒéŸ³&ãªã‚†ãŸ
 ----------------------------------------------------------
 
-ƒƒQ[ƒ€‚É‚Â‚¢‚Ä„
-E‘ÌŒ±”Å‚ÍO“ú–Ú‚Ü‚Åû˜^‚³‚ê‚Ä‚¢‚Ü‚·BŒJ‚è•Ô‚µƒvƒŒƒC„§‚Å‚·B
+ï¼œã‚²ãƒ¼ãƒ ã«ã¤ã„ã¦ï¼
+ãƒ»ä½“é¨“ç‰ˆã¯ä¸‰æ—¥ç›®ã¾ã§åéŒ²ã•ã‚Œã¦ã„ã¾ã™ã€‚ç¹°ã‚Šè¿”ã—ãƒ—ãƒ¬ã‚¤æ¨å¥¨ã§ã™ã€‚
 
-ƒ‚±‚Ìƒ\ƒtƒg‚É‚Â‚¢‚Ä„
-uCradle Dolly's Dreaming Awakening "Cradle Song"v‚Íu‚¤‚İ‚Ë‚±‚Ì‚È‚­ ‚Év“ñŸ‘nìƒpƒƒfƒBƒQ[ƒ€‚Å‚·B–{‰Æ—l‚Æ‚Í‰½‚ÌŠÖŒW‚à‚²‚´‚¢‚Ü‚¹‚ñB­‚µ‚Å‚à‚¨Šy‚µ‚İ’¸‚¯‚ê‚ÎK‚¢‚Å‚·B
-
-
-ƒ–ÆÓ–€„
-@
-–œˆê‚±‚Ìƒ\ƒtƒg‚ğƒvƒŒƒC‚·‚é‚±‚Æ‚É‚æ‚è–â‘è‚ª”­¶‚µ‚Ä‚àÓ”C‚ğ•‰‚¢‚©‚Ë‚Ü‚·‚Ì‚Å‚²—¹³‚­‚¾‚³‚¢B
+ï¼œã“ã®ã‚½ãƒ•ãƒˆã«ã¤ã„ã¦ï¼
+ã€ŒCradle Dolly's Dreaming Awakening "Cradle Song"ã€ã¯ã€Œã†ã¿ã­ã“ã®ãªãé ƒã«ã€äºŒæ¬¡å‰µä½œãƒ‘ãƒ­ãƒ‡ã‚£ã‚²ãƒ¼ãƒ ã§ã™ã€‚æœ¬å®¶æ§˜ã¨ã¯ä½•ã®é–¢ä¿‚ã‚‚ã”ã–ã„ã¾ã›ã‚“ã€‚å°‘ã—ã§ã‚‚ãŠæ¥½ã—ã¿é ‚ã‘ã‚Œã°å¹¸ã„ã§ã™ã€‚
 
 
-ƒƒCƒ“ƒXƒg[ƒ‹‚ÆƒAƒ“ƒCƒ“ƒXƒg[ƒ‹„
+ï¼œå…è²¬äº‹é …ï¼
+ã€€
+ä¸‡ä¸€ã“ã®ã‚½ãƒ•ãƒˆã‚’ãƒ—ãƒ¬ã‚¤ã™ã‚‹ã“ã¨ã«ã‚ˆã‚Šå•é¡ŒãŒç™ºç”Ÿã—ã¦ã‚‚è²¬ä»»ã‚’è² ã„ã‹ã­ã¾ã™ã®ã§ã”äº†æ‰¿ãã ã•ã„ã€‚
 
-¡@ƒCƒ“ƒXƒg[ƒ‹•û–@
-ƒ_ƒEƒ“ƒ[ƒh‚µ‚½ƒtƒ@ƒCƒ‹‚ğ‰ğ“€ƒ\ƒtƒg‚ğg—p‚µA‚²‰ğ“€‰º‚³‚¢B
+
+ï¼œã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã¨ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ï¼
+
+â– ã€€ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•
+ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’è§£å‡ã‚½ãƒ•ãƒˆã‚’ä½¿ç”¨ã—ã€ã”è§£å‡ä¸‹ã•ã„ã€‚
 
 
-¡ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹•û–@
-ƒCƒ“ƒXƒg[ƒ‹‚µ‚½ƒtƒ@ƒCƒ‹‚ğucradlevƒtƒHƒ‹ƒ_‚²‚Æíœ‚µ‚Ä‚­‚¾‚³‚¢B
+â– ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«æ–¹æ³•
+ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã€Œcradleã€ãƒ•ã‚©ãƒ«ãƒ€ã”ã¨å‰Šé™¤ã—ã¦ãã ã•ã„ã€‚
  
 
-ƒ‘fŞ’ñ‹Ÿ„
+ï¼œç´ ææä¾›ï¼
 
-¡ŠJ”­ƒc[ƒ‹
+â– é–‹ç™ºãƒ„ãƒ¼ãƒ«
 
-uNscripterv  			http://www.nscripter.com/
+ã€ŒNscripterã€  			http://www.nscripter.com/
 
-¡”wŒi‰æ‘œ
+â– èƒŒæ™¯ç”»åƒ
 
-u‚«‚Ü‚®‚êƒAƒtƒ^[v@http://www5d.biglobe.ne.jp/~gakai/
- ¢ƒ}ƒƒ_ƒCƒtƒN£@ @@http://omame.fool.jp
- ¢”wŒi‘fŞ“X£@ @@@http://shass.sakura.ne.jp/
- ¢Drop Items£@@@@ http://blackxxx.sakura.ne.jp/
-@
-¡BGM
+ã€Œãã¾ãã‚Œã‚¢ãƒ•ã‚¿ãƒ¼ã€ã€€http://www5d.biglobe.ne.jp/~gakai/
+ ï½¢ãƒãƒ¡ãƒ€ã‚¤ãƒ•ã‚¯ï½£ã€€ ã€€ã€€http://omame.fool.jp
+ ï½¢èƒŒæ™¯ç´ æåº—ï½£ã€€ ã€€ã€€ã€€http://shass.sakura.ne.jp/
+ ï½¢Drop Itemsï½£ã€€ã€€ã€€ã€€ http://blackxxx.sakura.ne.jp/
+ã€€
+â– BGM
 
-uH/MIX GALLERYv@@http://www.hmix.net/
-uD'va;;;;;;;;;5v   http://www5.pf-x.net/~malie/
-uSENTIVEv@@@@@http://sentive.net/
- ¢Presence of Music£ http://www.geocities.jp/presence_of_music/index.html
- ¢propan_mode£@ @@http://propanmode.net/index.php
-
-
-¡Œø‰Ê‰¹
-
-uOn-Jin@`‰¹l`v@http://yen-soft.com/ssse/
-uWEB WAVE LIBv@@@http://www.s-t-t.com/wwl/
- ¢Hanac200x£@@@@@http://879.hanac200x.jp/se/index.html
- ¢ƒƒJƒjƒH–[£@@@ http://www.geocities.jp/niwashi_hiyoko/index.html
- ¢Tam Music Factory£@http://www.tam-music.com/index.html
-
-ƒ’ˆÓ–€„
-–³’f“]ÚE–@“I‚É”F‚ß‚ç‚ê‚é”ÍˆÍŠO‚Å‚Ìˆø—p‚È‚Ç‚Í‚²‰“—¶‰º‚³‚¢B
+ã€ŒH/MIX GALLERYã€ã€€ã€€http://www.hmix.net/
+ã€ŒD'va;;;;;;;;;5ã€   http://www5.pf-x.net/~malie/
+ã€ŒSENTIVEã€ã€€ã€€ã€€ã€€ã€€http://sentive.net/
+ ï½¢Presence of Musicï½£ http://www.geocities.jp/presence_of_music/index.html
+ ï½¢propan_modeï½£ã€€ ã€€ã€€http://propanmode.net/index.php
 
 
-ƒ‚¨–â‚¢‡‚í‚¹„
-ƒoƒOE•s‹ï‡‚È‚Ç‚ ‚è‚Ü‚µ‚½‚çA‚¨è”‚Å‚·‚ªA‚¨’m‚ç‚¹‚­‚¾‚³‚¢B
+â– åŠ¹æœéŸ³
+
+ã€ŒOn-Jinã€€ï½éŸ³äººï½ã€ã€€http://yen-soft.com/ssse/
+ã€ŒWEB WAVE LIBã€ã€€ã€€ã€€http://www.s-t-t.com/wwl/
+ ï½¢Hanac200xï½£ã€€ã€€ã€€ã€€ã€€http://879.hanac200x.jp/se/index.html
+ ï½¢ãƒ¡ã‚«ãƒ‹ãƒ¯å·¥æˆ¿ï½£ã€€ã€€ã€€ http://www.geocities.jp/niwashi_hiyoko/index.html
+ ï½¢Tam Music Factoryï½£ã€€http://www.tam-music.com/index.html
+
+ï¼œæ³¨æ„äº‹é …ï¼
+ç„¡æ–­è»¢è¼‰ãƒ»æ³•çš„ã«èªã‚ã‚‰ã‚Œã‚‹ç¯„å›²å¤–ã§ã®å¼•ç”¨ãªã©ã¯ã”é æ…®ä¸‹ã•ã„ã€‚
 
 
-¡mail
-@amuness@mail.goo.ne.jp
+ï¼œãŠå•ã„åˆã‚ã›ï¼
+ãƒã‚°ãƒ»ä¸å…·åˆãªã©ã‚ã‚Šã¾ã—ãŸã‚‰ã€ãŠæ‰‹æ•°ã§ã™ãŒã€ãŠçŸ¥ã‚‰ã›ãã ã•ã„ã€‚
 
 
-‚¨“Ç‚İ‰º‚³‚èA‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚µ‚½B
+â– mail
+ã€€amuness@mail.goo.ne.jp
 
 
-
+ãŠèª­ã¿ä¸‹ã•ã‚Šã€ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã—ãŸã€‚

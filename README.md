@@ -4,15 +4,18 @@ Tradução em português do fan-game de Umineko intitulado "[Cradle[Dolly's Drea
 
 O jogo original ainda pode ser encontrado neste [link arquivado](https://web.archive.org/web/20130120065944/http://xgamedata.com/demo4/g4257/).
 
-Este patch não requer o jogo original, uma vez que a tradução foi portada para outra engine, no intúito de resolver problemas de acentuação e outros bugs. Basta baixar o patch.
+Para aplicar o patch, basta baixar o jogo original, em seguida o patch e colocar a pasta "[KT] Umineko Cradle Song" dentro da pasta raiz do jogo, executando o arquivo onscripter-en dentro dela.
 
 Por questões de preguiça, os elementos visuais ainda não foram traduzidos e serão feitos futuramente, no entanto você pode contribuir.
 
 # Sobre o jogo
 
-O jogo nunca foi finalizado (provavelmente nunca foi o intúito, já que se tratava de um 1º de abril). Ao todo, a história é contada ao longo de 3 dias. Após terminar o primeiro, reinicie o jogo para acessar o segundo, depois o terceiro.
+O jogo nunca foi finalizado (provavelmente nunca foi o intuito, já que se tratava de um 1º de abril). Ao todo, a história é contada ao longo de 3 dias. Após terminar o primeiro, reinicie o jogo para acessar o segundo, depois o terceiro.
+
+Este jogo foi feito na engine [NScripter](https://nscripter.com/), entretanto para a exibição correta da acentuação, o executar foi substituto peplo [ONScripter-EN](https://github.com/Galladite27/ONScripter-EN)
+
+Ao trocar a engine, é possível fazer o jogo utilizar a fonte que encontra-se dentro da pasta do mesmo, entretanto ainda é necessário um macro para que a acentuação funcione. O Macro por sua vez parou de ser compatível após a versão 8.5.3 do Notepad++, portanto é necessário utilizar uma versão inferior ou modificar o arquivo.
 
 # Equipe
 
-- Tradução, edição e revisão: Deca
-- Port: Knox
+- Tradução: Deca
