@@ -1,4 +1,4 @@
-# Cradle Song
+# Dolly's
 
 Tradução em português do fan-game de Umineko intitulado "[Cradle[Dolly's Dreaming Awakening "Cradle Song"]](https://vndb.org/v5057)", lançado no dia 1º de abril de 2010.
 
