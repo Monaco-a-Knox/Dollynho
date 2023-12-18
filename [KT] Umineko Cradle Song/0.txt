@@ -7876,7 +7876,7 @@ goto *koumoku
 ;===================================================================================
 
 *define
-	caption "[KT] Dolly's Dreaming Awakening -Cradle Song- PT-BR "
+	caption "　Cradle　Dolly's Dreaming Awakening -Cradle Song- "
 
 	nsa			;ＮＳＡアーカイブモード
 	filelog			;ファイルアクセスログを取る（ＣＧモード用）
