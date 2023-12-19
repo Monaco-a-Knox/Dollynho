@@ -288,60 +288,82 @@ ld r,":a;e2\bat4.bmp",5
 `"Mas isso......realmente"`@
 ld l,":a;e2\ama16.bmp",5
 ;「ん？　確か、何ですかい？」@
+`"Hm? Realmente... o que?"`@
 ld l,":a;e2\ama8.bmp",5
 ld r,":a;e2\bat46.bmp",5
 ;「本当だろう？　お前、すぐサボるからなぁ」@
+;"`Mesmo? Voce ta sempre matando aula.`"@
 ld r,":a;e2\bat45.bmp",5
 ld l,":a;e2\ama12.bmp",5
 ;「ひゃっはっ、これは痛いところ突かれちまいましたね！」\
+`"Hyahaa... Agora voce tocou bem ferida!"`\
 ld l,":a;e2\ama7.bmp",5
 ld r,":a;e2\bat36.bmp",5
 ;「……俺はさっきまで、何の夢を」@
+`"...O que eu estava sonhando ha pouco?"`@
 ld l,":a;e2\ama10.bmp",5
 ld l,":a;e2\ama2.bmp",5
 ;「次は図書室だそうですよ？　教室移動しましょう」@
+`"A proxima aula e na biblioteca, lembra? Vamos trocar de sala."`@
 ld r,":a;e2\bat37.bmp",5
 ;「あっああ、そうだった、か？」@
+`"Ahaa... E mesmo?"`@
 ld l,":a;e2\ama9.bmp",5
 ld r,":a;e2\bat38.bmp",5
 ld r,":a;e2\bat36.bmp",5
 ;「そうですよ全く。先に顔でも洗いに行きましょうか？」\
+`"Sim, fala serio. Que tal ir lavar esse rosto?"`\
 ld l,":a;e2\ama8.bmp",5
 ld r,":a;e2\bat41.bmp",5
 ;「いや、いい図書室、だよな。行くぜ」@
+`"Nao, vamos para a biblioteca. Anda."`@
 ld l,":a;e2\ama2.bmp",5
 ;「それなら急ぎましょうよ、旦那。@
+`"Entao vamos nos apressar, patrao.`@
 ld l,":a;e2\ama12.bmp",5
 　それとも旦那さえよけりゃ一緒にサボリますかい？」@
+` O prefere matar aula junto comgi?"`@
 ld r,":a;e2\bat46.bmp",5
 ;「それはお断りするぜ」\
+`"Essa eu deixo passar."`\
 ld l,":a;e2\ama5.bmp",5
 ld r,":a;e2\bat46.bmp",5
 ;「天草、お前なぁ。俺の後輩にでもなる気か？@
+`"Escuta aqui, Amakusa. O que acha que ta fazendo com o mu kouhai?`@
 ld r,":a;e2\bat44.bmp",5
 ;　いい加減にしないと単位足りなくなるぞ？」@
+` Precisa levar a serio ou nao vai ter nota o suficiente para passar de ano, sabia?`@
 ld l,":a;e2\ama12.bmp",5
 ;「ひゃっは、そうしたらテスト問題教えて下さいよ先輩」@
+`Hyaha... Entao me diga quais as questoes da prova, senpai"`@
 ld l,":a;e2\ama14.bmp",5
 ld r,":a;e2\bat48.bmp",5
 ;「テストの内容なんて、毎回変わるだろう？」\
+`"O conteudo da prova nao muda sempre?"`\
 ld l,":a;e2\ama6.bmp",5
 ;「ええ、そうですがね。パターンくらいあるでしょう」@
+`"Sim, ele muda. Ao menos deve manter um padrao."`@
 ld r,":a;e2\bat46.bmp",5
 ;「得意の一夜漬けで何とかしろよ。何で毎回山が当たるんだ？@
+`"Eu dou meu jeito estudando na noite anterior a prova. Sempre da bom assim, sabia?`@
 ld r,":a;e2\bat27.bmp",5
 ;　それによく、一晩で覚えられるな」@
+` Nao sei como consigu tudo numa noite"`@
 ld l,":a;e2\ama24.bmp",5
 ld r,":a;e2\bat45.bmp",5
 ;「覚えるのは面倒ですが、一度覚えたら忘れない性質なんで」\
+`"Estudar e um saco, mas sou do tipo que nao esquece depois que aprendo."` 
 ld r,":a;e2\bat36.bmp",5
 br
 ;（忘れる………忘れる？）@
+`(Esquecer...... Esquecer?)`@
 ld l,":a;e2\ama9.bmp",5
 ;「旦那ー急ぎましょうよー」@
+`"Anda logo, patroa."`@
 ld r,":a;e2\bat28.bmp",5
 ld r,":a;e2\bat29.bmp",5
 ;（俺は、確か……………）\
+`(E mesmo, eu.........)`\
 bgmfadeout 1000
 bgmstop
 textoff
@@ -349,7 +371,7 @@ bg#000000,10
 br
 br
 ;　　　　　　　　（忘れるなって、言われたんじゃなかったか？）\
-
+`　　　　　　　　(Pensei ter dito que nao esquecia.)`\
 textoff 
 bgmonce"m\doa.wav"
 wait 1000
@@ -359,43 +381,59 @@ ld l,":a;e2\ama1.bmp",7
 ld r,":a;e2\bat37.bmp",7
 texton 
 ;「なぁ、図書室って……？」@
+`"Ei, onde fica a biblioteca...?"`@
 ld l,":a;e2\ama2.bmp",5
 ;「階段を降りて一階です。どうしましたまだボケてます？」@
+`"Primeiro andar, descendo as escadas. Que foi? Ainda ta dormindo?"`@
 ld l,":a;e2\ama3.bmp",13
 ld r,":a;e2\bat38.bmp",13
 ;「いや、そうだったよな……悪い大丈夫だ。なぁ、十三」@
+`"Nao e isso... To otimo. Ei, Juuza."`@
 ld l,":a;e2\ama6.bmp",5
 ;「はい？　どうしたましたさっきから」\
+`"Que? O que foi agora?"`\
 ld r,":a;e2\bat37.bmp",5
 ld l,":a;e2\ama9.bmp",5
 ;「もしかして、旦那もサボリたいんですかい？@
+`"Por acaso de vontade de matar aula?`@
 ld l,":a;e2\ama24.bmp",5
 ;　まぁ人間、そんな日もありますよ。@
+` Bom, todo mundo tem um dia assim.`@
 ld l,":a;e2\ama6.bmp",5
 ;　よかったら、屋上か木の上にでも案内しましょうか？」@
+` Se quiser, posso te apresentar o telhado ou a sombra de uma arvore."`@
 ld r,":a;e2\bat32.bmp",13
 ;「違う。そんなわけがあるか、そうじゃなくてだな……」\
+`"Nao e nada disso, nao e isso..."`\
 ld l,":a;e2\ama6.bmp",5
 ld r,":a;e2\bat2-1.bmp",13
 ;「―――――――はい？」@
+`"...Perdao?"`@
 ld r,":a;e2\bat2-3.bmp",13
 ;「……………………今日って、何月何日だ？」@
+´"............Hoje... que dia e hoje? Em que mes estamos?"`@
 bgmfadeout 1000
 bgmstop
 ld l,":a;e2\ama10.bmp",5
 ;「…………………」@
+`"........."`@
 ;「……………………？」\
+`"............?"`\
 ld r,":a;e2\bat2-4.bmp",13
 ld l,":a;e2\ama18.bmp",5
 ;「………………十三？」@
+`".........Juuza?"`@
 ld r,":a;e2\bat2-3.bmp",13
 ld l,":a;e2\ama19.bmp",5
 ;「やだなぁ、ボケてるんですかい？　旦那」@
+`"Poxa, ta dormindo, patroa?"`@
 ld r,":a;e2\bat33.bmp",13
 ld l,":a;e2\ama8.bmp",5
 ;「お前なぁ、さっきから人のことをボケ、ボケって……」@
+`"Escuta aqui, voce so sabe falar que eu eu estou dormindo..."`@
 ld l,":a;e2\ama11.bmp",5
 ;「そんなの言わなくたって決まってるでしょう？」\
+`"Tao na cara que nem preciso dizer."`\
 cl a,10,500
 textoff 
 bg#000000,3
@@ -403,151 +441,207 @@ br
 br
 
 ;　　　　　　　　　　　　　　「十月、三日ですよ」\
+`　　　　　　　　　　　　　　"E tres de outubro"`\
 textoff
 bg"e1\kaidan1.jpg",3
 ld c,":a;e2\ama2.bmp",7
 ld r,":a;e2\bat4.bmp",7
 texton
 ;「走りましょうよ旦那ー」@
+`"Vamos correr, patrao."`@
 ;「ああ、そうだなって………」@
+`"Sim, e uma boa..."`@
 ld r,":a;e2\bat12.bmp",5
 bgm"m\en.mp3"
 ld l,":a;e2\en1.bmp",5
 ld c,":a;e2\ama8.bmp",5
 ;「………………お兄ちゃん？」@
+`"......Onii-chan?"`@
 ld r,":a;e2\bat31.bmp",5
 ;「縁寿ッ！？」\
+`"Ange?!"`\
 ld r,":a;e2\bat12.bmp",5
 ;「………えっ、縁寿？ どうしてお前がここにいるんだ？」@
+"`...Ha? Ange? O que esta fazendo aqui?"`@
 ld l,":a;e2\en2.bmp",5
 ;「………何を言ってるの？　急に。どうかしたの？」@
+`"...Do que ta falando? Aconteceu alguma coisa?"`@
 ld r,":a;e2\bat13.bmp",5
 ld c,":a;e2\ama21.bmp",5
 ;「だって、お前は風邪でそれで、一人残って………」@
+`"Voce deveria estar resfriada em casa......"`@
 ld l,":a;e2\en5.bmp",5
 ;「…………………何の話？」\
+`".........Do que ta falando?"`\
 ld l,":a;e2\en2.bmp",5
 ;「お兄ちゃん、あのね。私が体が弱ったのは昔のこと。@
+`"Escuta aqui, onii-chan. Isso de eu ter um corpo fraco e coisa do passado.`@
 ld l,":a;e2\en10.bmp",5
 ;　いつまでも心配しないで。私はもう健康なんだから。@
+` Ate quando vai ficar se preocupando? Eu sou saudavel agora.`@
 ld l,":a;e2\en4.bmp",5
 ;　もう一人倒れて、家族一緒に出かけられない何てこともない。@
+` Essa epoca de ficar encamada sozinha e nao poder acompanhar a familia ja passou.`@
 ld l,":a;e2\en19.bmp",5
 ;　心配しないでも、大丈夫よ」\
+` Nao se preocupe. Estou bem."`\
 ld l,":a;e2\en18.bmp",5
 ld r,":a;e2\bat37.bmp",5
 ld c,":a;e2\ama3.bmp",5
 ;「えっ、あっ、そ、そうか。そう……だっけ？」@
+`"Ha? Ah, e-etendi? E... mesmo?"`@
 ld l,":a;e2\en12.bmp",5
 ;「そうよ。それよりも、お兄ちゃん！」@
+`"Sim. E mais importante, onii-chan!"`@
 cl c,1,800
 ld l,":a;e2\ama12.bmp",6
 ld c,":a;e2\en12.bmp",6
 ld r,":a;e2\bat3-3.bmp",5
 ;「うぉっ、なっ、なんだよ？」@
+`"Uwa... q-que foi?"`@
 ld c,":a;e2\en13.bmp",5
 ;「どうしてお兄ちゃんがここにいるの！」\
+`"Por que voce esta aqui?!"`\
 ld r,":a;e2\bat3-6.bmp",5
 ;「…………どうし、て？」@
+`"......Por que?"`@
 ld c,":a;e2\en12.bmp",5
 ld r,":a;e2\bat3-5.bmp",4
 ld c,":a;e2\en13.bmp",5
 ;「もうすぐ授業が始まるでしょう？@
+`"A aula nao vai comecar agora?`@
 ld c,":a;e2\en11.bmp",5
 ;　確かお兄ちゃんの次の授業は、図書室のはずよね？@
+` Se nao me engano ,sua proxima aula e na biblioteca, certo?`@
 ld c,":a;e2\en2.bmp",5
 ;　こんなところでゆっくりしていて、間に合うの？」\
+` Vai chegar a tempo se arrastando aqui?"`\
 ld c,":a;e2\en12.bmp",5
 ld l,":a;e2\ama7.bmp",5
 ;「ひゃっは、流石お嬢。@
+`"Hyahh... Como esperado da ojou.`@
 ld l,":a;e2\ama6.bmp",5
 ;　旦那の時間割を全て把握してらっしゃるようで」@
+` Voce sabe todos os horarios do patrao."`@
 ld c,":a;e2\en16.bmp",5
 ;「アンタは黙ってて、天草。それとも、もしかして。@
+`"Voce fica quieto, Amakusa. Ou sera que...`@
 ld c,":a;e2\en21.bmp",5
 ;　……二人一緒にサボろうとしたわけじゃないわよね？」\
+` ...Nao estao pensando em matar aula juntos, ne?"\
 ld c,":a;e2\en20.bmp",5
 ld l,":a;e2\ama12.bmp",6
 ;「それは違うって言っときますぜ。@
+`"Posso garantir que isso nao e verdade.`@
 ld l,":a;e2\ama14.bmp",5
 ;　旦那まで連れて行ったら、お嬢に殺されちまいますよ」@
+` Voce me mataria se eu levasse o patrao junto."`@
 ld l,":a;e2\ama13.bmp",6
 ld c,":a;e2\en17.bmp",5
 ;「そんなの当然よ。全力で怒るわ。@
+`"Isso e obvio. Eu ficaria louca.`@
 ld c,":a;e2\en15.bmp",5
 ;　アンタだってちゃんと授業くらい出なさい」\
+` Trate de ir pra aula voce tembem!"`\
 ld c,":a;e2\en18.bmp",5
 ld l,":a;e2\ama24.bmp",6
 ;「わかりやした。すみませんねぇ。@
+`"Entendido. Foi mal.`@
 ld l,":a;e2\ama9.bmp",5
 ;　何せ、学校って奴は息が詰まってならないもんで」@
+` Afinal, a escola escola sufoca agente."`@
 ld c,":a;e2\en16.bmp",5
 ld l,":a;e2\ama8.bmp",5
 ;「アンタもたまには集団生活くらい学びなさい。@
+`"Voce tambem deveria aprender a viver em sociedade.`@
 ld c,":a;e2\en11.bmp",5
 ;　それに、本当に息が詰まる学校っていうのは地獄よ」\
+` Alem de que escolas sufocantes sao mesmo um inferno."`\
 ld l,":a;e2\ama12.bmp",6
 ld c,":a;e2\en12.bmp",5
 ;「ひゃっは、それはすげぇや。@
+`"Hyahh... Inacreditavel.`@
 ld l,":a;e2\ama24.bmp",5
 ;　お嬢がそう言うってことは、相当なんでしょうなぁ」@
+` Logo voce falando algo tao oportuno.`"@
 ld c,":a;e2\en20.bmp",5
 ld l,":a;e2\ama8.bmp",5
 ;「ええ、年頃の娘達が集まるとロクなことがない。@
+`"Sim, nao e bom garotas da sua idade ficarem se reunindo.`@
 ld c,":a;e2\en11.bmp",5
 ;　それの典型みたいな場所が世の中にはあるわね」\
+` Tem lugares nesse mundo que sao o perfeito exemplo disso."`\
 ld l,":a;e2\ama24.bmp",6
 ;「そんなところに行かないで済んだけ、俺は幸いですよ」@
+`"Eu tenho sorte de nao precisar ir para um lugar desses."`@
 ld c,":a;e2\en10.bmp",5
 ld l,":a;e2\ama5.bmp",5
 ;「全くよ。アンタの自由な身の上が羨ましいわ」@
+`"Francamente. Eu invejo a liberdade da sua vida."`@
 ld r,":a;e2\bat2-1.bmp",5
 ld r,":a;e2\bat2-4.bmp",5
 ld l,":a;e2\ama1.bmp",5
 ;「………なぁ縁寿、一つ聞いてもいいか？」@
+`"...Ei, Ange. Posso perguntar uma coisa?"`@
 ld c,":a;e2\en2.bmp",5
 ;「ん？　どうしたの、お兄ちゃん？」\
+`"Hm? O que foi, onii-chan?"`\
 ld r,":a;e2\bat2-6.bmp",5
 ;「おかしなことなんだけど、怒らないでくれ」@
+`"E meio estranho, entao nao se irrite, por favor."`@
 ld l,":a;e2\ama3.bmp",5
 ld c,":a;e2\en4.bmp",5
 ;「いったい何？」@
+`"O que e?"`@
 bgmfadeout 1000
 bgmstop
 ld r,":a;e2\bat3-6.bmp",5
 ;「…………お前、今幾つだったっけ？」@
+`"......Com quantos anos voce esta?"`@
 ld l,":a;e2\ama18.bmp",6
 ld c,":a;e2\en2-3.bmp",5
 ;「…………………」\
+`"............"`\
 ld r,":a;e2\bat3-8.bmp",5
 ;「…………縁寿？」@
+`"......Ange?"`@
 bgm"m\en.mp3"
 ld c,":a;e2\en9.bmp",5
 ld c,":a;e2\en10.bmp",5
 ld l,":a;e2\ama21.bmp",5
 ;「会えて嬉しかったけど、もう行かなきゃ。@
+`"Estou feliz por te-lo encontrado, mas preciso ir agora.`@
 ;　それじゃあ、お兄ちゃん。また帰りにね」@
+` Ate mais, onii-chan. Nos vemos na volta pra casa, ta?"`@
 ld c,":a;e2\en18.bmp",5
 ld l,":a;e2\ama24.bmp",5
 ;「ひゃっは、お嬢。俺には何もなしですかい？」\
+`Hyahh... Ojou. Nao vai me dizer nada?"`\
 ld l,":a;e2\ama2.bmp",5
 ld c,":a;e2\en15.bmp",5
 ;「うるさいわね。天草も」@
+`"Cala a boca, Amakusa."`@
 ld l,":a;e2\ama6.bmp",5
 ;「はい」@
+`"Ta."`@
 ld c,":a;e2\en19.bmp",5
 ;「また帰りに会いましょう。それじゃ」@
+`"Nos vemos na volta. Ate."`@
 ld r,":a;e2\bat37.bmp",5
 ld l,":a;e2\ama5.bmp",5
 ;「縁寿、なぁ……」\
+`"Escuta, Ange..."`\
 cl c,10,800
 ld l,":a;e2\ama3.bmp",5
 ld r,":a;e2\bat35.bmp",5
 ;「……………」@
+`"........."`@
 ld l,":a;e2\ama2.bmp",5
 ;「旦那ー急ぎやしょう。チャイム鳴っちまいますよ？」@
+`"Vamos logo, patrao. O sinal ja vai tocar."`@
 ld r,":a;e2\bat37.bmp",5
 ;「あ、あぁ……そうだな」\
+`"A-Ah... Tem razao."`\
 bgmfadeout 1000
 bgmstop
 textoff
@@ -562,129 +656,180 @@ ld l,":a;e2\ama3.bmp",5
 ld l,":a;e2\ama4.bmp",5
 texton
 ;「…………旦那、ねぇ旦那」@
+`"......Patrao. Ei, patrao."`@
 ld c,":a;e2\bat24.bmp",5
 ld l,":a;e2\ama3.bmp",5
 ;「なんだよ、急に」@
+`"O que foi agora?"`@
 ld l,":a;e2\ama12.bmp",5
 ;「調べ物の授業程、退屈な物ってないと思いませんか？」@
+`"Tem algo mais chato que essas aulas de pesquisa?"`@
 ld c,":a;e2\bat27.bmp",5
 ld l,":a;e2\ama13.bmp",5
 ;「お前はいつでも授業は退屈そうじゃねぇか」\
+`"Voce nao acha todas as aulas chatas?"`\
 ld l,":a;e2\ama12.bmp",5
 ;「そういう旦那も半目ですぜ？」@
+`"Voce tambem nao ta quase dormindo?"`@
 ld c,":a;e2\bat50.bmp",5
 ;「いや、調べるのはまだいいんだぜ、まだよ……。@
+`"Nao, ainda consigo continuar. Mais um pouco...`@
 ld l,":a;e2\ama13.bmp",5
 ld c,":a;e2\bat28.bmp",5
 ;　ただ、この気温はなぁ」@
+` Ta uma temperatuda gostosa aqui, ne?"`@
 ld l,":a;e2\ama24.bmp",5
 ;「暖かいですよねぇ………図書室」\
+`"A biblioteca e bem quentinha, ne...?`\
 
 ld c,":a;e2\bat29.bmp",5
 ;「まったく、このままだと寝ちまいそうだ。@
+`"Nesse ritmo vou acabar pegando no sono.`@
 ld c,":a;e2\bat28.bmp",5
 ;　十三、お前、担当範囲何処まで終わった？」@
+` Ate ate que parte do trabalho voce ja terminou?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「それがもうさっぱり。この授業中は無理でしょこれ。@
+`"Nao faco ideia. Essa aula nao tem como.`@
 ld l,":a;e2\ama9.bmp",5
 ;　何か、目の覚めることでもありませんかねぇ」\
+" Nao tem nada para ajudar a ficar acordado."`\
 bgmstop
 wave"m\doa.wav"
 ld r,":a;e2\bea3-1.bmp",5
 ;「グッドモオオオオオオニイイイイイイング！！！」@
+`"Good mooooooniiiiiing!!!"`@
 ld c,":a;e2\bat31.bmp",5
 ld l,":a;e2\ama6.bmp",5
 ;「……………」@
+`"........."`@
 ;「……………」@
+`"........."`@
 ld r,":a;e2\bea3-3.bmp",5
 ;「ソオリィィイアイムレイト！！！！！」\
+`"Soryyyy I am late!!!!!"`\
 bgm"m\bea.mp3"
 ld r,":a;e2\bea13.bmp",5
 ld c,":a;e2\bat34.bmp",5
 ;「………また遅刻か、アイツ」@
+`"...De novo ela chegando atrasada?"`@
 ld l,":a;e2\ama17.bmp",5
 ;「そうみたいですね。それにしても堂々としたもので」@
+`"E o que parece. Apesar de que ela parece bem confiante."`@
 ld c,":a;e2\bat34.bmp",5
 ;「悪びれる様子がないどころじゃねぇ@
+`"Nao se trata de parecer preocupada.`@
 ld l,":a;e2\ama2.bmp",5
 ld c,":a;e2\bat32.bmp",5
 ;　悪いと思ってないだろ。ありゃ」\
+`"Nao acho que seja por mal."`\
 ld r,":a;e2\bea1.bmp",5
 ld c,":a;e2\bat34.bmp",5
 ld l,":a;e2\ama6.bmp",5
 ;「そうみたいですねー。いやはや惚れ惚れしますよ」@
+`"Pois e. Tem um charme propio."`@
 ld c,":a;e2\bat28.bmp",5
 ;「誰かアイツを叱ってやってくれ」@
+`"Alguem precisa dar um jeito nela."`@
 ld l,":a;e2\ama14.bmp",5
 ;「ひゃっは、それは、旦那にお任せしますよ。@
+`"Hyahh... Isso ai e contigo, patrao.`@
 ld l,":a;e2\ama16.bmp",5
 ;　あっ、教師が流石に何か言うみたいですぜ？」\
+`"Ah, parece que a professora vai dizer alguma coisa."`\
 cl a,10,800
 ld c,":a;e2\bea1.bmp",5
 ;「ベアトリーチェ。お前はまた遅刻か……」@
+`"BEATRICE. Voce esta atrasada..."`@
 ld c,":a;e2\bea2.bmp",5
 ;「アイムレイト！！！　ソーリー！！！」@
+`"I am late!!! Sorry!!!"`@
 ;「いいか、留学したばかりで日本に慣れないのは分かる」@
+`"Ouca, eu ebntendo que acabou de vir do exterior e nao se acostumou com o Japao."`@
 ld c,":a;e2\bea3.bmp",5
 ;「アーハー？」\
-
+`"Aham?"`\
 ;「それでもなぁ、こっちにはこっちのルールが……」@
+`"Mas temos nossas proprias regras aqui..."`@
 ld c,":a;e2\bea4.bmp",5
 ;「アーハー？」@
+`"Aham?"`@
 ;「郷に入っては郷に従えと……」@
+`"Em Roma, faca como os romanos..."`@
 ld c,":a;e2\bea15.bmp",5
 ;「アーハー？」\
+`"Aham?"`\
 
 ;「あ、あのなベアトリーチェ………」@
+"`E-Escuta, Beatrice......"`@
 ld c,":a;e2\bea20.bmp",5
 ;「Ａ－ＨＡ－？」@
+`"A-HAM?"`@
 ;「…………いいぞ、もう座って」@
+`"......Tudo bem. Pode sentar."`@
 ld c,":a;e2\bea13.bmp",5
 ;「サンキュゥウウウウウウウ！！！オーイエー！！」\
+`"Thank youuuuuuu!!! Oh, yeah!!"`\
 cl a,10,800
 ld r,":a;e2\bat12.bmp",5
 ld l,":a;e2\ama17.bmp",5
 ld c,":a;e2\bea3-1.bmp",5
 ;「ふははははははははっ、どうだ戦人！@
+`"Fuhahahahahahahaha... Que tal, Battler?!`@
 ld r,":a;e2\bat2-4.bmp",5
 ld c,":a;e2\bea3-2.bmp",5
 ;　見たか妾の完ッ璧な会話術を！！@
+` Viu minhas habilidades de conunicacao perfeitas?`@
 ld l,":a;e2\ama7.bmp",5
 ld c,":a;e2\bea3-3.bmp",5
 ;　イッツァアパーフェクトオオオオオ！！！！」@
+` It's paafekutooooo!!!!"`@
 ld r,":a;e2\bat33.bmp",5
 ;「ただの無茶苦茶じゃねぇかあああああ！！」\
+`"So ta falando bobageeeeeem!!`\
 ld r,":a;e2\bat30.bmp",5
 ld l,":a;e2\ama8.bmp",5
 ld c,":a;e2\bea2-5.bmp",5
 ;「ああ、駄目だぜ。全然駄目だぜ。@
+`"Ah, isso nao esta certo. Nao esta nada certo.`@
 ld l,":a;e2\ama2.bmp",5
 ;　お前は一体どこのえせアメリカンだ。芸人か何かか」@
+`"De onde e esse seu pseudo-americanismo? E comediante, por caso?"`@
 ld l,":a;e2\ama7.bmp",5
 ;「アレで通るんですから、ベアトさんは凄いですねぇ」@
+`"fsfsfs"`@
 ld c,":a;e2\bea2-11.bmp",5
 ;「ふははははは、十三。もっと敬ってよいぞ！！」\
+`"Fuhahahaha... Juuza. Demonstre mais respeito!!"\
 ld l,":a;e2\ama8.bmp",5
 ld c,":a;e2\bea2-4.bmp",5
 ;「いいか、戦人！！　見てみろ！　教師はイチコロよ！@
+`"Escute, Battler!! Veja bem! A professora cede facil!`@
 ld r,":a;e2\bat52.bmp",5
 ld c,":a;e2\bea2-10.bmp",5
 ;　妾はこれで少なくとも一学期は乗り切る予定だ！」@
+` Eu pretendo planejo passar ao menos um semestre assim!"`@
 ld l,":a;e2\ama8.bmp",5
 ld r,":a;e2\bat33.bmp",5
 ;「お前学校生活を舐めすぎだろうが！」@
+`"Ta subestimando demais a vida escolar!"`@
 ld l,":a;e2\ama6.bmp",5
 ;「でも、乗り切れそうですよねぇ、意外と」\
+`"Mas, por incrivel que pareca, acho que consegue."`\
 ld r,":a;e2\bat29.bmp",5
 ld l,":a;e2\ama7.bmp",5
 ;「何言ってやがんだ！！　そもそも、どうしてお前、が……」@
+`"Do que ta falando?! Alem disso, por que voce..."`@
 ld c,":a;e2\bea5.bmp",5
 ld l,":a;e2\ama10.bmp",5
 ;「どうした、戦人？」@
+`"Que foi, Battler?"`@
 ld r,":a;e2\bat2-1.bmp",5
 ;「お前が、どうし、て………？」@
+`"Por que voce......?`@
 ld c,":a;e2\bea15.bmp",5
 ;「ふむ、何やら分からぬが逆に尋ねるぞ戦人」\
+`"Hm... Nao sei o que e, mas vou lhe devolver a pergunta, Battler."`\
 bgmfadeout 1000
 bgmstop
 textoff
@@ -692,41 +837,57 @@ cl a,10,700
 bg#000000,13
 br
 ;　　　　　　　　　　　「そなたはどうしてここにいる？」\
+`　　　　　　　　　　　"O que voce faz aqui?"`\
 bg"e1\tosyokann.jpg",3
 ld r,":a;e2\bat3-8.bmp",5
 ld l,":a;e2\ama3.bmp",5
 ld c,":a;e2\bea14.bmp",5
 texton
 ;「………………俺、は」@
+`".........Eu..."`@
 bgm"m\school1.mp3"
 ld l,":a;e2\ama6.bmp",5
 ;「はいはいはい、旦那もいい加減にして下さい。@
+`"Ta bom, ja chega. Larga disso, patrao.`@
 ld l,":a;e2\ama24.bmp",5
 ;　ベアトさんの方も、そんなにぺらぺら喋っていいんですかい？@
+` Nao acho que voce deva ficar tagarelando assim, Beato-san.`@
 ld l,":a;e2\ama12.bmp",5
 ;　どうやら、目、つけられてますよ」\
+` Parece que estao de olho."`\
 ld r,":a;e2\bat3-3.bmp",5
 ld c,":a;e2\bea22.bmp",5
 ;「なっ、それはいかん！@
+`"Que? Isso nao!`@
 ;　おのれハゲ教師目！　妾を見るでないわ額が眩しいぞ！@
+`"Maldito professor careca! Nao me olhe com essa testa reluzente!`@
 ;　戦人、お主の背中で妾を隠せ！」@
+` Battler, me cubra com as suas costas!"`@
 cl c,10,200
 ld r,":a;e2\hutari.bmp",5
 ld r,":a;e2\hutari2.bmp",5
 ;「隠れるなッ！！止めろ！！こらっ！！ベアトー！！\
+`"Para de se esconder!! Para!! Ei!@ Beato!!"`\
 ld l,":a;e2\ama6.bmp",5
 ;「ハハッ、こりゃあもう、授業になりそうにありませんね」@
+`"Haha... Assim nao tem como ter uma aula."`@
 ld l,":a;e2\ama7.bmp",5
 ld r,":a;e2\hutari3.bmp",5
 ;「こら戦人逃げるなッ！　お主のでかい背中は何のためにある！@
+`"Ei, Battler, nao fuja! Pra que mais serve suas costas gigantes?!`@
 ;　こういう時に役立たないで、何のためにでかくなったのだ！」\
+` Cresceu pra que se nao pode ser util em horas assim?!`\
 ld r,":a;e2\hutari4.bmp",5
 ;「俺の背中はお前のためにあるんじゃねぇ！！@
+`"Minhas costas nao foram feitas para voce!!`@
 ld r,":a;e2\hutari5.bmp",5
 ;　十三も諦めるな！せめて分担した分だけは調べろ！！@
+` Nao desista, Juuza! Ao menos pesquise a sua parte!!`@
 ld r,":a;e2\hutari4.bmp",5
 ;　ベアト、張り付くな離れろぉおおおおおおお！！！」@
+` Me lagar, Beato. Sai pra laaaaa!!!"`@
 ;「くひゃひゃひゃひゃっ、諦めろよ右代宮戦人ァアアアア！！」\
+`"Kuhyakuhyakuhyakuhya! Desista, Ushiromiya Batlerrrr!!"`\
 bgmfadeout 1000
 bgmstop
 textoff
