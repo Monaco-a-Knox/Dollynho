@@ -322,17 +322,17 @@ ld l,":a;e2\ama2.bmp",5
 `"Entﾃo vamos nos apressar, patrﾃo.`@
 ld l,":a;e2\ama12.bmp",5
 　それとも旦那さえよけりゃ一緒にサボリますかい？」@
-` O prefere matar aula junto comgi?"`@
+` O prefere matar aula junto comigo?"`@
 ld r,":a;e2\bat46.bmp",5
 ;「それはお断りするぜ」\
 `"Essa eu deixo passar."`\
 ld l,":a;e2\ama5.bmp",5
 ld r,":a;e2\bat46.bmp",5
 ;「天草、お前なぁ。俺の後輩にでもなる気か？@
-`"Escuta aqui, Amakusa. O que acha que tｧ fazendo com o mu kouhai?`@
+`"Escuta aqui, Amakusa. Tｧ querendo virar meu kouhai?`@
 ld r,":a;e2\bat44.bmp",5
 ;　いい加減にしないと単位足りなくなるぞ？」@
-` Precisa levar a sｪrio ou nﾃo vai ter nota o suficiente para passar de ano, sabia?`@
+` Precisa levar a sｪrio ou nﾃo vai ter nota suficiente para passar de ano, sabia?`@
 ld l,":a;e2\ama12.bmp",5
 ;「ひゃっは、そうしたらテスト問題教えて下さいよ先輩」@
 `Hyaha... Entﾃo me diga quais as questｷes da prova, senpai"`@
@@ -345,21 +345,21 @@ ld l,":a;e2\ama6.bmp",5
 `"Sim, ele muda. Ao menos deve manter um padrﾃo."`@
 ld r,":a;e2\bat46.bmp",5
 ;「得意の一夜漬けで何とかしろよ。何で毎回山が当たるんだ？@
-`"Eu dou meu jeito estudando na noite anterior a prova. Sempre dｧ bom assim, sabia?`@
+`"Eu dou meu jeito estudando na noite anterior a prova. Sempre dｧ bom assim.`@
 ld r,":a;e2\bat27.bmp",5
 ;　それによく、一晩で覚えられるな」@
-` Nﾃo sei como consigu tudo numa noite"`@
+` Nﾃo sei como consigo tudo numa noite"`@
 ld l,":a;e2\ama24.bmp",5
 ld r,":a;e2\bat45.bmp",5
 ;「覚えるのは面倒ですが、一度覚えたら忘れない性質なんで」\
-`"Estudar ｪ um saco, mas sou do tipo que nﾃo esquece depois que aprendo."` 
+`"Estudar ｪ um saco, mas sou do tipo que nﾃo esquece depois que aprendo."`\
 ld r,":a;e2\bat36.bmp",5
 br
 ;（忘れる………忘れる？）@
 `(Esquecer...... Esquecer?)`@
 ld l,":a;e2\ama9.bmp",5
 ;「旦那ー急ぎましょうよー」@
-`"Anda logo, patrｷa."`@
+`"Anda logo, patrﾃo."`@
 ld r,":a;e2\bat28.bmp",5
 ld r,":a;e2\bat29.bmp",5
 ;（俺は、確か……………）\
@@ -395,7 +395,7 @@ ld l,":a;e2\ama6.bmp",5
 ld r,":a;e2\bat37.bmp",5
 ld l,":a;e2\ama9.bmp",5
 ;「もしかして、旦那もサボリたいんですかい？@
-`"Por acaso de vontade de matar aula?`@
+`"Por acaso deu vontade de matar aula?`@
 ld l,":a;e2\ama24.bmp",5
 ;　まぁ人間、そんな日もありますよ。@
 ` Bom, todo mundo tem um dia assim.`@
@@ -411,7 +411,7 @@ ld r,":a;e2\bat2-1.bmp",13
 `"...Perdﾃo?"`@
 ld r,":a;e2\bat2-3.bmp",13
 ;「……………………今日って、何月何日だ？」@
-´"............Hoje... que dia ｪ hoje? Em que mｹs estamos?"`@
+`"............Hoje... que dia ｪ hoje? Em que mｹs estamos?"`@
 bgmfadeout 1000
 bgmstop
 ld l,":a;e2\ama10.bmp",5
@@ -426,7 +426,7 @@ ld l,":a;e2\ama18.bmp",5
 ld r,":a;e2\bat2-3.bmp",13
 ld l,":a;e2\ama19.bmp",5
 ;「やだなぁ、ボケてるんですかい？　旦那」@
-`"Poxa, tｧ dormindo, patrｷa?"`@
+`"Poxa, tｧ dormindo, patrﾃo?"`@
 ld r,":a;e2\bat33.bmp",13
 ld l,":a;e2\ama8.bmp",5
 ;「お前なぁ、さっきから人のことをボケ、ボケって……」@
@@ -481,7 +481,7 @@ ld l,":a;e2\en10.bmp",5
 ` Atｪ quando vai ficar se preocupando? Eu sou saｸdｧvel agora.`@
 ld l,":a;e2\en4.bmp",5
 ;　もう一人倒れて、家族一緒に出かけられない何てこともない。@
-` Essa ｪpoca de ficar encamada sozinha e nﾃo poder acompanhar a famｨlia jｧ passou.`@
+` Jｧ passou a ｪpoca que eu ficava encamada sozinha e nﾃo podiar sair com a famｨlia.`@
 ld l,":a;e2\en19.bmp",5
 ;　心配しないでも、大丈夫よ」\
 ` Nﾃo se preocupe. Estou bem."`\
@@ -512,7 +512,7 @@ ld c,":a;e2\en13.bmp",5
 `"A aula nﾃo vai comeﾆar agora?`@
 ld c,":a;e2\en11.bmp",5
 ;　確かお兄ちゃんの次の授業は、図書室のはずよね？@
-` Se nﾃo me engano ,sua prｫxima aula ｪ na biblioteca, certo?`@
+` Se nﾃo me engano, sua prｫxima aula ｪ na biblioteca, certo?`@
 ld c,":a;e2\en2.bmp",5
 ;　こんなところでゆっくりしていて、間に合うの？」\
 ` Vai chegar a tempo se arrastando aqui?"`\
@@ -549,7 +549,7 @@ ld l,":a;e2\ama24.bmp",6
 `"Entendido. Foi mal.`@
 ld l,":a;e2\ama9.bmp",5
 ;　何せ、学校って奴は息が詰まってならないもんで」@
-` Afinal, a escola escola sufoca agente."`@
+` Afinal, a escola sufoca agente."`@
 ld c,":a;e2\en16.bmp",5
 ld l,":a;e2\ama8.bmp",5
 ;「アンタもたまには集団生活くらい学びなさい。@
@@ -693,7 +693,7 @@ ld l,":a;e2\ama6.bmp",5
 `"Nﾃo faﾆo ideia. Essa aula nﾃo tem como.`@
 ld l,":a;e2\ama9.bmp",5
 ;　何か、目の覚めることでもありませんかねぇ」\
-" Nﾃo tem nada para ajudar a ficar acordado."`\
+` Nﾃo tem nada para ajudar a ficar acordado."`\
 bgmstop
 wave"m\doa.wav"
 ld r,":a;e2\bea3-1.bmp",5
@@ -715,7 +715,7 @@ ld c,":a;e2\bat34.bmp",5
 `"...De novo ela chegando atrasada?"`@
 ld l,":a;e2\ama17.bmp",5
 ;「そうみたいですね。それにしても堂々としたもので」@
-`"ｴ o que parece. Apesar de que ela parece bem confiante."`@
+`"ｴ o que parece. Apesar de que ela tｧ bem confiante."`@
 ld c,":a;e2\bat34.bmp",5
 ;「悪びれる様子がないどころじゃねぇ@
 `"Nﾃo se trata de parecer preocupada.`@
@@ -736,7 +736,7 @@ ld l,":a;e2\ama14.bmp",5
 `"Hyahh... Isso aｨ ｪ contigo, patrﾃo.`@
 ld l,":a;e2\ama16.bmp",5
 ;　あっ、教師が流石に何か言うみたいですぜ？」\
-`"Ah, parece que a professora vai dizer alguma coisa."`\
+`"Ah, parece que o professor vai dizer alguma coisa."`\
 cl a,10,800
 ld c,":a;e2\bea1.bmp",5
 ;「ベアトリーチェ。お前はまた遅刻か……」@
@@ -745,7 +745,8 @@ ld c,":a;e2\bea2.bmp",5
 ;「アイムレイト！！！　ソーリー！！！」@
 `"I am late!!! Sorry!!!"`@
 ;「いいか、留学したばかりで日本に慣れないのは分かる」@
-`"Ouﾆa, eu ebntendo que acabou de vir do exterior e nﾃo se acostumou com o Japﾃo."`@
+`"Ouﾆa, eu entendo que acabou de vir do exterior`
+` e nﾃo se acostumou com o Japﾃo."`@
 ld c,":a;e2\bea3.bmp",5
 ;「アーハー？」\
 `"Aham?"`\
@@ -761,7 +762,7 @@ ld c,":a;e2\bea15.bmp",5
 `"Aham?"`\
 
 ;「あ、あのなベアトリーチェ………」@
-"`E-Escuta, Beatrice......"`@
+"`E-Escuta, BEATRICE......"`@
 ld c,":a;e2\bea20.bmp",5
 ;「Ａ－ＨＡ－？」@
 `"A-HAM?"`@
@@ -794,21 +795,21 @@ ld c,":a;e2\bea2-5.bmp",5
 `"Ah, isso nﾃo estｧ certo. Nﾃo estｧ nada certo.`@
 ld l,":a;e2\ama2.bmp",5
 ;　お前は一体どこのえせアメリカンだ。芸人か何かか」@
-`"De onde ｪ esse seu pseudo-americanismo? ｴ comediante, por caso?"`@
+`"De onde ｪ esse seu pseudo-americanismo? ｴ comediante, por acaso?"`@
 ld l,":a;e2\ama7.bmp",5
 ;「アレで通るんですから、ベアトさんは凄いですねぇ」@
-`"fsfsfs"`@
+`"Ela ｪ incrｨvel para ter escapado com isso."`@
 ld c,":a;e2\bea2-11.bmp",5
 ;「ふははははは、十三。もっと敬ってよいぞ！！」\
-`"Fuhahahaha... Juuza. Demonstre mais respeito!!"\
+`"Fuhahahaha... Juuza. Pode elogiar mais!!"\
 ld l,":a;e2\ama8.bmp",5
 ld c,":a;e2\bea2-4.bmp",5
 ;「いいか、戦人！！　見てみろ！　教師はイチコロよ！@
-`"Escute, Battler!! Veja bem! A professora cede fｧcil!`@
+`"Escute, Battler!! Veja bem! O professora cede fｧcil!`@
 ld r,":a;e2\bat52.bmp",5
 ld c,":a;e2\bea2-10.bmp",5
 ;　妾はこれで少なくとも一学期は乗り切る予定だ！」@
-` Eu pretendo planejo passar ao menos um semestre assim!"`@
+` Eu pretendo passar ao menos um semestre assim!"`@
 ld l,":a;e2\ama8.bmp",5
 ld r,":a;e2\bat33.bmp",5
 ;「お前学校生活を舐めすぎだろうが！」@
@@ -867,7 +868,7 @@ cl c,10,200
 ld r,":a;e2\hutari.bmp",5
 ld r,":a;e2\hutari2.bmp",5
 ;「隠れるなッ！！止めろ！！こらっ！！ベアトー！！\
-`"Para de se esconder!! Para!! Ei!@ Beato!!"`\
+`"Para de se esconder!! Para!! Ei!@ Beato!!`\
 ld l,":a;e2\ama6.bmp",5
 ;「ハハッ、こりゃあもう、授業になりそうにありませんね」@
 `"Haha... Assim nﾃo tem como ter uma aula."`@
@@ -913,15 +914,15 @@ ld r,":a;e2\bat46.bmp",5
 ` Dessa vez nﾃo vai fazer cena? Finalmente cresceu?"`@
 ld l,":a;e2\bea10.bmp",5
 ;「妾は寝ておったからな、特に何の問題なかったわ！」\
-´"Eu pude dormir, entﾃo nﾃo deu problema!"`\
+`"Eu pude dormir, entﾃo nﾃo deu problema!"`\
 ld r,":a;e2\bat48.bmp",5
 ;「お前、日本語苦手ですで全部逃げるの本当に止めろ」@
-´"Vocｹ precisa parar de fugir de tudo dizendo que nﾃo ｪ boa em japonｹs."`@
+`"Vocｹ precisa parar de fugir de tudo dizendo que nﾃo ｪ boa em japonｹs."`@
 ld l,":a;e2\bea18.bmp",5
 ;「ふははははははっ、何を言うか戦人！@
 `"Fuhahahahahaha... Do que tｧ falando, Battler?!`@
 ;　妾の手に掛れば、教師など赤子の手を捻るよりちょろいわ！」@
-` fsfsafsfsfs!"`@
+` Para mim, lidar com aquele professor ｪ como tirar doce de bebｹ!"`@
 ld r,":a;e2\bat30.bmp",5
 ;「いい加減バレろよ！　お前日本語ぺらぺらじゃねぇかッ！」\
 `"Para que jｧ tｧ feio! Vocｹ ｪ fluente em japonｹs!"`\
@@ -936,10 +937,11 @@ ld l,":a;e2\bea8.bmp",5
 "`Q-Que foi? Quero ver falar na cara."`@
 ld r,":a;e2\bat29.bmp",5
 ;「何でそんなに偉そうなんだよ」\
-`"Por que precisa ser tﾃo cheia de si"`\
+`"Por que precisa ser tﾃo cheia de si?"`\
 ld r,":a;e2\bat46.bmp",5
 ;「前に、話してなかったか？　ほら、お前の日本文化のお師匠様」@
-`"Eu jｧ nﾃo falei sobre issoantes? Sobre a sua professora de cultura japonesa."`@
+`"Eu jｧ nﾃo falei sobre isso antes?`\
+` Sobre a sua professora de cultura japonesa."`@
 ld l,":a;e2\bea7.bmp",5
 ;「………………ふむ」@
 `"......Hmm."`@
@@ -8302,7 +8304,7 @@ goto *koumoku
 ;===================================================================================
 
 *define
-	caption "　Cradle　Dolly's Dreaming Awakening -Cradle Song- "
+	caption "[KT]　Cradle　Dolly's Dreaming Awakening -Cradle Song- PT-BR"
 
 	nsa			;ＮＳＡアーカイブモード
 	filelog			;ファイルアクセスログを取る（ＣＧモード用）
