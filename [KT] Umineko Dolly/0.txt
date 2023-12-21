@@ -247,7 +247,7 @@ ld l,":a;e2\ama2.bmp",5
 ld l,":a;e2\ama9.bmp",5
 ld r,":a;e2\bat17.bmp",5
 ;　朝礼、終わったばっかりですよ。@
-` A primeira aula acabou de terminar.`@
+` A aula da manhﾃ acabou de terminar`@
 ld l,":a;e2\ama6.bmp",5
 ;　一時間目から昼寝とは、なかなかに度胸がありますね」\
 ` Tem que ter bastante coragem para dormir depois do primeiro perｨodo."\
@@ -1760,58 +1760,59 @@ setwindow3 30,200,51,20,18,18,3,0,30,1,1,#999999,0,0,800,600
 #ffffff
 
 ;忘却は罪ではないとある人が言いました。@
-``@
+`Houve quem disse que o esquecimento nﾃo era um peqcado.`@
 ;その通りです。忘却は罪ではありません。@
 ``@
 ;人は忘れなければ生きていくことはできません。@
-``@
+`As pessoas nﾃo conseguem viver sendo incapazes de esquecer.`@
 ;その機構そのものは、決して罪ではないのです。\
-``\
+`Esse mecanismo em si de form alguma ｪ um pecado.`\
 
 ;けれども、その忘却を責めることもまた。@
-``@
+`Contudo, culpar esse esquecimento...`@
 ;決して罪ではないのです。@
-``@
+`tambｪm nﾃo ｪ pecado.`@
 ;貴方の忘却が、私にとって致命的な毒となるのならば。@
-``@
+`Sendo seu esquecimento ｪ um veneno letal para mim.`@
 ;その心臓を抉る権利は、きっと私にも等しくあるのでしょう。\
-``\
+`Acredito que eu tenha o mesmo direito que lhe goivar o coraﾆﾃo.`\
 
 ;貴方は私の■■を忘れてしまった。@
-``@
+`Vocｹ esqueceste sobre meu ■■.`@
 ;貴方は私との■■を忘れてしまった。@
-``@
+`Vocｹ esqueceste sobre ■■ comigo.`@
 ;貴方は自身の■すら覚えていない。@
-``@
+`Sequer lembra do prｫprio ■.`@
 ;貴方は私の本当の■■すら知りません。\
-``\
+`Vocｹ sequer conhece minha verdadeira ■■.`\
 
 ;貴方の忘却はいったいいつまで続くのでしょうか。@
-``@
+`Quanto tempo mais perdurarｧ seu esquecimento?`@
 ;故に、私はこの筆をとりました。@
-``@
+`Portanto, peguei esta caneta.`@
 ;お話すべきことはあまりに多く、時間はあまりに少ない。@
-``@
+`Hｧ muito que precisa ser dito, e muito pouco tempo para falar.`@
 ;それなのに、私には語る術は多くない。\
-``@
+`Apesar disso, nﾃo tenho muitos meios para contar.`@
 br
 br
 ;そして―――――語る気すら、本当は無いのです。\
-``\
+`E tambｪm―――――nﾃo tenho vontade de contar.`\
 
 
 ;貴方は■のことを思いださない。@
-``@
+`Vocｹ nﾃo lembre de ■.`@
 ;■のことを、思いだしてなどくれない。@
 ``@
 ;それが、私には悔しくてならない―――いいえ違います。@
-``@
+`Isso acaba por me frustrat―――nﾃo, ｪ diferente.`@
 ;私にはそれが、とてもとても。\
-``@
+`Para mim, isso ｪ muito, muito...`@
 br
 br
 br
 ;　　　　　　　　　　ただ、辛くてならないのです。\
+`　　　　　　　　　　simplesmente desoaldor.`\
 setwindow3 30,200,51,20,18,18,3,0,30,1,1,#ffffff,0,0,800,600
 saveoff
 bgmfadeout 2000
@@ -1827,251 +1828,370 @@ erasetextwindow 0
 saveon
 br
 ;（……………何か夢を見ていた気がする）\
+`(......Sinto que estava sonhando)`\
 
 br
 ;「…………………な………だ……な」\
+`"......o...que...?"`\
 br
 ;（………………とても、よく似た夢を）\
+`(......Um sonho... muito parecido)`\
 br
 ;「……………だん、な………だんなー？……」\
+`"......o...que...era...?"\
 br
 ;（でも、それが何なのかが分からない）\
+`(Mas... eu nﾃo sei o que era)`\
 br
 ;「……………聞こえてないんですかね　だんなー？」\
+`"......Nﾃo tｧ me ouvindo, patrﾃo?"`\
 br
 ;（お前は、一体…………？）\
+`(Quem... ｪ voce......?)`\
 br
 ;　　　　　　　　　　　　　（何が言いたいんだ？）\
+`　　　　　　　　　　　　　(O que estｧ querendo dizer?)`\
 quake 6,300
 ;「戦人の旦那ッ！！！！！」\
+`"Patrﾃo!!!!!"`\
 bgm"m\school1.mp3"
 
 ;「うわあっ！！」@
+`"Uwaa!!"`@
 ;「あーあ、何やってんですか全く」\
+`"Aahh... Fala sｪrio, o que tｧ fazendo?"`\
 ld r,":a;e2\bat12.bmp",7
 ld l,":a;e2\ama1.bmp",7
 ;「じゅ、十三……？　あれ、ここ……？」@
+`"J-Juuza...? Uｪ, que lugar ｪ este...?"`@
 ld l,":a;e2\ama2.bmp",5
 ;「ここ？　じゃないでしょう？　何を寝ぼけてるんですかい？@
+`"Aqui? Do que tｧ falando? Tｧ dormindo ainda?`@
 ld l,":a;e2\ama22.bmp",5
 ;　朝礼、終わったばっかりですよ。@
+` A aula da manhﾃ acabou de terminar.`@
 ld l,":a;e2\ama24.bmp",5
 ;　一時間目から昼寝とは、なかなかに度胸がありますね」\
+` Tem que ter bastante coragem para dormir depois do primeiro perｨodo."\
 ld r,":a;e2\bat38.bmp",5
 ;「じ、十三？　お前帰ったんじゃなかったのか？」@
+`"J-Juuza? Vocｹ nﾃo tinha ido embora?" `@
 ld l,":a;e2\ama12.bmp",5
 ;「どうやら眠り足りないようでっ……て？@
+`"Parece que nﾃo dormiu o suficiente...?`@
 ld l,":a;e2\ama6.bmp",5
 ;　はい？　帰った？　一体どういうことですかい？」@
+` Hﾃ? Ido embora? Do que estｧ falando?"`@
 ld r,":a;e2\bat39.bmp",5
 ;「い、いや。だから、家に。俺達は確か途中で別れ……あれ？」\
+`"N-Nﾃo, tipo. Para casa. Tenho certeza que nos separamos no meio dao caminho... Uｪ?"`\
 ld r,":a;e2\bat2-1.bmp",5
 ld l,":a;e2\ama11.bmp",5
 ;「寝ぼけてるんですかい旦那？ @
+"`Tｧ viajando, patrﾃo?`@
 ld l,":a;e2\ama19.bmp",5
 ;　流石にそれは早すぎるんじゃないですか？@
+` Nﾃo acha que tｧ meio cedo pra isso?`@
 ld l,":a;e2\ama9.bmp",5
 ;　しっかりして下さいよ。お嬢に心配されますぜ？@
+` Se recompnha. A ojou vai ficar preocupada assim.`@
 ld l,":a;e2\ama2.bmp",5
 ;　まだ朝礼が終わったばかりだって言うのに」\
+` Acabei de falar que a aula da manhﾃ terminou."`\
 ld r,":a;e2\bat2-3.bmp",5
 ;「朝礼、が？…………そうだったっけ、か？」@
+`"Aula da manhﾃ? ......Foi assim?"`\
 ld l,":a;e2\ama6.bmp",5
 ;「そうです。朝礼が終わったところですよ」@
+`"Isso mesmo. A aula da manhﾃ terminou agora."`@
 ld r,":a;e2\bat37.bmp",5
 ;「………そうだ。そうだった、よな」@
+`"...Sim. ｴ mesmo... foi sim."`@
 ld l,":a;e2\ama11.bmp",5
 ;「旦那、どうもおかしいですぜ？　保健室に行きますか？」\
+`"Nﾃo se sente estranho, patrﾃo? Quer ir atｪ a enfermaria?"`\
 ld r,":a;e2\bat2-1.bmp",5
 ;「…………おかしい、か」@
+`"...Estranho?`"@
 ld l,":a;e2\ama2.bmp",5
 ;「ええ、夜更かしでもしてました？」@
+`"Sim... Passou a noite acordado?`"@
 ld r,":a;e2\bat2-3.bmp",5
 ;「………なぁ、天草。俺が、おかしいのか？」@
+`"...Ei, Amakusa. Eu estou estranho?"`@
 ld l,":a;e2\ama10.bmp",5
 ;「………………」\
+`"........."`\
 ld r,":a;e2\bat2-5.bmp",5
 ;「何か、違和感があるんだ。でも、それが」@
+`"Algo parece fora do lugar. Mas isso..."`@
 ld l,":a;e2\ama19.bmp",5
 ;「それは、どういう意味ですかい？」@
+`"Mas isso o quｹ?"`@
 ld r,":a;e2\bat2-8.bmp",5
 ;「なぁ、おかしいのは、『本当に俺なのか？』」@
+`"Ei, o estranho aqui “realmente sou eu”?`"@
 bgmfadeout 1000
 bgmstop
 ld l,":a;e2\ama18.bmp",5
 ;「…………」\
+`"......"`\
 bgm"m\huan.mp3"
 ld l,":a;e2\ama19.bmp",5
 ;「…………すみませんが、意味がわかりませんねぇ」@
+`"......Foi mal, mas... nﾃo estou te entendendo."`\@
 ld r,":a;e2\bat2-2.bmp",5
 ;「………そう、だよな」@
+´"......Pois ｪ."`@
 ld l,":a;e2\ama11.bmp",5
 ;「旦那？　本当にどうかしたんですかい？」@
+`"Patrﾃo? Tem certeza que nﾃo aconteceu nada?"`@
 ld r,":a;e2\bat2-1.bmp",5
 ;「ああ、きっと……どうかしてるん、だろ」\
+`"Sim, tenho certeza... que algo deve ter acontecido."`\
 ld l,":a;e2\ama19.bmp",5
 ;「おかしいのは旦那です。どうやら、自覚はあるようで。@
+`"ｴ vocｹ quem estｧ estranho. Parece que nﾃo acordou bem.`@
 ld l,":a;e2\ama11.bmp",5
 ;　『他に何かがおかしい』と旦那は思うんですかい？」@
+` O que mais vocｹ acha que “pode estar estranho”?"`@
 ld r,":a;e2\bat38.bmp",5
 ;「いや、そうじゃねぇ、そうじゃねぇんだ。ただ………」@
+`"Nﾃo ｪ bem isso... ｴ outra coisa. Sｫ que..."`@
 ld l,":a;e2\ama12.bmp",5
 ;「違和感を覚えるのは悪いことじゃないんですがね」\
+`"Nﾃo tem nada de errado em sentir que algo estｧ fora do lugar, sabia?"`\
 ld r,":a;e2\bat37.bmp",5
 ;「………？」@
+`"...?"`@
 ld l,":a;e2\ama11.bmp",5
 ;「あまり、覚えすぎるのも問題なんですよ」@
+`"ｴ mais uma questﾃo de lembrar demais."`@
 ld r,":a;e2\bat37.bmp",5
 ;「………十三？」@
+`"......Juuza?"`@
 ld l,":a;e2\ama4.bmp",5
 ;「この場所に、旦那は何か文句や不満がおありで？」\
+`"Vocｹ tem algum problema ou insatisfaﾆﾃo com este lugar?"`\
 ld r,":a;e2\bat38.bmp",5
 ;「はっ、あ？　急に何でそうなるんだよ」@
+`"Ah... hﾃ? Do que tｧ falando agora?"`\
 ld l,":a;e2\ama11.bmp",5
 ;「いいから、答えて下さいよ」@
+`"Vamos, responda."`@
 ld r,":a;e2\bat28.bmp",5
 ;「……………不満、文句？」@
+`"......Insatisfaﾆﾃo, problema?"`@
 ld l,":a;e2\ama12.bmp",5
 ;「あるなら、俺にも少しは答えようがあるかもしれませんぜ？」\
+`"Se tiver, talvez eu possa ter alguam resposta."`\
 ld r,":a;e2\bat37.bmp",5
 ;「いや、特にねぇよ。どうして急にそんなこと聞くんだ？」@
+`"Nﾃo, nada demais. Por que saber disso agora?"`@
 
 ld l,":a;e2\ama11.bmp",5
 ;「ないんなら、それでいいんです。@
+`"Se nﾃo tem, melhor.`@
 ld l,":a;e2\ama9.bmp",5
 ;　もしもあるんだったら、それは俺にとって寂しいことですが」@
+` Caso tivesse, seria desolador para mim."`@
 ld r,":a;e2\bat14.bmp",5
 ;「寂しい？　お前が何を寂しがることがあるんだよ」\
+`"Desolador? Vocｹ estｧ desolado com alguma coisa?"`\
 ld l,":a;e2\ama6.bmp",5
 ;「ひゃっは、俺は旦那のことを親友と思ってるんですぜ？」@
+`"Hyaah... Eu penso em vocｹ como meu melhor amigo, sabia?"`@
 ld r,":a;e2\bat31.bmp",5
 ;「へっ、えっ、はぁっ？」@
+`"Eh... hm... hﾃ?"`@
 ld l,":a;e2\ama24.bmp",5
 ;「見えないかもしれませんがねぇ。だから、旦那に不満があるのなら。@
+`"Embora eu possa nﾃo aparentar. Entﾃo, se tiver insatisfeito com algo,`@
 ld l,":a;e2\ama9.bmp",5
 ;　それは俺にとって寂しいことじゃねぇですか」\
+` isso seria desolador pra mim."`\
 ld r,":a;e2\bat38.bmp",5
 ;「い、いや。お前急に何を真面目に」@
+`"N-Nﾃo... por que comeﾆou a levar tﾃo a sｪrio?"`@
 ld l,":a;e2\ama2.bmp",5
 ;「そこのところは、どうなんですか旦那？」@
+`"Falando nisso, como se sente?"`@
 ld r,":a;e2\bat12.bmp",5
 ;「どうって、そりゃ……」@
+`"Como... bom..."`@
 ld l,":a;e2\ama9.bmp",5
 ;「答えてもらえると、嬉しいんですが？」\
+`"Eu ficaria feliz em ouvir sua resposta."`\
 ld r,":a;e2\bat37.bmp",5
 ;「別に不満なんてないぜ。お前は……」@
+`"Nﾃo diria que estou insatisfeito. Vocｹ ｪ..."`@
 ld l,":a;e2\ama1.bmp",5
 ld r,":a;e2\bat42.bmp",5
 ;「うん？」@
+`"Hm?"`@
 ;「お前は親友、だろ？だああああああッ！@
+`"Vocｹ ｪ... meu melhor amigo, nﾃo ｪ!?`@
 ld r,":a;e2\bat40.bmp",5
 ;　なんだってこんなこと言わなきゃならねぇんだ！」\
+` Nﾃo me faﾆa ficar falando essas coisas!"`\
 ld l,":a;e2\ama7.bmp",5
 ;「いっひっひ、ありがたい話ですねー」@
+`"Ihhihhi... Agradeﾆo por colocar pra fora."`@
 ld r,":a;e2\bat31.bmp",5
 ;「にやにやすんなッ！@
+`"Que sorrissinho ｪ esse?!`@
 ld r,":a;e2\bat33.bmp",5
 ;　人にこっぱずかしいことを言わせやがって！@
+` Nﾃo induza os outros a falarem coisas embaraﾆosas!`@
 ;　何なんだ一体、急に！」\
+` Sｪrio, o que deu em vocｹ!"`\
 ld l,":a;e2\ama24.bmp",5
 ;「いやー、言っておこうかなと思いました」@
+`"Bem, eu achei que deveria dizer."`@
 ld r,":a;e2\bat30.bmp",5
 ;「この生活にもお前にも別に不満はねぇよ！@
+`"Nﾃo tenho qualquer insatisfaﾆﾃo com essa vida ou com vocｹ!`@
 ;　だから、いちいち心配すんな！@
+` Entﾃo para de se preocupar com cada detalhe!`@
 ld l,":a;e2\ama10.bmp",5
 ld r,":a;e2\bat49.bmp",5
 ;　あーもー、びっくりしたじゃねぇか」\
+` Poxa, vocｹ chegou a me assustar, sabia?"`\
 ld l,":a;e2\ama11.bmp",5
 ;「心配、ですか。妙に核心を突きますねぇ、旦那」@
+`"Preocupado? Por estranho que pareﾆa, ｪ justamente essa a questﾃo, patrﾃo."`@
 ld r,":a;e2\bat41.bmp",5
 ;「あれ……何か俺変なことを言ったか？」@
+`"Uｪ... Eu disse algo estranho?"`@
 ld l,":a;e2\ama12.bmp",5
 ;「いいえ、言ってませんぜ。なるほどねぇ、心配、か。@
+`"Nﾃo, nﾃo disse. Entendi... preocupaﾆﾃo, ｪ?`@
 ld l,":a;e2\ama9.bmp",5
 ;　旦那がこれでいいなら、俺は文句も不満もありません」\
+` Se estｧ bom assim para vocｹ, eu tambｪm nﾃo tenho do que reclamar ou ficar insatisfeito."`\
 ld r,":a;e2\bat42.bmp",5
 ;「……妙に遠まわしな言い方だな？」@
+`"...Essa ｪ uma forma bem estranho de se colocar isso, nﾃo?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「旦那が幸せだって言うなら、俺はこれでいいんですよ」@
+`"Se vocｹ dizer que estｧ feliz, para mim estｧ ｫtimo."`@
 ld r,":a;e2\bat38.bmp",5
 ;「ま、またお前は妙な言い方を」@
+`"D-De novo falando de maneira estranha."`@
 ld l,":a;e2\ama7.bmp",5
 ;「ひゃっは―――でも、本当の話ですから」\
+"Hyaah... Mas ｪ verdade."`\
 ld l,":a;e2\ama8.bmp",5
 ld r,":a;e2\bat42.bmp",5
 ;「…………なぁ、天草」@
+`"......Ei. Amakusa."`\
 ld l,":a;e2\ama9.bmp",5
 ;「それじゃあ、教室移動しませんか？@
+`"Entﾃo, vamos trocar de sala?"`@
 ld l,":a;e2\ama24.bmp",5
 ;　これで遅刻でもしたら、またお嬢に怒られちまいますよ」@
+` Se chegar atrasado por causa disso, a ojou vai ficar furiosa denovo."`@
 ld r,":a;e2\bat37.bmp",5
 ;「あ、ああ、そうだな。縁寿は厳しいもんなぁ」\
+`"A-Ah, ｪ mesmo. A Ange ｪ bem rigorosa."`\
 ld l,":a;e2\ama9.bmp",5
 ;「一日の時間は決まってますからねぇ。@
+`"O dia tem um nｸmero fixo de horas, afinal.`@
 ld l,":a;e2\ama2.bmp",5
 ;　お嬢にとっては気が気じゃないんでしょう。@
+` Para ela isso deve ser bem angustiante.`@
 ld l,":a;e2\ama24.bmp",5
 ;　時は金なりって奴ですよ。@
+` Ela ｪ do tipo que diz que tempo ｪ dinheiro.`@
 ld l,":a;e2\ama4.bmp",5
 ;　楽しいことほど、短いもんだ」\
+` Quando mais vocｹ se diverte, mais rｧpido o tempo passa."`\
 
 ld r,":a;e2\bat2.bmp",5
 ;「大げさだなぁ。いつだって会えるだろう？」@
+`"Que exagero. Nﾃo nos vemos sempre?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「ええ、明日もあさっても会えますよ。@
+`"Sim. Amanhﾃ e depois de amanhﾃ tambｪm.`@
 ld l,":a;e2\ama9.bmp",5
 ;　今までだってそうだったんだ。@
+` Foi assim atｪ agora.`@
 ld l,":a;e2\ama19.bmp",5
 ;　多分、望もうが、望まなかろうが……」\
+` Talvez... querando ou nﾃo..."`\
 ld r,":a;e2\bat4.bmp",5
 ld l,":a;e2\ama12.bmp",5
 ;「ただ、何分、神様ってのは気まぐれな生き物でさ。@
+`"Afinal, de certa foram, Deus ｪ um ser caprichoso.`@
 ld l,":a;e2\ama24.bmp",5
 ;　一回くれた奇跡を二度とくれやしません。@
+` Nunca concede um milagre duas vezes.`@
 ld l,":a;e2\ama11.bmp",5
 ;　幸福な時間なんて、いつ終わるか知れたもんじゃない。@
+` Nunca se sabe quando os momentos de felicidade vﾃo terminar.`@
 ld l,":a;e2\ama24.bmp",5
 ;　お嬢にとって、この時間は何より貴重なもんなんでしょう」\
+` Para a ojou, esse tempo ｪ mais precioso do que qualquer outra coisa."`\
 
 ld r,":a;e2\bat2.bmp",5
 ;「おいおい、大袈裟な話だなぁ。@
+`"Ei, nﾃo tｧ exagerando?`@
 ;　特に縁寿は、家に帰ればいつも一緒だってのに」@
+` Especialmente para a Ange... Sempre voltamos juntos para casa."`@
 ld l,":a;e2\ama9.bmp",5
 ;「ええ、そうですね。家族っていうのはそういうもんです」@
+`"Sim, ｪ mesmo. Famｨlias sﾃo assim mesmo."`@
 ld r,":a;e2\bat9.bmp",5
 ;「ああ、そうだな……そういうもんだな」\
+`"Sim, isso mesmo... ｴ assim que tem que ser."`\
 ld l,":a;e2\ama2.bmp",5
 ;「お嬢と旦那は、家に帰れば一緒。@
+`"Vocｹs vﾃo juntos para casa.`@
 ld l,":a;e2\ama19.bmp",5
 ;　本当は、それが正しいはずなんだ」@
+` ｴ assim que deve ser."`@
 ld r,":a;e2\bat44.bmp",5
 ;「そうだろ？　前は家から離れたけどな。@
+`"Pois ｪ. Apesar que eu cheguei a sair de casa.`@
 ;　家に帰るって決めた後はずっと……」\
+` Depois decidi que retornaria...`"\
 ld l,":a;e2\ama4.bmp",5
 ;「だから、こそですよ」@
+`"Justamente por isso."`@
 ld r,":a;e2\bat41.bmp",5
 
 ;「えっ？」@
+`"Hﾃ?"`@
 ld l,":a;e2\ama11.bmp",5
 ;「だからこそ、アンタがいないのが不安なんですよ」@
+`"Por isso estou preocupado com a sua ausｹncia."`@
 ld r,":a;e2\bat37.bmp",5
 ;「？　わけがわからねぇぞ。俺はここにいるじゃねぇか」\
+`"? Do que tｧ falando? Eu nﾃo estou bem aqui?"`\
 ld l,":a;e2\ama9.bmp",5
 ;「ええ、いますね。旦那は俺達と一緒にいる。@
+`"Claro, estｧ aqui. Nｫs estamos juntos.`@
 ld l,":a;e2\ama11.bmp",5
 ;　でも、だからこそ不安だって言う感情もあるでしょう」@
+` Mas ｪ por isso que digo que me sinto preocupado."`@
 ld r,":a;e2\bat34.bmp",5
 ;「一緒にいるのに………不安？」@
+`"Mesmo estando juntos... vocｹ estｧ preocupado?"`@
 ld l,":a;e2\ama2.bmp",5
 ;「ええ、今だけ、一緒にいるからこその不安です」\
+`"Sim, estou preocupado por estarmos juntos agora."`\
 ld r,":a;e2\bat41.bmp",5
 ;「いつか離れるかもしれないってことか？」@
+`"Estｧ falando que podemos nos separar algum dia?"`@
 ld l,":a;e2\ama22.bmp",5
 ;「ええ、そうですね」@
+`"Sim, isso mesmo."`@
 ld r,":a;e2\bat42.bmp",5
 ;「でも、そんなもん、怯えてても仕方がないだろう？」@
+`"Mas isso ｪ algo que nﾃo adianta ter medo, certo?"`@
 ld l,":a;e2\ama11.bmp",5
 ;「ええ、仕方がないですがお嬢は怯えている」\
+`"Sim, nﾃo adianta, mas a ojou estｧ."`\
 textoff
 bgmfadeout 1000
 bgmstop
@@ -2080,6 +2200,7 @@ texton
 br
 br
 ;　　　　　　　「そして、それは俺にとっても同じことです」\
+`　　　　　　　"E o mesmo vale para mim."`\
 textoff 
 bgmonce"m\doa.wav"
 wait 1000
@@ -2088,148 +2209,212 @@ texton
 ld r,":a;e2\bat37.bmp",5
 ld l,":a;e2\ama8.bmp",5
 ;「移動教室、だったよな？」@
+`"Tｨnhamos que mudar de sala, nｪ?"`@
 ld l,":a;e2\ama9.bmp",5
 ;「ええ、そうですよ？」@
+`"Sim, nｫs temos."`@
 ld r,":a;e2\bat28.bmp",5
 ld l,":a;e2\ama2.bmp",5
 ;「なぁ、図書室って……？」@
+`"Ei, a biblioteca..."`@
 ld l,":a;e2\ama4.bmp",5
 ;「階段を降りて一階です。まだボケてま…って！」\
+`"Primeiro andar, descendo as escadas. Ainda tｧ dormindo?!"`\
 ld r,":a;e2\bat40.bmp",5
 ld l,":a;e2\ama16.bmp",5
 bgm"m\bea.mp3"
 ld c,":a;e2\bea13.bmp",5
 ;「グッモーニングばとらあああああああああああ！！！」@
+`"Good morning, Battlerrrrrrrrrrr!!!"`@
 wave"m\naguru.wav"
 cl r,1,800
 ;「ぐわはっ！」@
+`"Gkh!"`@
 ld l,":a;e2\ama16.bmp",5
 ;「はいっ？　ベアトさん！？」@
+`"sim? Beato-san?!"`@
 ld c,":a;e2\bea19.bmp",5
 ;「ヤッフウウウウウウウウ！　元気にしてたかぁああああ？」\
+`"Yahoooooooo! Passou beeeeem?!"`\
 ld l,":a;e2\ama4.bmp",5
 ;「あの、ベアトさん。旦那死んだように見えたんですが？」@
+`"Ei, Beato-san. O patrﾃo nﾃo parece ter morrido?"`@
 ld c,":a;e2\bea13.bmp",5
 ;「何を言うか！　そんなにヤワじゃねぇよなぁ戦人ァ？@
+`"Do que tｧ falando? O Battler nﾃo ｪ tﾃo frｧgil assim, ｪ?`@
 ld c,":a;e2\bea2.bmp",5
 ;　やればもっとできる子だよなぁ？　って、あ、あれ？」@
+` Ele ｪ do tipo que consegue quando se esforﾆa, nﾃo? Espera... Uｪ?"`@
 ld c,":a;e2\bea8.bmp",5
 ld l,":a;e2\ama19.bmp",5
 ;「ほら、人間は結構脆いってこと忘れてるでしょう」\
+`"Esqueceu como os humanos sﾃo frｧgeis?"`\
 
 ld c,":a;e2\bea22.bmp",5
 ;「な、何で戦人泡吹いてんだよぉ。妾のせいかよぉ」@
+`"P-Por que o Battler tｧ espumando?! ｴ minha culpa?"`@
 ld l,":a;e2\ama24.bmp",5
 ;「いやー、残念ながら。@
+`"Bem, infelizmente.`@
 ;　これは言い訳のしようなく、ベアトさんのせいですねぇ…」@
+` Nﾃo importa que desculpa dｹ, isso ｪ culpa sua, Beato-san..."`@
 ld c,":a;e2\bea24.bmp",5
 ;「なんだよー妾のせいかよー。悪いのは戦人だろー！」\
+`"Como que ｪ minha culpa? ｴ culpa do Battler, nﾃo ｪ?!"`\
 ld c,":a;e2\bea6.bmp",5
 ;「妾は戦人をそんな軟弱に育てた覚えはないぞ」@
+`"Nﾃo me lembro de ter criado o Battler para ser um fracote".`@
 ld l,":a;e2\ama12.bmp",5
 ;「ベアトさん、旦那のお母さんだったんですか？@
+`"Beato-san, vocｹ ｪ mﾃe do patrﾃo?`@
 ld l,":a;e2\ama24.bmp",5
 ;　だったらなおさら、鳩尾一発はキツイでしょう」@
 ld c,":a;e2\bea24.bmp",5
 ;「普通は鳩尾一発でなぞ倒れぬだろう！」\
+`"Nﾃo ｪ normal cair sｫ com um
 ld l,":a;e2\ama12.bmp",5
 ;「旦那はどれだけ頑丈な生き物ですか。十分に致命傷ですって」@
+`"Nﾃo importa o quﾃo durﾃo o patrﾃo seja, foi o suficiente para ser falta."`@
 ld c,":a;e2\bea6.bmp",5
 ;「戦人ならイケルと妾は信じておった！」@
+`"Eu acreditei que o Battler fosse capaz!"`@
 ld l,":a;e2\ama14.bmp",5
 ;「まぁ、ご覧のあり様ですね」@
+`"Bom, veja o estado que ele ficou."`@
 ld c,":a;e2\bea7.bmp",5
 ;「むぅっ、イケルと思ったのだが、戦人ー戦人ー起きよー！」\
+`"Hmm... Achei que ele aguentava... Battler, acorda Battler!"`\
 ld l,":a;e2\ama4.bmp",5
 ;「っていうか、ベアトさん。今日は早すぎませんか？」@
+`"Na real, nﾃo chegou muito cedo hoje, Beato-san?"`@
 ld c,":a;e2\bea15.bmp",5
 ;「ん？　なんだ、もしかして妾に文句があるのか、十三？」@
+`"Hm? Vai reclamar de mim por acaso, Juuza?"`@
 ld l,":a;e2\ama22.bmp",5
 ;「いいえ、特に。ただ、お嬢は怒るでしょうなぁ。@
+`"Nﾃo, nada demais. Sｫ acho que a ojou vai se irritar.`@
 ld l,":a;e2\ama11.bmp",5
 ;　アンタはいつもは遅刻して来るはずですから」\
+` Vocｹ sempre deveria chegar atrasada."`\
 ld c,":a;e2\bea13.bmp",5
 ;「ふふん、妾は毎日規則正しく生きておるぞ！@
+`"Fuun... Eu decidi ter uma vida regrada!`@
 ld c,":a;e2\bea2.bmp",5
 ;　今日も元気に早寝早起きよ！@
+` Dormi cedo e acordei cedo!`@
 ld c,":a;e2\bea11.bmp",5
 ;　さらに、今日はちゃんと早くに学校を出た！@
+` E ainda cheguei mais cedo na escola!`@
 ld c,":a;e2\bea2.bmp",5
 ;　そう毎日毎日、遅刻をするわけではないわ！」\
+` Nﾃo ｪ todo dia que eu me atraso!"`\
 
 ld l,":a;e2\ama6.bmp",5
 ;「なるほどねぇ、それはわかりました。@
+`"Faz sentido. Entendi.`@
 ld l,":a;e2\ama14.bmp",5
 ;　で、結局は気まぐれってことですよね。@
+` Entﾃo, foi puro capricho?`@
 ;　流石ベアトさんですよ、理由は本当にないようだ。@
+` Como esperado de vocｹ. Nﾃo precisa de um motivo especｨfico.`@
 ld l,":a;e2\ama19.bmp",5
 ;　……それに対する言い訳は何かありますか？」\
+` ...E qual seria a sua desculpa pra isso?"`\
 bgmfadeout 1000
 bgmstop
 bgm"m\huon.mp3"
 ld c,":a;e2\bea18.bmp",5
 ;「ハッ、妾が遅刻しない時があって何が悪い」@
+`"Ha! O que tem mal de em eu nﾃo me atrasar?"`@
 ld l,":a;e2\ama12.bmp",5
 ;「まぁ、確かに。@
+`"Bom, tem razﾃo.`@
 ld l,":a;e2\ama22.bmp",5
 ;　それくらいのイレギュラーは問題ないでしょう。@
+` Nﾃo tem nada de errado em uma irregularida dessas.`@
 ld l,":a;e2\ama4.bmp",5
 ;　そこまで文句をつけるつもりは、俺にはありませんぜ」\
+` Nﾃo pretendo reclamar quanto a isso."`\
 ld c,":a;e2\bea15.bmp",5
 ;「話の分かる男よ。あの小娘とは違うようだな。@
+`"Homem que entende rｧpido. Completamente diferente daquela garotinha.`@
 ld c,":a;e2\bea24.bmp",5
 ;　何が時間配分よ。息が詰まって仕方がないわ。@
 ld c,":a;e2\bea21.bmp",5
 ;　クククッ、どうして身についたかは知らぬがな。@
+` Kukuku... 
 ld c,":a;e2\bea14.bmp",5
 ;　そなたのその達観具合を、妾は嫌いではないぞ」\
+``\
 ld l,":a;e2\ama11.bmp",5
 ;「達観とは、またちょっと違うつもりなんですがねぇ。@
+``@
 ld l,":a;e2\ama24.bmp",5
 ;　まぁ、アンタにそう見えるならそれでもいいですよ」@
+``@
 ld c,":a;e2\bea18.bmp",5
 ;「どちらでも問題ない。@
+``@
 ld c,":a;e2\bea21.bmp",5
 ;　やかましく騒がれるよりはよっぽどいいわ」\
+``\
 ld l,":a;e2\ama4.bmp",5
 ;「ええ、俺はお嬢とは考え方が違いますからね。@
+``@
 ld l,":a;e2\ama12.bmp",5
 ;　この状況に対して異論も賛同もしない。@
+``@
 ld l,":a;e2\ama11.bmp",5
 ;　俺は執着もしなければ、反論もしない。@
+``@
 ld l,":a;e2\ama22.bmp",5
 ;　アンタがやることには基本的に文句ありません」\
+``\
 
 ld c,":a;e2\bea4.bmp",5
 ;「それならば、黙っておれ。妾の行動なぞ気分次第よ」@
+``@
 ld l,":a;e2\ama12.bmp",5
 ;「ですが、時間の配分は忘れないで欲しいもんですね。@
+``@
 ld l,":a;e2\ama19.bmp",5
 ;　後、その気まぐれも度が過ぎれば本気で怒りますよ」@
+``@
 ld c,":a;e2\bea14.bmp",5
 ;「ほぅっ、怒ってどうするのだ？　ぜひ聞きたいものよ」\
+``\
 ld l,":a;e2\ama12.bmp",5
 ;「ひゃっは、止めておきますぜ。@
+``@
 ld l,":a;e2\ama24.bmp",5
 ;　最初から手の内を明かす程の馬鹿に見えますかい？」@
+``@
 ld c,":a;e2\bea15.bmp",5
 ;「ただ単に無策なだけであろう？　貴様に何が出来る？」@
+``@
 ld l,":a;e2\ama19.bmp",5
 ;「アンタが俺の何を知っていますか？」\
+``\
 
 ;「ッ……こ、の……や……」@
+``@
 ld c,":a;e2\bea18.bmp",5
 ;「ククククッ、そう言いながら悔しげな声を出すではないか」@
+``@
 ld l,":a;e2\ama16.bmp",5
 ;「いや、今のは俺じゃありませんぜ？」@
+``@
 ld c,":a;e2\bea6.bmp",5
 ;「ん？　それならば一体誰だ？」\
+``\
 bgmfadeout 1000
 bgmstop
 br
 ;「っ、て、てめぇ……ベアト……。@
+`"Des...graﾆada... Beato...`@
 ld r,":a;e2\bat31.bmp",5
 ;　死にかけたぞこらあああああああああああああああッ！」\
+` Eu quase morri, desgraﾆaadaaaaaaaaaaaaaaa!"`\
 bgm"m\school1.mp3"
 ld c,":a;e2\bea13.bmp",5
 ld l,":a;e2\ama7.bmp",5
@@ -4937,19 +5122,24 @@ erasetextwindow 0
 saveon
 br
 ;（……………何か夢を見ていた気がする）\
+`(.........Sinto que estava sonhando.)`\
 
 br
 ;「…………………な………だ……な」\
+`"......o...que...?"`\
 br
 ;（……俺は、前にもこの夢を見たことがある）\
 br
 ;「……………だん、な………だんなー？……」\
+`"......o...que...era...?"\
 br
 ;（そう、見たことがある……確かにあるんだ）\
 br
 ;「……………聞こえてないんですかね　だんなー？」\
+`"......Nﾃo tｧ me ouvindo, patrﾃo?"`\
 br
 ;（けれども、一体………？）\
+`(Mas o que ｪ isso...?)`\
 br
 ;　　　　　　　　　　　（何を思い出せと言うんだ？）\
 `　　　　　　　　　　　(O que voce quer que eu lembre?)`\
@@ -4958,6 +5148,7 @@ quake 6,300
 bgm"m\school1.mp3"
 ;「うわあっ！！」@
 ;「あーあ、何やってんですか全く」\
+`"Aahh... Fala sｪrio, o que tｧ fazendo?"`\
 ld r,":a;e2\bat38.bmp",7
 ld l,":a;e2\ama2.bmp",7
 ;「じ、十三？ 　ああ、もしかして俺はまた寝てたのか」@
