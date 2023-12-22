@@ -2170,7 +2170,7 @@ ld r,":a;e2\bat37.bmp",5
 `"? Do que tｧ falando? Eu nﾃo estou bem aqui?"`\
 ld l,":a;e2\ama9.bmp",5
 ;「ええ、いますね。旦那は俺達と一緒にいる。@
-`"Claro, estｧ aqui. Nｫs estamos juntos.`@
+`"Claro, estｧ aqui. Nｫs existimos juntos.`@
 ld l,":a;e2\ama11.bmp",5
 ;　でも、だからこそ不安だって言う感情もあるでしょう」@
 ` Mas ｪ por isso que digo que me sinto preocupado."`@
@@ -2179,7 +2179,7 @@ ld r,":a;e2\bat34.bmp",5
 `"Mesmo estando juntos... vocｹ estｧ preocupado?"`@
 ld l,":a;e2\ama2.bmp",5
 ;「ええ、今だけ、一緒にいるからこその不安です」\
-`"Sim, estou preocupado por estarmos juntos agora."`\
+`"Sim, estou preocupado por existirmos juntos agora."`\
 ld r,":a;e2\bat41.bmp",5
 ;「いつか離れるかもしれないってことか？」@
 `"Estｧ falando que podemos nos separar algum dia?"`@
@@ -2345,68 +2345,68 @@ ld c,":a;e2\bea21.bmp",5
 ` Kukuku... 
 ld c,":a;e2\bea14.bmp",5
 ;　そなたのその達観具合を、妾は嫌いではないぞ」\
-``\
+`Essa sua maneira de ver as coisas nﾃo me desagrada."`\
 ld l,":a;e2\ama11.bmp",5
 ;「達観とは、またちょっと違うつもりなんですがねぇ。@
 ``@
 ld l,":a;e2\ama24.bmp",5
 ;　まぁ、アンタにそう見えるならそれでもいいですよ」@
-``@
+`Bom, se ｪ como vｹ, tudo bem."`@
 ld c,":a;e2\bea18.bmp",5
 ;「どちらでも問題ない。@
-``@
+`"Seja como for, nﾃo tem problmea`@
 ld c,":a;e2\bea21.bmp",5
 ;　やかましく騒がれるよりはよっぽどいいわ」\
-``\
+`Muito melhor que ser ruidoso e agitado."`\
 ld l,":a;e2\ama4.bmp",5
 ;「ええ、俺はお嬢とは考え方が違いますからね。@
-``@
+`"Sim, meu pensamento diverge da ojouo.`@
 ld l,":a;e2\ama12.bmp",5
 ;　この状況に対して異論も賛同もしない。@
-``@
+`Eu nﾃo me oponho nem edorso essa situaﾆﾃo.`@
 ld l,":a;e2\ama11.bmp",5
 ;　俺は執着もしなければ、反論もしない。@
-``@
+`Eu nﾃo apoio nem faﾆo objeﾆﾃo.`@
 ld l,":a;e2\ama22.bmp",5
 ;　アンタがやることには基本的に文句ありません」\
-``\
+`Basicamente nﾃo tenho nada a reclamar sobre a maneira com que faz as coisas.`\
 
 ld c,":a;e2\bea4.bmp",5
 ;「それならば、黙っておれ。妾の行動なぞ気分次第よ」@
-``@
+`Se ｪ assim, cale-se. Minhas aﾆｷes dependem do momento.`@
 ld l,":a;e2\ama12.bmp",5
 ;「ですが、時間の配分は忘れないで欲しいもんですね。@
-``@
+`"Mas espero que nﾃo se esqueﾆa de alocar seu tempo, certo?`@
 ld l,":a;e2\ama19.bmp",5
 ;　後、その気まぐれも度が過ぎれば本気で怒りますよ」@
-``@
+`Vou acabar me estressando depois se esse capricho passar do limite."`@
 ld c,":a;e2\bea14.bmp",5
 ;「ほぅっ、怒ってどうするのだ？　ぜひ聞きたいものよ」\
-``\
+`"Hoh? E o que farｧ depois? Eu adoraria ouvir."`\
 ld l,":a;e2\ama12.bmp",5
 ;「ひゃっは、止めておきますぜ。@
-``@
+`Hyahh... Vou ter que contｹ-la.`@
 ld l,":a;e2\ama24.bmp",5
 ;　最初から手の内を明かす程の馬鹿に見えますかい？」@
-``@
+`Eu pareﾆo idiota ao ponto de revelar meu trunfo desde o inｨcio?"`@
 ld c,":a;e2\bea15.bmp",5
 ;「ただ単に無策なだけであろう？　貴様に何が出来る？」@
-``@
+`Vocｹ ｪ meramente incapaz.`@ O que poderia fazer?"@
 ld l,":a;e2\ama19.bmp",5
 ;「アンタが俺の何を知っていますか？」\
-``\
+`O que vocｹ sabe sobre mim?"`\
 
 ;「ッ……こ、の……や……」@
-``@
+`!...Mal...dita...ta..."`@
 ld c,":a;e2\bea18.bmp",5
 ;「ククククッ、そう言いながら悔しげな声を出すではないか」@
-``@
+`"Kukuku! Vocｹ fala isso com uma voz tﾃo frustrada, nﾃo?"`@
 ld l,":a;e2\ama16.bmp",5
 ;「いや、今のは俺じゃありませんぜ？」@
-``@
+`Nﾃo... Nﾃo fui eu quem falou."`@
 ld c,":a;e2\bea6.bmp",5
 ;「ん？　それならば一体誰だ？」\
-``\
+`Hm? Entﾃo quem foi?"`\
 bgmfadeout 1000
 bgmstop
 br
@@ -2419,56 +2419,56 @@ bgm"m\school1.mp3"
 ld c,":a;e2\bea13.bmp",5
 ld l,":a;e2\ama7.bmp",5
 ;「ふぉっ！　グッモオオオオニイイイング戦人ァッ！！@
-
+`"Hoh" G'moooooniiiiing, Battlerrr!!`@
 ;　元気そうで何よりではないかッ！！@
 
 ld c,":a;e2\bea4.bmp",5 
 ;　思ったよりも軟弱な男よ！@
-
+` ｴ um homem muito mais fraco que imaginei!`@
 ld c,":a;e2\bea18.bmp",5
 ;　てっきり、死んじまったかと思ったぜェッ！！」\
-
+` Cheguei pensar que tinha morrido!!"`\
 ld r,":a;e2\bat39.bmp",5
 ;「人を勝手に殺すんじゃねぇええええッ！！ @
-
+`"Pare de tentar matar os outros!!!`@
 ;　テメェに殺されてたまるかってんだ！@
-
+` Atｪ parece que eu morreria para vocｹ!`@
 ld r,":a;e2\bat30.bmp",5
 ;　人の鳩尾に拳いれやがって。@
-
+` Fica socando o estﾛmago dos outros...`@
 ;　朝っぱらからどんな無茶苦茶なテンションだよ！」\
-
+` Essa hora da manhﾃ e vocｹ jｧ estｧ completamente alucinada!`\
 ld c,":a;e2\bea12.bmp",5
 ;「ハンッ、朝からテンションが高くて何が悪い！@
-
+`"Hﾃ? Qual o problema de estar alucinada logo pela manhﾃ?!`@
 ld c,":a;e2\bea18.bmp",5
 ;　ふぬけた表情をしているよりはよっぽどマシであろう？@
-
+` ｴ muito melhor do que andar por aｨ igual um molenga, nﾃo?"`@
 ld r,":a;e2\bat28.bmp",5
 ld c,":a;e2\bea13.bmp",5
 ;　どうだどうだ戦人ァ！　褒めてもいいぜぇ！@
-
+` Que tal? Que tal, Battﾆer? Elogie-me ﾚ vontade!`@
 ld c,":a;e2\bea3.bmp",5
 ;　そなたの望み通り、たまには遅刻せずに来てやったぞォ！」\
-
+` Bem como queria, eu nﾃo cheguei atrasada dessa vez!"`\
 ld r,":a;e2\bat40.bmp",5
 ;「どうして俺がテメェを褒めなくちゃならねぇんだよ！@
-
+`"Por que diabos eu tenho que te elogiar?!`@
 ld r,":a;e2\bat31.bmp",5
 ;　そもそも、遅刻しないのは普通のことだろうが！」@
-
+` Pra comeﾆo de conversa, o normal ｪ nﾃo chegar atrasada!"`@
 ld c,":a;e2\bea6.bmp",5
 ;「なんだよなんだよー。ツレねぇなぁ。@
-
+`"Qual foi? Vocｹ nﾃo ajuda, hein?`@
 ld c,":a;e2\bea3.bmp",5
 ;　いい子にしたんだからよぉ、ご褒美の一つくらい寄こせよォ」\
-
+` Eu fui uma boa garota, entﾃo trate de ao menos me dar uma recompensa."`\
 ld r,":a;e2\bat40.bmp",5
 ;「うるせぇ、人の鳩尾に拳めり込ませてどこがいい子だ！！」@
-
+`"Cala a boca... Onde que sair socando os outros ｪ ser uma boa garota?!"`@
 ld c,":a;e2\bea4.bmp",5
 ;「それくらいかわいいイタズラじゃねぇかよぉおおおお！！@
-
+`"Nﾃo passa de uma travessura adorｧvel, nﾃo acha?!`@
 ld c,":a;e2\bea13.bmp",5
 ;　褒めてもバチは当たらねぇぜ、って。@
 
@@ -2476,19 +2476,21 @@ cl c,1,800
 wave"m\nuno.wav"
 ld l,":a;e2\hutariab.bmp",5
 ;　―――――んにゃ？」\
+`―――――Nnya?!"`\
 
 ;「はいはい、ベアトさんもいい加減落ちついて」@
-
+`"Tｧ, tｧ... Baixe essa bola, Beato-san."`@
 ld l,":a;e2\hutariab2.bmp",5
 ;「むっ、一体何をするか。放さぬか十三！　こらッ！　とうっ！」@
-
+`"Poxa, o que tｧ fazendo? Me solta, Juuza! Ei! Vai!"`@
 wave"m\tann.wav"
 ld l,":a;e2\ama7.bmp",5
 ld c,":a;e2\bea25.bmp",5
 ;「猫の子みてぇに暴れないで下さいよ。@
+`"Nﾃo faﾆa um escarcｪu como se fosse um gato.`@
 ld l,":a;e2\ama9.bmp",5
 ;　旦那もベアトさんも。ここが学校だって忘れてませんか？」\
-
+` Patrﾃo, Beato-san... Esqueceram que esta ｪ uma esola?"`\
 ld r,":a;e2\bat41.bmp",5
 bgmfadeout 1000
 bgmstop
@@ -2497,9 +2499,10 @@ ld c,":a;e2\bea22.bmp",5
 ld r,":a;e2\bat40.bmp",5
 br
 ;「「あああああああああああああ」」@
-
+`""Aaaaaaaaaaaahhhhhh""`@
 ld l,":a;e2\ama7.bmp",5
 ;「だから言ったんですよー」\
+`"Por isso avisei, poxa."`\
 textoff
 saveoff
 bg#000000,9
@@ -2512,66 +2515,68 @@ saveon
 ld r,":a;e2\bat30.bmp",5
 ld l,":a;e2\bea13.bmp",5
 ;「ちくしょう。朝っぱらから叱られるわ最悪な一日だぜ」@
-
+`"Merda. Pensar que seria repreendio logo pela manhﾃ. Que dia horrｨvel."`@
 ld l,":a;e2\bea24.bmp",5
 ;「なんだよなんだよ。過ぎたことで文句を言うんじゃねぇよ。@
-
+`"Chegua disso. Nﾃo reclame do que jｧ passou!`@
 ld l,":a;e2\bea3.bmp",5
 ;　いつまでもこだわるっておってもロクなことがないぞ」@
-
+` Nﾃo ｪ aceitｧvel passar o tempo todo obcecado com isso"`@
 ld r,":a;e2\bat31.bmp",5
 ;「だから、それをテメェが言うなテメェが」\
-
+`"Olha quem falando!"`\
 ld l,":a;e2\bea13.bmp",5
 ;「まぁいいじゃねぇか戦人ァ！　待ちに待った昼飯だぜぇ！」@
-
+`"Bom, qual o problema, Battler? A tﾃo esperada hora do almoﾆo chegou!"`@
 ld r,":a;e2\bat27.bmp",5
 ;「あぁ、そうだな。やっと一息つけるぜ！@
-
+`"Sim, ｪ mesmo. Finalmente um respiro!`@
 ld r,":a;e2\bat18.bmp",5
 ;　言っとくがな。今日はテメェに絶対に飯はやらねぇからな」@
-
+` Pra que fique avisado: nﾃo vou deixar que fique com a minha comida, ouviu?!"`@
 ld l,":a;e2\bea24.bmp",5
 ;「ハッ、人を乞食のように言うでないわ」\
-
+`"Ah... Nﾃo fale como se eu fosse uma pedinte"`\
 ld r,":a;e2\bat4.bmp",5
 ;「つまり、今日のお前に俺の飯を奪うつもりはないわけか？」@
-
+`"Entﾃo nﾃo pretende roubar meu almoﾆo hoje?!`@
 ld l,":a;e2\bea13.bmp",5
 ;「うむ、その通りよ！ @
-
+`"Claro que nﾃo!`@
 ld l,":a;e2\bea4.bmp",5
 ;　妾とて、毎回毎回、そなたの飯を奪っているわけではないわ。@
-
+` Nﾃo vale a pena para mim ficar roubando sua comida todos os dias.`@
 ld l,":a;e2\bea2.bmp",5
 ;　今日はロノウェの三段弁当だけで十分に満足よ！」\
-
+` O bentou de trｹs camadas do Ronove me ｪ suficiente para hoje!"`\
 ld r,":a;e2\bat3.bmp",5
 ;「ふーん、どんな心境の変化かは知らねぇけどよ。@
-
+`"Hmmm... Nﾃo sei que bicho te mordeu para mudar de atitude assim.`@
 ;　それはありがたい話だぜ。素直に喜んでやる。@
-
+` Mas eu fico muito feliz em ouvir isso. De verdade.`@
 ld r,":a;e2\bat27.bmp",5
 ;　これで、安心して飯が食えるってもんだぜ」@
-
+` Agora posso almoﾆar mais tranquilo."`@
 ld l,":a;e2\bea11.bmp",5
 ;「うむ、存分に喜ぶがいいぞ」\
-
+`"Claro, ｪ bom que alegre-se."`\
 ld r,":a;e2\bat41.bmp",5
 ld l,":a;e2\bea1.bmp",5
 ;「ん、何処に行くんだベアト？」@
-
+`"Hﾃ? Aonde vai, Beato?"`@
 ld l,":a;e2\bea6.bmp",5
 ;「飲み物を忘れた。苺牛乳を買ってくる。@
+`"Esqueci a bebida. Vou comprar um leite com morango.`@
 
 ld l,":a;e2\bea15.bmp",5
 ;　ところで、戦人。そなたゆっくりしているようだがな？@
-
+` A propｫsito, Battler. Parece estar bem tranquilo, nﾃo?`@
 ld l,":a;e2\bea8.bmp",5
 ;　確か、縁寿に呼ばれていたのではなかったか？」\
-
+` A Ange nﾃo tinha chamado vocｹ?"`\
 ld r,":a;e2\bat31.bmp",5
 ;「あっ、やべっ。忘れてた！」@
+`"Ah, droga! Tinha esquecido!"`@
 
 ld l,":a;e2\bea15.bmp",5
 ;「上級生のクラスまで出向き、わざわざ伝言を残すとは。@
@@ -2581,64 +2586,68 @@ ld l,":a;e2\bea17.bmp",5
 
 ld l,":a;e2\bea27.bmp",5
 ;　女との約束を簡単に忘れるではないわ」\
+` Nﾃo esqueﾆa tﾃo facilmente suas promessas com mulheres."`\
 
 ld r,":a;e2\bat32.bmp",5
 ;「言われなくても、分かってるって。@
+`"Nﾃo precisa ficar falando. Eu sei muito bem disso.`@
 
 ld r,":a;e2\bat46.bmp",5
 ;　教えてくれてありがとな。@
-
+` Obrigada por me lembrar.`@
 ld l,":a;e2\bea1.bmp",5
 ld r,":a;e2\bat44.bmp",5
 ;　しかし、一体全体、縁寿は何の用なんだ？」@
-
+` Mas... o que diabos a Ange poderia querer?"`@
 ld l,":a;e2\bea17.bmp",5
 ;「……まぁ、大体は予想ができるがな」\
-
+`"...Bom, eu consigo imaginar o que seja."`\
 ld r,":a;e2\bat2.bmp",5
 ;「それじゃあ、行ってくるぜ」@
-
+`"Atｪ depois. Estou indo lｧ."`@
 ld l,":a;e2\bea9.bmp",5
 ;「うむ、行って来い。@
-
+`"Hm! Vｧ e volte!`@
 ld l,":a;e2\bea11.bmp",5
 ;　妾も苺牛乳を買って、戻って来るわ。@
-
+` Eu tambｪm vou comprar meu leite e depois voltarei.`@
 ld l,":a;e2\bea15.bmp",5
 ;　そなたが先に戻って来たなら、食べるのは待っておれよ？」\
-
+` Vai me esperar para comer caso chegue primeiro?"`\
 ld r,":a;e2\bat27.bmp",5
 ;「ハッ、俺が後だったらどうせ先にモリモリ食べてる癖によ。@
-
+`"Ah, se eu chegar depois, fique ﾚ vontade para ficar comendo igual um esquilo.`@
 ld r,":a;e2\bat46.bmp",5
 ;　勝手な奴だな。よく言うぜ」@
+` ｴ mesmo um atrevido. Como ousa dizer isso?"`@
 
 ld l,":a;e2\bea6.bmp",5
 ;「そんなことはないぞ。妾だって待つ時は待つわ。@
-
+`"Isso nﾃo ｪ verdade. Quando ｪ preciso esperar, eu espero.`@
 ld l,":a;e2\bea4.bmp",5
 ;　昼飯の時間を少し送らせるくらいは些細なことよ」\
-
+` Atrasar um pouco o almoﾆo nﾃo ｪ nada demais."`\
 ld r,":a;e2\bat44.bmp",5
 ;「本当か？　今日は随分と大人しいじゃねぇか」@
-
+`"De verdade? Tｧ muito comportada hoje
 ld l,":a;e2\bea15.bmp",5
 ;「ふん、妾だってこんな日もあるわ。@
+`"Hmm... Atｪ eu tenho dias assim.`@
 ld l,":a;e2\bea12.bmp",5
 ;　後ほど合流して、共に昼食をとろうぞ」@
-
+` Vamos nos encontrar depois e almoﾆarmos juntos."`@
 ld r,":a;e2\bat46.bmp",5
 ;「あぁ、分かったそれじゃあな、ベアト」\
-
+`"Certo, beleza. Atｪ depois, Beato."`\
 ld l,":a;e2\bea2.bmp",5
 ;「それではな、苺牛乳を求めて行ってくるわ」@
-
+`"Sendo assim, vou atrｧs do meu leito com morango."`@
 ld r,":a;e2\bat10.bmp",5
 ;「おおー、下級生に負けるなよー。@
-
+`"Vai lｧ! Nﾃo perca para os novatos.`@
 ld r,":a;e2\bat2.bmp",5
 ;　途中で十三に会ったら、コーヒー牛乳を受け取っておいてくれ」@
-
+` Se encontar o Juuza no meio do caminho, pede um cafｪ com leite pra mim."`@
 ld l,":a;e2\bea13.bmp",5
 ;「うむ、わかったわ！　行ってくるがよい！」\
 `"Claro, entendi! Pode ir!"`\
@@ -2654,17 +2663,20 @@ saveon
 ld r,":a;e2\bat4.bmp",5
 texton
 ;「えーっと。縁寿は二階だよな。って、あれ？」@
+`"Entﾃo... A sala da Ange ｪ no segundo andar, nｪ? Uｪ?"`@
 ld l,":a;e2\en9.bmp",5
 ld r,":a;e2\bat12.bmp",5
 ;「…………」@
 `"........."`@
 ld r,":a;e2\bat46.bmp",5
 ;「縁寿、わざわざ来てくれたのか！@
+`"Nﾃo precisava ter vindo atｪ aqui, Ange!`@
 
 ld r,":a;e2\bat12.bmp",5
 ld l,":a;e2\en2-7.bmp",5
 ld l,":a;e2\en3-1.bmp",5
 ;　って……へっ？」\
+` Espera... Hﾃ?"`\
 bgmfadeout 1000
 bgmstop
 ld l,":a;e2\en3-2.bmp",5
@@ -2676,156 +2688,229 @@ ld c,":a;e2\en3-8.bmp",5
 ld r,":a;e2\bat13.bmp",5
 bgm"m\piano.mp3"
 ;「えっ、縁寿？」@
+`"Quｹ? Ange?"`@
 ld c,":a;e2\en3-4.bmp",5
 ;「よかった…よかった…ちゃんと、ちゃんといた」@
+`"Ainda bem... Graﾆas a Deus...Vocｹ estｧ aqui."`@
 ld r,":a;e2\bat38.bmp",5
 ;「縁寿？　どうしたんだよ。俺は別に何処にも」@
+`"Ange? O que deu em vocｹ? Eu nﾃo vou a lugar algum."`@
 ld c,":a;e2\en3-1.bmp",5
 ;「勝手にいなくならないで…」\
+`"Nﾃo suma assim do nada..."`\
 ld r,":a;e2\bat12.bmp",5
 ;「……縁寿？」@
+`"...Ange?"`@
 ld c,":a;e2\en3-2.bmp",5
 ;「本当に……本当に心配したんだから」@
+`"Eu fiquei muito... muito preocupada, mesmo."`@
 ld r,":a;e2\bat34.bmp",5
 ;「縁寿？　どうしたんだ？」@
+`"Ange? O que aconteceu?"`@
 ld c,":a;e2\en3-3.bmp",5
 ;「私を一人にしないで…」\
+`"Nﾃo me deixe sozinha..."`\
 ld r,":a;e2\bat20.bmp",5
 ld r,":a;e2\bat21.bmp",5
 ld c,":a;e2\en3-5.bmp",5
 ;「どうか、したのか？」@
+`"Aconteceu alguma coisa?"`@
 ld c,":a;e2\en3-2.bmp",5
 ;「約束して、縁寿をもう一人にしないって」@
+`"Prometa que nﾃo deixarｧ mais a Ange sozinha."`@
 ld r,":a;e2\bat34.bmp",5
 ;「……ああ、約束する。俺はお前を一人にしたりしない」@
+`"...Claro. Eu prometo. Eu nunca a deixarei sozinha."`@
 ld c,":a;e2\en3-4.bmp",5
 ;「本当ッ！　本当に！？」\
+`"Mesmo? De verdade?!"`\
 ld r,":a;e2\bat31.bmp",5
 ;「本当だ。だから、縁寿、落ち着けって」@
+´"Verdade. Entﾃo se alcame, Ange."`@
 ld c,":a;e2\en3-1.bmp",5
 ;「誓える？　約束を守るってお兄ちゃんは私に誓えるのッ！？」@
+`"Vocｹ juta? Jure para mim que vai cumprir sua promessa?!"`@
 ld r,":a;e2\bat28.bmp",5
 ;「なぁ、一体急に何を…」@
+`"Ei, o que deu em vocｹ...?"`@
 ld c,":a;e2\en3-2.bmp",5
 ;「いいから！」\
+`"Juere!"`\
 ld r,":a;e2\bat38.bmp",5
 ld c,":a;e2\en3-5.bmp",5
 ;「わかった。わかったから。@
+`"Tｧ bom. Jｧ entendi.`@
 ld r,":a;e2\bat33.bmp",5
 ;　右代宮戦人は、右代宮縁寿を一人にはしない……。@
+` Ushiromiya Battler nﾃo deixarｧ Ushiromiya Ange sozinha......`@
 ld r,":a;e2\bat28.bmp",5
 ;　これでいいか？」@
+` Feliz agora?"`@
 ld c,":a;e2\en3-3.bmp",5
 ;「……本当に、もう二度と一人にしないのね」\
+`"...Nﾃo vai mesmo me deixar sozinha de novo?"`\
 ld r,":a;e2\bat21.bmp",5
 ;「ああ、本当だ」@
+`"Nﾃo, nﾃo vou."`@
 ld c,":a;e2\en3-5.bmp",5
 ;「……わかったわ。ありがとう」@
+`"...Certo. Obrigada."`@
 ld r,":a;e2\bat18.bmp",5
 ;「……縁寿？」@
+`"...Ange?'`@
 ld c,":a;e2\en3-3.bmp",5
 ;「………」\
+`"......"`\
 ld r,":a;e2\bat21.bmp",5
 ;「縁寿？　大丈夫か？」@
+`"Ange? Tudo bem aｨ?"`@
 ld c,":a;e2\en3-6.bmp",5
 ;「ええ、急にごめんなさい。@
+`"Sim. Desculpe por isso.`@
 ld c,":a;e2\en10.bmp",5
 ;　もう大丈夫よ。変なことを言い出して……。@
+` Jｧ estｧ tudo bem. Acabei falando algo estranho...`@
 ld c,":a;e2\en2.bmp",5
 ;　お兄ちゃん驚いたでしょう？」\
+` Te assustei, onii-chan?"`\
 ld r,":a;e2\bat37.bmp",5
 ;「確かに驚いたけどな。@
+`'Realmente me deixou assustado. `@
 ld r,":a;e2\bat13.bmp",5
 ;　一体どうしたんだ？@
+` Afinal, o que aconteceu?`@
 ld r,":a;e2\bat44.bmp",5
 ;　昼寝でもして、怖い夢でも……。@
+` Dormiu durante a aula e teve um pesadelo...?`@
 ld r,":a;e2\bat48.bmp",5
 ;　って、縁寿に限ってそれはねぇか」\
+` Atｪ parece, vocｹ nﾃo ｪ disso, nｪ?"`\
 ld c,":a;e2\en17.bmp",5
 ;「いいえ、そんなようなものよ。@
+`"Nﾃo, foi exatamente isso.`@
 ld r,":a;e2\bat15.bmp",5
 ld c,":a;e2\en11.bmp",5
 ;　とても怖い夢を…思い出した。@
+` Eu lembrei...de um sonho muito assustador.`@
 ld c,":a;e2\en4.bmp",5
 ;　目の前にはっきり、悪夢じみた世界が見えたわ」@
+` Eu vi um mundo de pesadelo bem diante dos meus olhos."`@
 ld r,":a;e2\bat14.bmp",5
 ;「縁寿……」\
+`"Ange..."`\
 ld c,":a;e2\en2.bmp",5
 ;「もう終わりなのかと思った。@
+`"Pensei que iria acabar.`@
 ld c,":a;e2\en3-3.bmp",5
 ;　もうおしまいなのかって。@
+` Que tinha chegado ao fim.`@
 ld c,":a;e2\en3-6.bmp",5
 ;　私はお兄ちゃんとまだ何も…話もできていないのに」@
+` Eu nunca mais poderia vｹ-lo... nunca mais poderia falar com vocｹ.`"@
 ld r,":a;e2\bat41.bmp",5
 ;「話…話なら毎日たくさんしてるだろ？」\
+`"Falar... nｫs nﾃo nos falamos todos os dias"`\
 ld c,":a;e2\en3-1.bmp",5
 ;「そうじゃないの。そうじゃない……どうして」@
+`"Nﾃo ｪ isso. Nﾃo ｪ assim... por quｹ?"`@
 ld r,":a;e2\bat36.bmp",5
 ;「ん？」@
+`"Hm?"`@
 ld c,":a;e2\en3-8.bmp",5
 ;「どうして、今朝来なかったの？@
+`"Por que nﾃo apareceu esta manhﾃ?`@
 ;　いつもなら、私とお兄ちゃんは廊下で会えるはずなのに」\
+` Nｫs deverｨamos nos encontrar no corredor sempre."`\
 ld r,":a;e2\bat41.bmp",5
 ;「？？　廊下で会える？@
+`"?? Encontrar no corredor?`@
 ld c,":a;e2\en3-7.bmp",5
 ld r,":a;e2\bat42.bmp",5
 ;　今日はベアトに攻撃されて、授業には遅刻して行ったんだ。@
+` A Beato me abateu hoje e cheguei atrasa para a aula.`@
 ld r,":a;e2\bat41.bmp",5
 ;　縁寿、もしかして、俺に用事でもあったのか？」@
+` Por acaso vocｹ tinha algo a tratar comigo?"`@
 ld c,":a;e2\en3-9.bmp",5
 ;「ベアトリーチェ……何のつもりで」\
+`"Beatrice... O que ela estｧ pensando?"`\
 ld r,":a;e2\bat46.bmp",5
 ;「縁寿、ほら落ち着けって」@
+`"Acalme-se, Ange."`@
 ld c,":a;e2\en3-7.bmp",5
 ;「……」@
+`"..."`@
 ld r,":a;e2\bat2.bmp",5
 ;「大丈夫だ。縁寿。俺はいなくなったりしないから」@
+`"Tudo bem, Ange. Eu nﾃo vou a lugar algum."`@
 ld c,":a;e2\en2.bmp",5
 ;「………いなく、ならない？」\
+`"......Nﾃo vai?"`\
 ld r,":a;e2\bat48.bmp",5
 ;「いっひっひ、夢は夢だろう？@
+`"Hihhihhi... Foi sｫ um sonho.`@
 ld r,":a;e2\bat21.bmp",5
 ;　六年間、家にもほとんど帰らねぇで悪かった。@
+` Desculpe por passar seis anos sem voltar para casa.´@
 ld r,":a;e2\bat2.bmp",5
 ;　でも、俺は二度といなくなったりしない。ずっと一緒だ」@
+` Mas eu nunca mais vou embora. Ficaremos sempre juntos."`@
 ld c,":a;e2\en10.bmp",5
 ;「……ずっと、一緒」\
+`"...Sempre juntos?"`\
 ld r,":a;e2\bat9.bmp",5
 ;「ああ、怖い夢なんて気にすんな。@
+`"Sim. Nﾃo ligue para esses pesadelos.`@
 ld r,":a;e2\bat10.bmp",5
 ;　そんなもん俺が吹き飛ばしてやるから。@
+` Eu vou dispersｧ-los para bem longe.`@
 ld r,":a;e2\bat2.bmp",5
 ;　縁寿、俺達はずっと一緒だ。家族……だろう？」@
+` Nｫs ficaremos sempre juntos, Ange. Nｫs somos... uma famｨlia, lembra?"`@
 ld c,":a;e2\en10.bmp",5
 ;「ええ……そうね」\
+`"Sim... somos, sim."`\
 ld r,":a;e2\bat9.bmp",5
 ld c,":a;e2\en9.bmp",5
 ;「そうだろ。だから笑えって。@
+`"Isso mesmo. Entﾃo sorria.`@
 ld r,":a;e2\bat10.bmp",5
 ;　縁寿は絶対笑ってた方がかわいいぜ」@
+` Vocｹ fica muito melhor sorrindo."`@
 ld c,":a;e2\en2.bmp",5
 ;「ねぇ……お兄ちゃん。@
+`"Ei... Onii-chan.`@
 ld c,":a;e2\en3-1.bmp",5
 ;　私がいつから昔みたいに笑わなくなったか。覚えてる？」\
+` Quando foi que eu parei de sorri como antes? Vocｹ se lembra?"`\
 ld r,":a;e2\bat41.bmp",5
 ;「えっ……………。@
+`"Hﾃ......?`@
 ld r,":a;e2\bat2-1.bmp",5
 ;　……………いつ、から？」@
+`......Quando...foi?"`@
 ld c,":a;e2\en9.bmp",5
 ;「ううん、何でもない。@
+`"Nﾃo ｪ nada, esquece.`@
 ld c,":a;e2\en19.bmp",5
 ;　こんなこと言ったって、お兄ちゃんを困らせるだけだもの」\
+` Falar isso sｫ vai dificultar as coisas para vocｹ."`\
 ld r,":a;e2\bat2-3.bmp",5
 ;「………縁寿、俺は」@
+`"......Ange, eu..."`@
 ld c,":a;e2\en4.bmp",5
 ;「何でもないの、気にしないで」@
+`"Nﾃo ｪ nada. Nﾃo se preocupe."`@
 ld r,":a;e2\bat2-8.bmp",5
 ;「縁寿、俺はまた、何か……」\
+`"Ange, eu fiz alguam coisa...?"`\
 br
 ld c,":a;e2\en18.bmp",5
 ;「そうやって、気にしてくれるだけで十分。@
+`"Sｫ de se preocupar assim jｧ ｪ suficiente.`@
 ld c,":a;e2\en19.bmp",5
 ;　お兄ちゃん、約束してくれてありがとう」\
+` Obrigada por me prometer, onii-chan."`\
 textoff
 bg#000000,3
 br
@@ -2838,18 +2923,26 @@ ld r,":a;e2\bat37.bmp",5
 ld c,":a;e2\en9.bmp",5
 texton
 ;「今、何か……」@
+`"Disse alguma coisa...?"`@
 ld c,":a;e2\en10.bmp",5
 ;「わざわざ呼び出して悪かったわ。本当にごめんね。@
+`"Sinto muito por chamｧ-lo de repente. Sinto muito, de verdade.`@
 ld c,":a;e2\en18.bmp",5
 ;　じゃあね、お兄ちゃん」@
+` Atｪ mais, onii-chan."`@
 ld r,":a;e2\bat37.bmp",5
 ;「縁寿、もういいのか？」\
+`"Jｧ estｧ satisfeita, Ange?"`\
 ld c,":a;e2\en19.bmp",5
 ;「ええ、もういいわ。また、後で」@
+`"Sim, jｧ estou. Atｪ depois."`@
 ld r,":a;e2\bat50.bmp",5
 ;「そ、それじゃあ、俺は行くぜ？」@
+`"E-Entﾃo... eu vou indo, tｧ?" `@
 ld c,":a;e2\en18.bmp",5
 ;「ええ……さようなら。お兄ちゃん」\
+`"Claro... Tchau, onii-chan."`\
+
 textoff
 bg#000000,3
 bgmfadeout 1000
@@ -2857,6 +2950,7 @@ bgmstop
 br
 br
 ;　　　　　　　　　　　「また後で必ず会いましょう」\
+`　　　　　　　　　　　"Definitivamente vamos nos ver mais tarde."`\
 
 saveoff
 wave"m\doa.wav"
@@ -2869,68 +2963,100 @@ ld l,":a;e2\bea2-4.bmp",5
 texton
 saveon
 ;「ん？　ヤッホー、戦っ人ああっ！@
+`"Hm? Yahoo, Batrlerrr!`"
 ;　遅かったなぁ。妾もちょうど今戻ったところだぜェ！」@
+` Demorou, hein? Eu tambｪm acabei de chegar!"`@
 ld r,":a;e2\bat37.bmp",5
 ;「ああ、待たせたな………ベアト」@
+`"Sim... Desculpe a demora, ......Beato."`@
 ld l,":a;e2\bea2-8.bmp",5
 ;「どーしたどーした！　うかない顔だなぁ！」\
+``
 ld l,":a;e2\bea2-4.bmp",5
 ;「妹に怒られでもしたか？@
+``
 ld l,":a;e2\bea2-11.bmp",5
 ;　そなた程、女心のわからぬ男はおらぬものなぁ？@
+``
 ;　散々怒られでもしてへこんでいるのであろう？@
+``
 ld l,":a;e2\bea2-12.bmp",5
 ;　くっくっくっ、流石は無能の戦人だぜぇ？」\
+``
 ld r,":a;e2\bat27.bmp",5
 ;「けっ、勝手に言ってろよ。@
+``
 ld r,":a;e2\bat28.bmp",5
 ;　怒られたなら……まだ、よかったんだけどな。@
+``
 ld r,":a;e2\bat37.bmp",5
 ;　アレは一体………。@
+``
 ld r,":a;e2\bat39.bmp",5
 ;　って、お前、飯食い終わってんじゃねぇか」\
+``
 
 ld l,":a;e2\bea39.bmp",5
 ;「ふふん、鈍い男よ。@
+``
 ld l,":a;e2\bea37.bmp",5
 ;　まさか気づいておらぬとはな。@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　そなたの鈍さにはがっかりだぜェ、右代宮戦人！@
+``
 ld l,":a;e2\bea13.bmp",5
 ;　ロノウェの弁当は、二時間目の授業中に食べ終えたわ！」\
+``
 ld r,":a;e2\bat40.bmp",5
 ;「前より悪化してやがるじゃねぇか！@
+``
 ld r,":a;e2\bat30.bmp",5
 ;　早弁はするな！　授業中に食うなってんだ！」@
+``
 ld l,":a;e2\bea2-11.bmp",5
 ;「よいではないかよいではないか。バレなければ問題なかろう。@
+``
 ld l,":a;e2\bea2-2.bmp",5
 ;　三色そぼろ、唐あげ、デザート！和風弁当もいいものよー」\
+``
 ld r,":a;e2\bat39.bmp",5
 ;「大アリだろう。お前なぁ、バレたらどうするんだよ？」@
+``
 ld l,":a;e2\bea2-4.bmp",5
 ;「そのときは、元気よくアイムハングリーヤーハーだ！」@
+``
 ld r,":a;e2\bat27.bmp",5
 ;「だから、日本語苦手ですで全て済ませるのはやめろ！@
+``
 ld r,":a;e2\bat40.bmp",5
 ;　後、重要だが、俺の飯は今日という今日はやらねぇからなっ！」\
+``
 ld l,":a;e2\bea15.bmp",5
 ;「はんっ、人を泥棒のようにぬかすでないわ、気分が悪い。@
+``
 ld l,":a;e2\bea20.bmp",5
 ;　妾は苺牛乳でご機嫌よ。@
+``
 ld l,":a;e2\bea10.bmp",5
 ;　既にお腹はいっぱいで、今日一日うきうきだ！@
+``
 ld l,":a;e2\bea24.bmp",5
 ;　わざわざ揉めてまで、貴様の弁当を奪おうとは思わぬわ」\
+``
 ld r,":a;e2\bat27.bmp",5
 ;「いっひっひ、お前らしくもない、いい心がけじゃねえか。@
+``
 ld r,":a;e2\bat10.bmp",5
 ;　気持ち悪いくらいだがな。それじゃ、安心し、て…？」@
+``
 ld r,":a;e2\bat40.bmp",5
 ld l,":a;e2\bea6.bmp",5
 ;「どうした戦人？」@
+``
 ld r,":a;e2\bat24.bmp",5
 ;「なぁ……ベアト」\
+``
 ld l,":a;e2\bea6.bmp",5
 bgmfadeout 1000
 bgmstop
@@ -2938,278 +3064,405 @@ ld l,":a;e2\bea1.bmp",5
 ld r,":a;e2\bat21.bmp",5
 br
 ;「俺の弁当がないんだが」@
+``
 ld l,":a;e2\bea2.bmp",5
 ;「………………それで？」\
+``
 
 
 bgm"m\battle.mp3"
 ld r,":a;e2\bat40.bmp",5
 ;「それで？　じゃねぇだろおおお！？　俺の昼飯返しやがれえええ」@
+``
 ld l,":a;e2\bea4.bmp",5
 ;「はっ、妾を犯人扱いするとはな戦人ァ。@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　それは濡れ衣もいいところだぜぇ」@
+``
 ld r,":a;e2\bat30.bmp",5
 ;「うるせぇっ、何が濡れ衣だ！」\
+``
 ld r,":a;e2\bat40.bmp",5
 ;「てめぇ以外に、俺の弁当を盗っていく奴がいるかってんだッ！@
+``
 ld r,":a;e2\bat30.bmp",5
 ;　今日という今日は絶対に許さねえ！@
+``
 ld r,":a;e2\bat40.bmp",5
 ;　覚悟しやがれベアトリーチェえええ！」\
+``
 ld l,":a;e2\bea20.bmp",5
 ;「よくぞ吠えた右代宮戦人！@
+``
 ld l,":a;e2\bea24.bmp",5
 ;　躊躇いなく妾を犯人扱いしおって！@
+``
 ld l,":a;e2\bea21.bmp",5
 ;　クククククッ。@
+` Kukukuku!`@
 ld l,":a;e2\bea39.bmp",5
 ;　ならば、その推理が外れたならば覚悟があるということだな？」\
+``
 ld r,":a;e2\bat33.bmp",5
 ;「覚悟だ？」@
+``
 ld l,":a;e2\bea2-5.bmp",5
 ;「もしもそなたが妾を犯人と証明できず屈服した場合。@
+``
 ld l,":a;e2\bea2-11.bmp",5
 ;　その暁には、妾の家具になってもらうぞ」@
+``
 ld r,":a;e2\bat31.bmp",5
 ;「家具ゥ？　なんだよそりゃ。椅子にでもなれってのか？」\
+``
 
 ld l,":a;e2\bea2-12.bmp",5
 ;「クククッ、それもよいがな。@
+``
 ld l,":a;e2\bea2-4.bmp",5
 ;　家具といったらやはり全裸に首輪よ！@
+``
 ld l,":a;e2\bea2-5.bmp",5
 ;　家具に服など不要！@
+``
 ld l,":a;e2\bea2-4.bmp",5
 ;　鎖を引いて学校中を連れ回してやるぜえええええ！」\
+``
 ld l,":a;e2\bea13.bmp",5
 ld r,":a;e2\bat53.bmp",5
 ;「一発で捕まるじゃねえかああああ！！@
+``
 ld r,":a;e2\bat52.bmp",5
 ;　いい加減にしやがれこの痴女！@
+``
 ld r,":a;e2\bat40.bmp",5
 ;　ちくしょうっ、そんなことされてたまるかってんだ！？」\
+``
 ld l,":a;e2\bea4.bmp",5
 ;「ほほう？@
+``
 ld l,":a;e2\bea20.bmp",5
 ;　ならば自らの言い出したゲームを逃げるのかァ？@
+``
 ld l,":a;e2\bea37.bmp",5
 ;　右代宮戦人？」\
+``
 ld r,":a;e2\bat53.bmp",5
 ;「駄目だぜ、全然駄目だ！@
+``
 ld r,":a;e2\bat33.bmp",5
 ;　この右代宮戦人が戦う前から諦めるとでも思ったのか？@
+``
 ld r,":a;e2\bat30.bmp",5
 ;　人を舐めるんじゃねえ！@
+``
 ld r,":a;e2\bat39.bmp",5
 ;　いいだろう、その喧嘩言い値で買うぜ！」\
+``
 ld r,":a;e2\bat35.bmp",5
 ld l,":a;e2\bea18.bmp",5
 ;「いいぜェ、そうこなくては面白くない。@
+``
 ld l,":a;e2\bea20.bmp",5
 ;　後で後悔するなよォ、右代宮戦人ァ！！」@
+``
 ld r,":a;e2\bat27.bmp",5
 ;「いっひっひ、それはこっちの台詞だ！@
+``
 ld r,":a;e2\bat39.bmp",5
 ;　そっちこそ後で吠え面かくんじゃねえぞ」\
+``
 ld r,":a;e2\bat27.bmp",5
 ;「テメェが負けたら覚悟しろよ！@
+``
 ld r,":a;e2\bat39.bmp",5
 ;　今までの飯代を払わせて、その乳を揉みしだいてやるぜ！」@
+``
 ld l,":a;e2\bea18.bmp",5
 ;「いいぜ、やれるものならやってみよ！　右代宮戦人あああ！」\
+``
 bgmfadeout 1000
 bgmstop
 bgm"m\battle2.mp3"
 ld l,":a;e2\bea41.bmp",5
 ;「まずは妾の手番からよ。クククククッ」@
+``
 ld r,":a;e2\bat28.bmp",5
 ;「不気味に笑ってねぇで、さっさと始めやがれ。@
+``
 ld r,":a;e2\bat27.bmp",5
 ;　テメェは、今まで食った分の弁当を買ってくるんだからな。@
+``
 ld r,":a;e2\bat46.bmp",5
 ;　体力は余らせておいた方がいいぜ」\
+``
 ld l,":a;e2\bea20.bmp",5
 ;「いつにも増してよく吠えるものよ……。@
+``
 ld l,":a;e2\bea42.bmp",5
 ;　そなたは妾こそが犯人だと証明し、妾がそれを否定するとは。@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　何とも皮肉な状況よ！　これもまたよし！　実に愉快だ！」\
+``
 ld r,":a;e2\bat33.bmp",5
 ;「ごちゃごちゃ言ってねぇで、始めやがれベアトリーチェ！@
+``
 ld r,":a;e2\bat38.bmp",5
 ;　それとも…アレだ。ええっと」@
+``
 ld l,":a;e2\bea42.bmp",5
 ;「リザインか？」@
+``
 ld r,":a;e2\bat33.bmp",5
 ;「そうっ、それだ！」\
+``
 ld l,":a;e2\bea18.bmp",5
 ;「誰がゲームを降りるかよォ、行くぜ戦人ァ！」@
+``
 ld r,":a;e2\bat33.bmp",5
 ;「ああっ、来い！ベアトリーチェ！」@
+``
 ld l,":a;e2\bea39.bmp",5
 ;「妾はそなたの弁当を食べていない！」@
+``
 ld r,":a;e2\bat27.bmp",5
 ;「はっ、それは聞き飽きたぜ！で、どう証明するってんだ？」\
+``
 ld l,":a;e2\bea18.bmp",5
 ;「まずは、妾が犯人ではない物的証拠を提出するッ！」@
+``
 ld r,":a;e2\bat40.bmp",5
 ;「何ッ……！」@
+``
 ld l,":a;e2\bea37.bmp",5
 ;「クククッ、どうした戦人ァ？@
+``
  ld l,":a;e2\bea39.bmp",5
 ;　まだ始まったばかりだが、随分と顔色が悪いじゃねぇか」\
+``
 ld r,":a;e2\bat52.bmp",5
 ;「ちくしょうが…物的証拠だと？@
+``
 ld r,":a;e2\bat33.bmp",5
 ;　一体なんだ？　まさかビデオテープでも提出するってのか？」@
+``
 ld l,":a;e2\bea2-12.bmp",5
 ;「ふっ…流石にそこまでの準備はないわ。@
+``
 ld l,":a;e2\bea2-11.bmp",5
 ;　妾が提出するのはな、これよ！」\
+``
 wave"m\kata.wav"
 ld r,":a;e2\bat44.bmp",5
 ;「これ……？　苺牛乳の空パック？」@
+``
 ld l,":a;e2\bea2-4.bmp",5
 ;「それは、さっきまで妾がチューチューしていたものよ」@
+``
 ld r,":a;e2\bat39.bmp",5
 ;「擬音はいらねぇ！　で、それがどうしたって？」@
+``
 ld l,":a;e2\bea2-11.bmp",5
 ;「これこそが妾の無実を証明するもの！」\
+``
 ld r,":a;e2\bat34.bmp",5
 ;「どういうことだ……？」@
+``
 ld l,":a;e2\bea2-4.bmp",5
 ld r,":a;e2\bat35.bmp",5
 ;「これ、が、ここ、にあることこそ、妾は犯人でない証よ」@
+``
 ld r,":a;e2\bat24.bmp",5
 ;「御託はいい。@
+``
 ld r,":a;e2\bat39.bmp",5
 ;　これに一体全体何の意味があるッ！　さっさと説明しろッ！」\
+``
 ld l,":a;e2\bea21.bmp",5
 ;「はっ、どこまでも鈍い男よ！@
+``
 ld l,":a;e2\bea20.bmp",5
 ;　人に説明されるまで気がつかぬとはなっ！@
+``
 ld l,":a;e2\bea4.bmp",5
 ;　考えてもみよ戦人？　この苺牛乳は一体どこで売っている？」\
+``
 ld r,":a;e2\bat18.bmp",5
 ;「どこって、一階の購買だろう？」@
+``
 ld l,":a;e2\bea20.bmp",5
 ;「そう、そして購買が開いているのは、三時間目の休みから昼休みの間だ！@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　その前は決して開かぬ！　ここまではよいな？」@
+``
 ld r,":a;e2\bat21.bmp",5
 ;「ああ、それで？」\
+``
 ld r,":a;e2\bat35.bmp",5
 ld l,":a;e2\bea18.bmp",5
 ;「今日、そなたと妾は三時間目の休みを共に過ごした！@
+``
 ;　昨日は三時間目の休みから昼休みの間を過ごしたな。@
+``
 ld l,":a;e2\bea21.bmp",5
 ;　これが昨日買ったものではない事は、そなた自身が証人だ！@
+``
 ld l,":a;e2\bea11.bmp",5
 ;　おとついも同様よ！　そなたの記憶は曖昧かも知れぬがな」\
+``
 ld l,":a;e2\bea15.bmp",5
 ;「三日も前のことなぞ、もう思い出せもせぬか？」@
+``
 ld r,":a;e2\bat27.bmp",5
 ;「人を痴呆老人呼ばわりしやがって。三日前だろ…三日は…」@
+``
 ld r,":a;e2\bat36.bmp",5
 ld l,":a;e2\bea17.bmp",5
 ;「………別によい。それが正しいのだ。@
+``
 ld l,":a;e2\bea42.bmp",5
 ;　思い出せぬことを責める気はない…腹立たしいがな」\
+
 ld r,":a;e2\bat52.bmp",5
 ;「三日、三日前だろ…。ちくしょう、頭が」@
+``
 ld l,":a;e2\bea24.bmp",5
 ;「もうよい戦人。そんなことより妾の話を聞け！@
+``
 ld r,":a;e2\bat35.bmp",5
 ld l,":a;e2\bea39.bmp",5
 ;　いいか、これによって何が証明できるか！@
+``
 ld l,":a;e2\bea13.bmp",5
 ;　この苺牛乳は、今日妾が購買で買った物だということだ！」\
+``
 ld r,":a;e2\bat27.bmp",5
 ;「色々と異論はあるが、まずはテメェの意見を聞いてやる。@
+``
 ld r,":a;e2\bat18.bmp",5
 ;『苺牛乳は今日買った物だ』@
+`“”`@
 ld r,":a;e2\bat39.bmp",5
 ;　そう主張することで一体何が分かるって言うんだ！」@
+``
 ld l,":a;e2\bea2-4.bmp",5
 ;「クククッ、ここまで来て分からぬとは無能にも程があるぞ！」\
+``
 ld r,":a;e2\bat15.bmp",5
 ld l,":a;e2\bea2-4.bmp",5
 ;「妾は昼休みに、購買へ苺牛乳を買いに行った！@
+``
 ld l,":a;e2\bea2-2.bmp",5
 ;　そなたが縁寿の元へ行き、ここへ戻って来るまでに二十分！@
+``
 ld l,":a;e2\bea2-11.bmp",5
 ;　購買には、どんなに急いでも往復で十分！@
+``
 ld l,":a;e2\bea2-12.bmp",5
 ;　昼時の戦場で、十分間で買い物を済ますことは十三にすら無理よ！」\
+``
 ld r,":a;e2\bat29.bmp",5
 ;「なるほどな……テメェの言いたいことがやっと理解できたぜ」@
+``
 ld l,":a;e2\bea20.bmp",5
 ;「やっと無能なそなたにも理解できたか。@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　そう、妾にはそなたの弁当を食べることは不可能だった。@
+``
 ld l,":a;e2\bea22.bmp",5
 ;　それとも、妾が噛まずに全て飲んだとでも言うのか？」\
+``
 ld r,":a;e2\bat35.bmp",5
 ld l,":a;e2\bea12.bmp",5
 ;「この苺牛乳がその証明よ！@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　そなたの弁当を諦めねば、苺牛乳は手に入らぬ！@
+``
 ld l,":a;e2\bea20.bmp",5
 ;　もしも、妾がそなたの弁当を食べたと言うのならば、聞くぞ！@
+``
 ld l,":a;e2\bea15.bmp",5
 ;　何故このパックはここにある？」\
+``
 ld r,":a;e2\bat40.bmp",5
 ;「ちょっと待て、それはおかしいぜベアト！@
+``
 ld r,":a;e2\bat33.bmp",5
 ;　まず、お前がそれを外で買ったという可能性が残っている！」@
+``
 ld l,":a;e2\bea38.bmp",5
 ;「なるほど、そう切り返すか。@
+``
 ld l,":a;e2\bea39.bmp",5
 ;　この外には、苺牛乳を買える場所など無い！」\
+``
 ld r,":a;e2\bat31.bmp",5
 ;「いや、わからねぇぜ。@
 ld r,":a;e2\bat39.bmp",5
 ;　俺が知らない、お前が知っている店があるのかもしれない」@
+``
 ld l,":a;e2\bea42.bmp",5
 ;「この学校の外には、買えるような場所は『何も無い』@
+``
 ld l,":a;e2\bea31.bmp",5
 ;　だが、それを今証明するのはリスクが大きすぎる、か………」\
+``
 ld l,":a;e2\bea30.bmp",5
 ld r,":a;e2\bat27.bmp",5
 ;「さらに追加するぞ！@
+``
 ld r,":a;e2\bat39.bmp",5
 ;　お前が俺の目を逃れて、過去に苺牛乳を買って来た可能性だ！@
+``
 ld r,":a;e2\bat27.bmp",5
 ld l,":a;e2\bea27.bmp",5
 ;　俺は万能な証人じゃない。見落としは当然考えられる。@
+``
 ld r,":a;e2\bat46.bmp",5
 ;　推理小説の探偵役ばりの記憶力でもあれば別だがな」\
+``
 ld l,":a;e2\bea42.bmp",5
 ;「この学校では、『昨日』から持ち込める物など限られる。@
+``
 ld l,":a;e2\bea29.bmp",5
 ;　だが、それも証明するには現段階では早すぎる」@
+``
 ld r,":a;e2\bat42.bmp",5
 ;「何をブツブツ言ってるんだ？@
+``
 ld r,":a;e2\bat46.bmp",5
 ;　どうだベアトこれで通っただろう？」\
+``
 ld l,":a;e2\bea27.bmp",5
 ld r,":a;e2\bat27.bmp",5
 ;「そんな物、証拠にも何もなりゃしない」@
+``
 ;「………そうだな、このままでは水掛け論。@
+``
 ld l,":a;e2\bea42.bmp",5
 ;　ある、ない、で繰り返しスティルメイトといったところか。@
+``
 ld l,":a;e2\bea31.bmp",5
 ;　そして、不利なのは無実を証明せねばならぬ妾の方、か」\
+``
 ld l,":a;e2\bea29.bmp",5
 ld r,":a;e2\bat16.bmp",5
 ;「そなたの論も妾を犯人とするに足るものではないがな。@
+``
 ld l,":a;e2\bea42.bmp",5
 ;　アリバイの証明ができねば、追求からは逃れられぬか」@
+``
 ld r,":a;e2\bat10.bmp",5
 ;「いっひっひ、さて、どうするベアト。@
+``
 ld r,":a;e2\bat27.bmp",5
 ;　苺牛乳のパックの他にも………」\
+``
 textoff
 bgmfadeout 1000
 bgmstop
@@ -3221,6 +3474,7 @@ texton
 br
 br
 ;　　　　　「この苺牛乳は、本日購買で買ってきたものである！」\
+`　　　　　"Este leite de morango foi comprado na cantina no dia de hoje!"`\
 textoff
 bg"e1\kyousitu1.jpg",5
 bgm"m\akazibattle.mp3"
@@ -3229,45 +3483,65 @@ ld r,":a;e2\bat13.bmp",5
 texton
 #ffffff
 ;「なっ………今のは、なんだ？」@
+``
 ld l,":a;e2\bea15.bmp",5
 ;「妾は今後、真実を語る時は赤色を使う事にする！」@
+``
 ld r,":a;e2\bat40.bmp",5
 ;「赤色だぁっ！？@
+``
 ;　おかしいだろう！　何でそんなことができる！」\
+``
 ld l,":a;e2\bea18.bmp",5
 ;「理由は語らぬ！　語れるものでもないしな。@
+``
 ld l,":a;e2\bea21.bmp",5
 ;　だが、貴様にはわかるだろォ、右代宮戦人ァ！@
+``
 ld l,":a;e2\bea20.bmp",5
 ;　妾が赤字で語る事は正真正銘の真実！@
+``
 ld l,":a;e2\bea19.bmp",5
 wave"m\aka.wav"
 ;　#ff0000それを否定することは誰にもできぬ！#ffffff」\
+``
 ld r,":a;e2\bat52.bmp",5
 ;「チクショウがっ……。@
+``
 ld r,":a;e2\bat53.bmp",5
 ;　そんな無茶苦茶が許されてたまるかよ！」@
+``
 ld l,":a;e2\bea21.bmp",5
 ;「クククククッ、無茶苦茶に見えてこれ程確かな物もない。@
+``
 ld l,":a;e2\bea15.bmp",5
 ;　そなたもそれをよく知っているはずだが？」\
+``
 ld l,":a;e2\bea4.bmp",5
 ;「さて、戦人。@
+``
 ld l,":a;e2\bea15.bmp",5
 ;　この苺牛乳は、本日購買で買ってきた物だ。@
+``
 ld l,":a;e2\bea18.bmp",5
 ;　妾がいつ、どうやって、お前の弁当を食べたのか。@
+``
 ld l,":a;e2\bea21.bmp",5
 ;　妾に説明してくれよォ」\
+``
 
 ld r,":a;e2\bat40.bmp",5
 ;「いや、まだだ。まだ可能性が残っている。@
+``
 ld r,":a;e2\bat30.bmp",5
 ;　お前はそれを、三時間目に俺の目を盗んで買って来た。@
+``
 ld r,":a;e2\bat38.bmp",5
 ;　そう、そうだ！　休みでも授業中でもいい。@
+``
 ld r,":a;e2\bat40.bmp",5
 ;　それを、さも昼休みに買って来た様な顔をして俺の前に…」\
+``\
 textoff
 wave"m\aka.wav"
 bg"e1\aka1.jpg",5
@@ -3277,15 +3551,19 @@ texton
 br
 br
 ;　　　　　　「妾は三時間目の授業開始から昼休み開始まで！@
+`　　　　　　""`@
 ;　　　　　　　教室の外には出ていない！」\
+`　　　　　　　""`\
 #ffffff
 bg"e1\kyousitu1.jpg",5
 ld l,":a;e2\bea21.bmp",5
 ld r,":a;e2\bat52.bmp",5
 texton
 ;「やっぱり、使いやがるか……。@
+`""`@
 ld r,":a;e2\bat40.bmp",5
 ;　それじゃあ、購買が早く開いていて」\
+`""`\
 textoff
 wave"m\aka.wav"
 bg"e1\aka1.jpg",5
