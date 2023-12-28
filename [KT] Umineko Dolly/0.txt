@@ -4221,19 +4221,19 @@ ld r,":a;e2\bat43.bmp",5
 ld l,":a;e2\bea8.bmp",5
 texton
 ;「ん？　行くのか戦人？」@
-`""`
+`"Hm? Vai ir, Battler?"`@
 ld l,":a;e2\bea5.bmp",5
 ld r,":a;e2\bat2.bmp",5
 ;「ああ、縁寿を探しに行ってくる」@
-`""`
+`"Sim, estou indo procurar pela Ange"`@
 ld l,":a;e2\bea2.bmp",5
 ld r,":a;e2\bat1.bmp",5
 ;「わかった。気をつけて行ってくるがいい」@
-`""`
+`"Entendi. ｴ bom que vｧ atento."`@
 ld l,":a;e2\bea1.bmp",5
 ld r,":a;e2\bat9.bmp",5
 ;「おお、じゃあなー。また後でな」\
-`""`
+`"Claro. Certo, atｪ depois."`\
 textoff
 cl a,10,800
 bgmfadeout 1000
@@ -4251,50 +4251,51 @@ texton
 saveon
 ld l,":a;e2\en4.bmp",5
 ;「あっ、お兄ちゃん。やっと見つけた」@
-`""`
+`"Ah, onii-chan! Finalmente te encontrei."`@
 ld r,":a;e2\bat2.bmp",5
 ;「縁寿！　ちょうどよかった。俺もお前を探してたんだ」@
-`""`
+`"Ange! Bem na hora. Eu tambｪm estava te procurando."`@
 ld l,":a;e2\en19.bmp",5
 ;「えっ、そうなの？　嬉しいな。はい、これ」@
-`""`
+`"Hﾃ? ｴ mesmo? Eu fico feliz. Aqui, pegue."`@
 ld r,":a;e2\bat44.bmp",5
 ;「ん？　これは………」\
-`""`
+`"Hﾃ? Isso ｪ..."`\
 ld l,":a;e2\en18.bmp",5
 ;「教室まで取りに戻っていたの。@
-`""`
+`"Eu voltei atｪ a sala de aula para buscar."`@
 ld l,":a;e2\en19.bmp",5
 ld r,":a;e2\bat43.bmp",5
 ;　お兄ちゃんの作ってくれたお弁当。@
-`""`
+`"O almoﾆo que vocｹ preparou."`@
 ;　よかったら、一緒に食べましょう」@
-`""`
+` Se quiser, podemos comer juntos."`@
 ld r,":a;e2\bat12.bmp",5
 ;「え、縁寿？　本当か、いいのか？」\
-`""`
+`"Hﾃ? Ange? Tem certeza mesmo?"`\
 ld l,":a;e2\en10.bmp",5
 ;「ええ、勿論。元々は、お兄ちゃんが作ってくれた物なんだから」@
-`""`
+`"Sim. ｴ claro. Afinal de contas, foi vocｹ quem preparou."`@
 ld l,":a;e2\en19.bmp",5
 ld r,":a;e2\bat30.bmp",5
 ;「クッ、縁寿はいい子だなぁッ！@
+`"Ghk... Vocｹ ｪ mesmo uma boa garota, Ange!`@
 ld r,":a;e2\bat9.bmp",5
 ;　ありがとうな。優しい妹がいて俺は幸せ者だぜッ！@
-`""`
+` Obrigado. Eu sou feliz por ter uma irmﾃzinha tﾃo gentil!`@
 ld r,":a;e2\bat3.bmp",5
 ;　それじゃあ、せっかくだから少し貰うな」\
-`""`
+` Entﾃo vou aceitar a oferta e dar uma belisca."`\
 ld r,":a;e2\bat4.bmp",5
 ;「ッて……でも昼休みはもう終わるな。@
-`""`
+`"Esperea...! Mas a hora do almoﾆo jｧ terminou"`@
 ld l,":a;e2\en9.bmp",5
 ld r,":a;e2\bat37.bmp",5
 ;　急がなけりゃやばいよなぁ。どこで……」@
-`""`
+` Vai dar problema se nﾃo voltar logo. Onde..."`@
 ld l,":a;e2\en15.bmp",5
 ;「今日くらいは……いいわよね」@
-`""`
+`"ｴ sｫ hoje... nﾃo faz mal."`@
 ld r,":a;e2\bat34.bmp",5
 ;「教室だと途中でチャイムが鳴りそうだしな…」\
 `""`
@@ -4302,107 +4303,107 @@ ld r,":a;e2\bat34.bmp",5
 ld l,":a;e2\en19.bmp",5
 ld r,":a;e2\bat44.bmp",5
 ;「たまにはサボるのもいいわ。ついて来て」@
-`""`
+`"ﾊs vezes ｪ bom cabular. Vem comigo."`@
 ld r,":a;e2\bat46.bmp",5
 ;「おいおい、授業にはちゃんと出なきゃダメだろ？@
-`""`
+`"Ei, ei. Sabe que precisa frequentar as aulas, nｪ?"`@
 ld r,":a;e2\bat48.bmp",5
 ;　縁寿をサボらせたとか、俺が霧江さんに怒られちまう」@
-`""`
+` A Kyrie-san vai ficar louca comigo se eu a fizer matar aula."`@
 ld l,":a;e2\en11.bmp",5
 ;「いいのよ……怒られる心配なんてないわ」\
-`""`
+`"Tudo bem.... Nﾃo precisa se preocupar com isso."`\
 
 ld r,":a;e2\bat49.bmp",5
 ;「いやいや、霧江さんなら確実に怒るだろぉ？@
-`""`
+`"Nﾃo, nﾃo... Ela fica furiosa pra valer."`@
 ld l,":a;e2\en12.bmp",5
 ld r,":a;e2\bat27.bmp",5
 ;　いっひっひ、霧江さんは静かに怖い人だからなぁ。@
-`""`
+` Ihhihhi... A Kyrie-san ｪ silenciosamente assustadora.`@
 ld l,":a;e2\en9.bmp",5
 ld r,":a;e2\bat48.bmp",5
 ;　美人な分だけ、迫力も凄いしよ。@
-`""`
+` Tem sua beleza, mas seu vigor ｪ impressionante.`@
 ld r,":a;e2\bat27.bmp",5
 ;　俺は正直、駄目親父より霧江さんに叱られる方が怖いぜ」\
-`""`
+` Sinceramente, eu tenho mais medo de ser repreendido por ela do que meu pai inputil."`\
 ld l,":a;e2\en16.bmp",5
 ;「バレなきゃ大丈夫よ。黙っていれば分からない。@
-`""`
+`"ｴ sｫ ela nﾃo descobrir. Nunca vai saber se ficar calado.`@
 ld l,":a;e2\en4.bmp",5
 ld r,":a;e2\bat44.bmp",5
 ;　それにね、今日は授業なんかもうどうでもいいの。@
-`""`
+` Alｪm disso, nﾃo estou preocupada com a aula hoje.`@
 ld l,":a;e2\en19.bmp",5
 ;　それよりも、お兄ちゃんと過ごしたい気分だから。@
-`""`
+` Estou mais a fim de passar o tempo com vocｹ.`@
 ld l,":a;e2\en18.bmp",5
 ld r,":a;e2\bat45.bmp",5
 ;　お兄ちゃんさえよければ、一緒にいてくれない？」\
-`""`
+` Se ao menos pudesse me acompanahr?"`\
 ld r,":a;e2\bat46.bmp",5
 ;「わかった。可愛い妹の頼みじゃ、しょうがねぇな。@
-`""`
+`"Entendi. Nﾃo posso recusar o pedido da minha adorｧvel irmﾃzinha.`@
 ld r,":a;e2\bat9.bmp",5
 ;　いっひっひ、今日だけ二人で一緒にサボるか」@
-`""`
+` Ihhihhi... Vamos matar aula juntos sｫ hoje."`@
 ld l,":a;e2\en10.bmp",5
 ;「ありがとう……お兄ちゃん」@
-`""`
+`"Obrigada... onii-chan."`@
 ld r,":a;e2\bat2.bmp",5
 ;「何言うんだよ。俺の方こそ、弁当本当にありがとうな」\
-`""`
+`"Do que tｧ falando? Eu que tenho que agradecer pelo almoﾆo."`\
 ld l,":a;e2\en19.bmp",5
 ;「ううん、気にしないで。@
-`""`
+`"Nﾃo se preocupe com isso.`@
 ld l,":a;e2\en18.bmp",5
 ;　お兄ちゃんがお腹をすかせているのは、見てられないもの」@
-`""`
+` Eu nﾃo suporto vｹ-lo passando fome."`@
 ld r,":a;e2\bat10.bmp",5
 ;「いっひっひ、俺は本当にいい妹をもったなぁ。@
-`""`
+`"Ihhihhi... Eu ganhei mesmo uma ｫtima irmﾃ.`@
 ld r,":a;e2\bat27.bmp",5
 ;　どっかの人の弁当を勝手に食う奴とは、大違いだぜ」\
-`""`
+` Completamente diferente de quem como o almoﾆo dos outros sem permissﾃo."`\
 ld l,":a;e2\en2.bmp",5
 ;「お兄ちゃん、どこか食べたいところはある？@
-`""`
+`"Aonde quer almoﾆar, onii-chan?"`@
 ld l,":a;e2\en19.bmp",5
 ld r,":a;e2\bat1.bmp",5
 ;　ないのなら、一緒に裏庭に行かない？」@
-`""`
+` Se nﾃo tiver preferｹncia, quer ir ao pｧtio dos fundos?"`@
 ld r,":a;e2\bat44.bmp",5
 ;「裏庭……そんなところ、あったのか？」@
-`""`
+`"Pｧtio dos fundos... Existe esse lugar?"`@
 ld l,":a;e2\en16.bmp",5
 ;「ええ、あるわ。普段は入れないけれども、今は開いてる」\
-`""`
+`"Sim, existe. Normalmente ninguｪm entra, mas estｧ aberto hoje."`\
 ld r,":a;e2\bat46.bmp",5
 ;「そんなところあったんだなぁ。@
-`""`
+`"Eu nem sabia que existia.`@
 ld r,":a;e2\bat11.bmp",5
 ;　この学校には花壇くらいしかないと思ってたんだが」@
-`""`
+` Achei que sｫ tivesse canteiros floridos nesta escolh."`@
 ld l,":a;e2\en11.bmp",5
 ;「そこは私の場所だから……私しか入り方は知らないわ。@
-`""`
+`"ｴ o meu lugar, entﾃo sｫ eu sei como acessar."`@
 ld l,":a;e2\en19.bmp",5
 ;　でも、お兄ちゃんはいれてあげる」\
-`""`
+` Mas deixarei vocｹ entrar."`\
 ld l,":a;e2\en18.bmp",5
 ld r,":a;e2\bat46.bmp",5
 ;「ん？　秘密基地みたいなもんか？@
-`""`
+`"Hm? ｴ tipo um esconderijo secreto?"`@
 ld r,":a;e2\bat9.bmp",5
 ;　いっひっひ、俺は入れてくれるのか。ありがとうな。@
-`""`
+` Ihhihhi... Agradeﾆo por me deixar entrar.`@
 ld r,":a;e2\bat51.bmp",5
 ;　秘密基地とか、懐かしいな……子供に戻ったみたいな感じだ」@
-`""`
+` Esconderijo secreto, ｪ? Bate uma nostalgia.... Como se eu voltasse a ser crianﾆa."`@
 ld l,":a;e2\en19.bmp",5
 ;「うん、よかったら一緒に行きましょう」\
-`""`
+`"Sim. Se quiser, vamos juntos."`\
 textoff
 cl a,10,800
 bgmfadeout 1000
@@ -4414,28 +4415,28 @@ bgm"m\ene.mp3"
 ld l,":a;e2\en1.bmp",5
 ld r,":a;e2\bat12.bmp",5
 ;「へぇ、ここだけ、何か雰囲気が違うんだな？@
-`""`
+`"Oh? Entﾃo ｪ aqui? Tem um clima diferente, nｪ?`@
 ld r,":a;e2\bat46.bmp",5
 ;　まるで、別の学校に来た気分になるな」@
-`""`
+` Parece atｪ que estamos em outra escola, nﾃo?"`@
 ld l,":a;e2\en10.bmp",5
 ;「ええ、裏庭は好きな場所だったから。@
-`""`
+`"Sim, por isso gosto do pｧtio dos fundos.`@
 ld l,":a;e2\en2.bmp",5
 ;　よく一人でここで過ごしていたわ」\
-`""`
+` Posso passar bem meu tempo sozinha aqui."`\
 ld l,":a;e2\en19.bmp",5
 ld r,":a;e2\bat44.bmp",5
 ;「そんなことより移動しましょう。@
-`""`
+`"Por que nﾃo trocamos de lugar?`@
 ;　あっちに行けばもっと風景がいいし。@
-`""`
+` A vista ali parace ser bem melhor.`@
 ld l,":a;e2\en18.bmp",5
 ;　それにベンチもあるから」@
-`""`
+` E ainda tem um banco."`@
 ld r,":a;e2\bat2.bmp",5
 ;「ああ、わかった」\
-`""`
+`"Claro, certo."`\
 textoff
 bg#000000,3
 bg"e1\en-1-1.jpg",3
@@ -4443,299 +4444,299 @@ setwindow 15,440,795,580,18,18,3,10,20,1,1,#585858,10,430,790,570
 erasetextwindow 0
 texton
 ;「はい、お兄ちゃん。お弁当」@
-`""`
+`"Seu almoﾆo, onii-chan."`@
 ;「ああ、ありがとうな」@
-`""`
+`"Ah, obrigado."`@
 bg"e1\en-1-2.jpg",5
 ;「はい、お兄ちゃん口を開けて」@
-`""`
+`"Certo, abre a boca, onii-chan."`@
 bg"e1\en-1-3.jpg",5
 ;「えっ、って縁寿ちょっと待て」\
-`""`
+`"Hﾃ? Espera aｨ, Ange."`\
 bg"e1\en-1-17.jpg",5
 ;「仕方がないでしょう。箸が一つしかないんだから」@
-`""`
+`"Sｫ temos um par de hashi. Vai ter que ser assim."`@
 ;「いや、それはそうだけどよ。それなら交互に」@
-`""`
+`"Sim, sｫ tem um. Mas ｪ sｫ ficarmos trocando."`@
 bg"e1\en-1-3.jpg",5
 ;「何？　お兄ちゃんは私の手からご飯を食べるのは嫌なの？」@
-`""`
+`"Quｹ? Nﾃo te agrada que eu o alimente na boca?"`@
 ;「そ、そういう問題じゃなくてさ、なんで」\
-`""`
+`"N-Nﾃo ｪ essa a questﾃo, ...mas Por quｹ?"`\
 bg"e1\en-1-4.jpg",5
 ;「つべこべ言わないで。はい、あーん。@
-`""`
+`"Nﾃo reclama e abre a boca. Ah!`@
 bg"e1\en-1-3.jpg",5
 ;　別にいいでしょう。@
-`""`
+` Qual o problema?`@
 bg"e1\en-1-17.jpg",5
 ;　兄妹なんだから、恥ずかしがる必要はないわ。@
-`""`
+` Somos irmﾃos. Nﾃo precisa ficar envergonhado.`@
 bg"e1\en-1-4.jpg",5
 ;　小さい頃、二人でよくやったじゃない」\
-`""`
+` Fazｨamos isso o tempo todo quando ｪramos pequenos."`\
 bg"e1\en-1-17.jpg",5
 ;「ううっ、そういう問題じゃねぇと思うんだけどなぁ」@
-`""`
+`"Sim. Acho que nﾃo ｪ esse o problema, nｪ?"`@
 bg"e1\en-1-4.jpg",5
 ;「はい、いつまで経っても食べ終わらないから」@
-`""`
+`"Pode passar todo tempo do mundo que vocｹ nﾃo vai termianr de comer."`@
 bg"e1\en-1-5.jpg",5
 ;「う、ううん………」@
-`""`
+`"T-Tｧ......"`@
 bg"e1\en-1-3.jpg",5
 ;「どう、美味しい？」\
-`""`
+`"Entﾃo? Gostoso?"`\
 bg"e1\en-1-6.jpg",5
 ;「ああ、自分で作っておいてなんだけどうまいぜ。@
-`""`
+`"Sim. Muito bom para algo que eu mesmo preparei.`@
 bg"e1\en-1-7.jpg",5
 ;　いっひっひ、やっぱり腹が減ってたからなぁ。@
-`""`
+` Ihhihhi... Eu estava mesmo morto de fome.`@
 bg"e1\en-1-6.jpg",5
 ;　ただ、ベアトも言ってたけどよ。@
-`""`
+` Mas bem que a Beato comentou...`@
 bg"e1\en-1-8.jpg",5
 ;　やっぱり卵焼きはもう少し甘い方がいいのか？」\
-`""`
+` Nﾃo acha que o tamagoyaki tinha que ser um pouco mais doce?"`\
 bg"e1\en-1-9.jpg",5
 ;「ううん、これくらいで大丈夫。@
-`""`
+`"Nﾃo... Assim tｧ ｫtimo."`@
 ;　お兄ちゃんが作ってくれた物なら何でも美味しいから」@
-`""`
+` Qualquer coisa que vocｹ prepara ｪ sempre uma delicia."`@
 bg"e1\en-1-10.jpg",5
 ;「そう縁寿に言ってもらえると嬉しいけどな。@
-`""`
+`"Fico feliz em ouvir vocｹ dizendo isso, sabia?`@
 bg"e1\en-1-9.jpg",5
 ;　こうした方がいいとかあったら、ちゃんと言ってくれよ？」\
-`""`
+` Se tiver alguma sugestﾃo, pode falar, tｧ?"`\
 bg"e1\en-1-11.jpg",5
 ;「……………ごめんね」@
 `"......Desculpa."`@
 bg"e1\en-1-12.jpg",5
 ;「ん？　急に何がだ？」@
-`""`
+`"Hm? O que foi agora?"`@
 bg"e1\en-1-13.jpg",5
 ;「これも全部、お兄ちゃんのお弁当を食べたいと思った。@
-`""`
+`"Isso tudo me deixou com vontade de comer a sua comida."`@
 bg"e1\en-1-12.jpg",5
 ;　そんな私のワガママで、できあがったものだから」\
-`""`
+` ｴ tudo por causa do meu egoｨsmo."`\
 ;「お兄ちゃんと話がしたい。一緒に過ごしたい。@
-`""`
+`"Eu queria conversar com vocｹ. Passar o tempo ao seu lado."`@
 bg"e1\en-1-13.jpg",5
 ;　たくさんたくさん、二人で時間を送りたい。@
-`""`
+` Passar muitas e muitas horas sｫ nｫs dois.`@
 ;　寂しかった、苦しかった学校生活もきっと。@
-`""`
+` A vida ｪ muito solitｧria e estressante."`
 bg"e1\en-1-12.jpg",5
 ;　お兄ちゃんと一緒なら、楽しく過ごせたのにって」\
-`""`
+` Se estivesse com vocｹ, ainda poderia me divertir."`\
 bg"e1\en-1-11.jpg",5
 ;「？？　気にするなって。@
-`""`
+`"?? Nﾃo liga pra isso.`@
 ;　購買で毎日買うのも大変だしな。@
-`""`
+` Comprar na cantina da escola todo dia ｪ mesmo complicado.`@
 ;　これくらい、大した手間じゃねぇよ。@
-`""`
+` Nﾃo dｧ tanto trabalho preparar.`@
 bg"e1\en-1-14.jpg",5
 ;　縁寿が喜んでくれるなら、尚更だ」\
-`""`
+` Se for fazｹ-la feliz, eu posso fazer mais."`\
 bg"e1\en-1-15.jpg",5
 ;「ありがとう……お兄ちゃん、朝の記憶はどうなってるの？」@
-`""`
+`"Obrigada... onii-chan. E as suas memｫrias da manhﾃ?"`@
 bg"e1\en-1-13.jpg",5
 ;「朝の記憶？」@
-`""`
+`"Memｫrias da manhﾃ?"`@
 bg"e1\en-1-12.jpg",5
 ;「お弁当を作って、家を出る。その間の、記憶のこと@
-`""`
+`"Preparar o almoﾆo, sair de casa. O que lembra desse intervalo?`@
 bg"e1\en-1-16.jpg",5
 ;　どう？　そこで、お兄ちゃんと私は一緒に住んでいる？」\
-`""`
+` Entﾃo? Nｫs moramos juntos?"`\
 bg"e1\en-1-18.jpg",5
 ;「何を言ってるんだ？@
-`""`
+`"Do que tｧ falando?"`@
 ;　俺達は二人暮らしで、毎朝俺が弁当を作って。@
-`""`
+` Nｫs vivemos juntos, ...todas as manhﾃ eu preparo o almoﾆo."`
 ;　その間に、縁寿は朝食のホットケーキを焼いて。@
-`""`
+` Enquanto vocｹ assa suas hot cake pela manhﾃ.`@
 bg"e1\en-1-19.jpg",5
 ;　それで十三と一緒に学校に……あ、れ……？」\
-`""`
+` E aｨ vai ﾚ escola com o Juuza... espera, uｪ...?"`\
 bg"e1\en-1-17.jpg",5
 ;「曖昧で、いい加減な記憶……ね。@
-`""`
+`"Sﾃo mesmo... memｫrias vagas e ambｨguas."`@
 bg"e1\en-1-3.jpg",5
 ;　深く考えない方がいいわ。@
-`""`
+` ｴ melhor nﾃo pensar muito nisso."`@
 ;　きっと、頭痛がしてくると思うから。@
-`""`
+` Tenho certeza que sｫ vai ficar com dor de cabeﾆa.`@
 bg"e1\en-1-17.jpg",5
 ;　無理をさせて、ごめんなさい」\
-`""`
+` Desculpe por exigir tanto."`\
 bg"e1\en-1-12.jpg",5
 ;「こうしてお兄ちゃんと過ごせるだけで、もういいの。@
-`""`
+`"Fico satisfeita de passar esse tempo junto com vocｹ."`@
 bg"e1\en-1-16.jpg",5
 ;　唐あげ、食べる？　好きな物を言って？」@
-`""`
+` Quer comer frango frito? Fale do que gosta."`@
 bg"e1\en-1-8.jpg",5
 ;「あ、ああ。ありがとうな」@
-`""`
+`"A-Ah... obrigado."`@
 bg"e1\en-1-9.jpg",5
 ;「ふふっ、はい、あーん」\
-`""`
+`"Fufun! Certo, abre a boca.`\
 bg"e1\en-1-14.jpg",5
 ;「お兄ちゃんと、こうしてお弁当を食べれるなんて夢みたい。@
-`""`
+`"Almoﾆar assim com vocｹ ｪ mesmo um sonho."`@
 bg"e1\en-1-12.jpg",5
 ;　お昼は、私にとって辛い時間だったから。@
-`""`
+` Esse horｧrio sempre foi muito difｨcil pra mim.`@
 ;　そうね、一日中気が休まる時が無かったけれど。@
-`""`
+` Sim, teve momentos de descanﾆo ao longo do dia, mas..."`
 bg"e1\en-1-13.jpg",5
 ;　その中でも、きっと……一番」\
-`""`
+` Dentre eles, esse certamenete... ｪ o melhor."`\
 bg"e1\en-1-20.jpg",5
 ;「そうなのか？　昼休みは一番楽しい時間じゃないのか？@
-`""`
+`"´mesmo? A hora do almoﾆo nﾃo ｪ sempre a mais divertida?`@
 bg"e1\en-1-21.jpg",5
 ;　疲れたところに昼飯を食べて、ゆっくり休んで。@
-`""`
+` Comer quando se estｧ cansado e descnaﾆar bem.`@
 bg"e1\en-1-7.jpg",5
 ;　余った時間は、友達と騒いだり喋ったり。@
-`""`
+` Um momento de descontraﾆﾃo, conversando e se divertindo com os amigos.`@
 bg"e1\en-1-2.jpg",5
 ;　そういうもんじゃ、ないのか？」\
-`""`
+` Nﾃo ｪ sempre assim?"`\
 bg"e1\en-1-11.jpg",5
 ;「それは、仲がいい子がいる場合でしょう？@
-`""`
+`"Isso quando se tem pessoas com quem vocｹ se dｧ bem."`@
 bg"e1\en-1-12.jpg",5
 ;　私の場合は、そうじゃなかった。@
-`""`
+` No meu caso, nﾃo era assim."`
 bg"e1\en-1-13.jpg",5
 ;　お昼休みってね、仲のいい子達が一緒に過ごす時間だから。@
-`""`
+` O almoﾆo era a hora em que amigas passavam juntas.`@
 bg"e1\en-1-12.jpg",5
 ;　逆に、一人の時は何処までも一人になるもの」\
-`""`
+` Por outro lado, quando se ｪ sozinho, vocｹ continua sozinho aonde quer que vｧ."`\
 bg"e1\en-1-22.jpg",5
 ;「縁寿、もしかしてお前、いじめられてるのか？」@
-`""`
+`"Ange... Vocｹ estｧ sofrendo bullying?"`@
 bg"e1\en-1-23.jpg",5
 ;「えっ？　ううん、違うそうじゃないの。昔の話。@
-`""`
+`"Hﾃ? Nﾃo ｪ anda disso. Estou falando de antigamente.`@
 bg"e1\en-1-24.jpg",5
 ;　心配しないでも、今は大丈夫だから。@
-`""`
+` Nﾃo se preocupe. Estou bem agora.`@
 bg"e1\en-1-27.jpg",5
 ;　でも、私は完全に一人なわけじゃなかった」\
-`""`
+` Eu nﾃo estou completamente sozinha."`\
 bg"e1\en-1-25.jpg",5
 ;「私にも友達がいたから。@
-`""`
+`"Eu tambｪm tenho amigas.`@
 ;　私よりも年下なお姉ちゃんと、たくさんの友達が」@
-`""`
+` Uma irmﾃ mais nova que eu e muitas amigas."`@
 bg"e1\en-1-26.jpg",5
 ;「年下なお姉ちゃん？　なぞなぞみたいだな。@
-`""`
+`"Irmﾃ mais nova? Isso ｪ alguma charada?`@
 ;　後輩の誰か……っていうことか？」\
-`""`
+` Estｧ falando de alguma kouhai...?"`\
 bg"e1\en-1-25.jpg",5
 ;「少し違うんだけれどね。@
-`""`
+`"ｴ um pouco diferente.`@
 bg"e1\en-1-27.jpg",5
 ;　お姉ちゃんは、私と同じ学校には通わなかったから。@
-`""`
+` A onee-chan nﾃo frequentava o mesmo colｪgio que eu.`@
 ;　お姉ちゃんも友達も皆優しくて、でも私は皆と離れたの。@
-`""`
+` Tanto ela quanto minhas amigas eram gentis comigo, ...mas eu me afastei de todo mundo.`@
 bg"e1\en-1-25.jpg",5
 ;　それから先は、ずっとずっと一人だった」\
-`""`
+` E desde entﾃo, estou sempre sozinha."`\
 bg"e1\en-1-27.jpg",5
 ;「クラスメイトは、私を嫌っていたから。@
-`""`
+`"Minhas colegas todas me odiavam.`@
 ;　まるで、魔女でも排斥するように。@
-`""`
+` Eu era ostacrizada, como se fosse uma bruxa.`@
 bg"e1\en-1-26.jpg",5
 ;　でも私は、本当の魔女にすらなれなかった。@
-`""`
+` Mas eu nﾃo me tornei uma bruxa de verdade.`@
 ;　私にできた事は、ずっと一人で耐えることだけだった」\
-`""`
+` Tudo o que eu podia fazer era suportar isso sozinha."`\
 bg"e1\en-1-28.jpg",5
 ;「縁寿……そんなことがあったなら、何で言ってくれなかったんだ」@
-`""`
+`"Ange... Se isso acontecia, por que nunca contou?"`@
 bg"e1\en-1-29.jpg",5
 ;「お兄ちゃん」@
-`""`
+`"Onii-chan"`@
 bg"e1\en-1-30.jpg",5
 ;「妹が辛い目に合ってるのに、俺が何もしない奴に見えるのか？@
-`""`
+`"Minha irmﾃ passando por um momento difｨcil... Eu pareﾆo alguｪm que nﾃo faria nada para ajudar?"`@
 ;　何かあったなら、ちゃんと言ってくれ」\
-`""`
+` Se acontecer qualquer coisa, trate de me contar."`\
 bg"e1\en-1-31.jpg",5
 ;「ありがとう…お兄ちゃん。@
-`""`
+`"Obrigad... onii-chan.`@
 ;　今そう言って貰えるだけで十分よ」@
-`""`
+` Poder ouvir isso agora jｧ ｪ o bastante."`@
 bg"e1\en-1-32.jpg",5
 ;「十分じゃないだろう！ 駄目だぜ、全然駄目だ。@
-`""`
+`"Nem perto de ser o bastante! Isso nﾃo estｧ certo, nﾃo estｧ nada certo!`@
 ;　気づかなかった自分にも腹が立つ」\
-`""`
+` Que raiva de nunca ter percebido isso!"`\
 bg"e1\en-1-29.jpg",5
 ;「お兄ちゃん………」@
-`""`
+`"Onii-chan......"`]@
 ;「またそんなことがあったら、直ぐ俺に言え、な？」@
-`""`
+`"Se acontecer de novo, fale na mesma hora, ouviu?"`@
 bg"e1\en-1-31.jpg",5
 ;「うん………ありがとう。まるで夢みたい。@
-`""`
+`"Tｧ...... Obrigada. Parece um sonho.`@
 bg"e1\en-1-33.jpg",5
 ;　お兄ちゃんが、こうして話を聞いてくれる事が」\
-`""`
+` Ter vocｹ para ouvir sobre tudo isso."`\
 bg"e1\en-1-34.jpg",5
 ;「別に夢なんかじゃないさ。@
-`""`
+`"Nﾃo ｪ um sonho.`@
 bg"e1\en-1-35.jpg",5
 ;　辛い事があったら、いつでも話は聞く。@
-`""`
+` Se acontecer algo ruim, eu sempre estarei aqui para ouvir.`@
 ;　これからも、いつだって聞くから。@
-`""`
+` A partir de agora, vou ouvir sempre que precisar.`@
 ;　何かあった時は、ちゃんと俺に話してくれ」\
-`""`
+` Quando algo acontecer, trate de falar comigo."`\
 bg"e1\en-1-36.jpg",5
 ;「……はい、お兄ちゃん。口開けて？」@
-`""`
+`"...Tｧ. Onii-chan. Abre a boca?"`@
 bg"e1\en-1-9.jpg",5
 ;「んっ、あっ、ああ……あーん」@
-`""`
+`"Hm? A-Aah... Aaaah!"`@
 bg"e1\en-1-35.jpg",5
 ;「はい。ううん、やっぱり夢。@
-`""`
+`"Sim. Claro. ｴ mesmo um sonho.`@
 bg"e1\en-1-11.jpg",5
 ;　こうしてお兄ちゃんと話せるのも過ごせるのも」\
-`""`
+` Poder conversar com vocｹ assim."`\
 bg"e1\en-1-37.jpg",5
 ;「何もかも、楽しくて仕方がない夢。@
-`""`
+`"ｴ tudo um sonho feliz.`@
 bg"e1\en-1-25.jpg",5
 ;　そして、私がこうしている間に、別の私は泣いている。@
-`""`
+` Enquanto eu estou fazendo isso, outra eu estｧ chorando.`@
 ;　お兄ちゃんが帰って来ない世界で、たった一人。@
-`""`
+` Sozinha, em um mundo em que vocｹ nﾃo voltou.`@
 bg"e1\en-1-27.jpg",5
 ;　右代宮戦人に置いて行かれた右代宮縁寿が」\
-`""`
+` Ushiromiya Ange, deixada para trｧs por Ushiromiya Battler..."`\
 textoff
 bg#000000,3
 texton
 br
 br
 ;　　　　　　　　　　　「だから、私の夢は叶わない」\
-`　　　　　　　　　　　""`\
+`　　　　　　　　　　　"Por isso, meu sonho nﾃo se realizarｧ."`\
 textoff
 bg"e1\en-1-24.jpg",3
 texton
@@ -4743,32 +4744,32 @@ texton
 `"Ange...?"`@
 bg"e1\en-1-25.jpg",5
 ;「だから、早く目を覚まさなければならないって知ってるの。@
-`""`
+`"Por isso, eu sei que preciso acordar logo.`@
 bg"e1\en-1-27.jpg",5
 ;　本当は知ってる、分かってる。ただ甘えてしまっているだけ。@
-`""`
+` Eu sei disso. Eu entendo. Nﾃo posso sｫ ficar sendo mimada.`@
 bg"e1\en-1-25.jpg",3
 ;　こうして怠惰に過ごしていても、状況は何も変わらない」\
-`""`
+` Nada vai mudar passando o tempo inerte assim."`\
 bg"e1\en-1-24.jpg",5
 ;「縁寿、一体……？」@
-`""`
+`"Ange, do que estｧ falando...?"`@
 bg"e1\en-1-3.jpg",5
 ;「お兄ちゃん、私、頑張る。頑張るから、だから……」@
-`""`
+`"Onii-chan. Eu farei todo o possｨvel. Darei tudo de mim, entﾃo..."`@
 bg"e1\en-1-17.jpg",5
 ;「縁寿、どうしたんだ？」@
-`""`
+`"O que aconteceu, Ange?"`@
 bg"e1\en-1-25.jpg",5
 ;「だから……だから……」\
-`""`
+`"Entﾃo... Entﾃo..."`\
 textoff
 bg#000000,3
 br
 br
 texton
 ;　　　　　　　　　「だからもう少しだけ、傍にいさせて」\
-`　　　　　　　　　""`\
+`　　　　　　　　　"Deixe-me ficar um pouco mais ao seu lado."`\
 bg#000000,3
 
 bgmfadeout 1000
