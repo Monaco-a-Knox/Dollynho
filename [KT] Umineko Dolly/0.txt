@@ -4810,19 +4810,19 @@ ld r,":a;e2\bat43.bmp",5
 ld l,":a;e2\bea8.bmp",5
 texton
 ;「ん？　行くのか戦人？」@
-`""`
+`"Hm? Vai ir, Battler?"`@
 ld l,":a;e2\bea5.bmp",5
 ld r,":a;e2\bat2.bmp",5
 ;「ああ、十三を探しに行ってくる」@
-`""`
+`"Sim, estou indo procurar pelo Juuza."`@
 ld l,":a;e2\bea2.bmp",5
 ld r,":a;e2\bat1.bmp",5
 ;「わかった。気をつけて行ってくるがいい」@
-`""`
+`"Entendi. ｴ bom que vｧ atento."`@
 ld l,":a;e2\bea1.bmp",5
 ld r,":a;e2\bat9.bmp",5
 ;「おお、じゃあなー。また後でな」\
-`""`
+`"Claro. Certo, atｪ depois."`\
 textoff
 cl a,10,800
 bgmfadeout 1000
@@ -4836,7 +4836,7 @@ ld r,":a;e2\bat43.bmp",5
 ld r,":a;e2\bat46.bmp",5
 texton
 ;「ああっ、十三！ ここにいたのか」@
-`""`
+`"Ah, Juuza! Voce estava aqui?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「あれ、ちょうどいいや旦那。探してたんですぜ？」@
 `""`
@@ -5376,7 +5376,7 @@ br
 `　　　　　　　　　""`\
 bg"e1\ama-1-9.jpg",7
 ;「旦那―――いや、戦人さん。@
-`""`
+`"Patraos―――Digo, Battler-san."`
 bg"e1\ama-1-14.jpg",5
 ;　遠い昔、アンタに親友がいたとします。@
 `""`
@@ -5435,8 +5435,10 @@ bg"e1\ama-1-20.jpg",5
 `"........."`\
 bg"e1\ama-1-21.jpg",5
 ;「なぁ、十三？」@
+`"Ei, Juuza?"`@
 bg"e1\ama-1-20.jpg",5
 ;「…………ん？」@
+`"......Hm?"`@
 bg"e1\ama-1-8.jpg",5
 ;「またさっきの話に戻るけどな。@
 `""`
@@ -5555,27 +5557,27 @@ texton
 br
 br
 ;　　　　　　　　「俺はそれを、肯定も否定もできません」\
-`　　　　　　　　""`\
+`　　　　　　　　"Eu nao posso afirmar nem negar isso."`\
 bgmfadeout 1000
 bgmstop
 bg#000000,3
 
 ;　旦那……戦人の旦那？@
-` `@
+` Patrao... Patrao Battcer?`@
 ;　眠っちまったんですかい？@
-` `@
+` Caiu no sono?`@
 ;　そう……それならいいんです。ゆっくり眠って下さい。@
-` `@
+` Sim... Assim e melhor. Descanse bem.`@
 ;　………今日も一日、楽しかったですね。\
-`......Hoje foi muito divertido.`\
-
+`......Hoje foi um dia muito divertido.`\
 ;　楽しくて、穏やかでそして……。@
-` `@
+` Divertido, animado...`@
 ;　そして、いつ終わるかも分からない。@
-` `@
+` E assim, sem saber quando tera fim.`@
 ;　今日一日もこれでおしまいですね。@
-` `@
+` Mais um dia que chegou ao fim.`@
 ;　だから、どうか………。\
+` Por isso, por favor......`\
 
 br
 br
@@ -5929,18 +5931,17 @@ bg#000000,3
 ;　戦人……戦人？@
 ` Battler... Battler?`@
 ;　眠ってしまったのか……？@
-` Dormiu...?`@
+` Caiu no sono, foi...?`@
 ;　そうか、それならよいのだ。ゆっくり眠れ。@
 ` Entendi... Assim e melhor. Durma bastante.`@
 ;　今日も一日、楽しかったな。\
-` Hoje foi muito divertido.`\
-
+` Hoje foi um dia muito divertido.`\
 ;　楽しくて、穏やかでそして……。@
-` `@
+` Divertido, animado...`@
 ;　そして、何の意味もない。@
-` `@
+` E sem qualquer significado.`@
 ;　もう、今日はこれでおしまいにしよう。@
-` `@
+` Bom, vamos encerrar o dia por aqui.`@
 ;　だから、どうか………。\
 ` Por isso, por favor......`\
 
