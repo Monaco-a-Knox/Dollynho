@@ -4839,225 +4839,225 @@ texton
 `"Ah, Juuza! Voce estava aqui?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「あれ、ちょうどいいや旦那。探してたんですぜ？」@
-`""`
+`"Uｪ, bem na hora, Patrﾃo. Tava te procurando."`@
 ld r,":a;e2\bat2.bmp",5
 ;「おっ、奇遇だな。俺もちょうど、お前を探してたんだ」@
-`""`
+`"Oh? Que concidｹncia. Eu tambｪm estavaprocuradno vocｹ."`@
 ld l,":a;e2\ama12.bmp",5
 ;「そりゃ光栄なお話で。見事想いが通じあったってわけだ」\
-`""`
+`"ｴ uma honra saber disso. ｴ como se estivessemos transmitindo nossos sentimentos."`\
 ld r,":a;e2\bat49.bmp",5
 ;「ぶっ、お前なぁ、気色悪い言い方をすんじゃねえよ」@
-`""`
+`"Pff, fala sｪrio? Para de falar coisas tﾃo assustadoras."`@
 ld l,":a;e2\ama7.bmp",5
 ;「ひゃっは、よかったら一緒に飯にしませんかい？」@
-`""`
+`"Poxa... Se estiver livre, quer almoﾆar comigo?"`@
 ld r,":a;e2\bat51.bmp",5
 ;「飯？　もう昼休みは終わるぞ。@
-`""`
+`"Almoﾆar? O intervalo jｧ terminou."`@
 ld l,":a;e2\ama1.bmp",5
 ld r,":a;e2\bat48.bmp",5
 ;　それにな、俺は飯をベアトに食われ……」\
-`""`
+`"Alｪm disso, a Beato comeu o meul almoﾆo..."`\
 ld l,":a;e2\ama6.bmp",5
 ;「ああ、それなら心配無用ですぜ。@
-`""`
+`"Se ｪ por isso, nem precisa se preocupar."`@
 ld l,":a;e2\ama9.bmp",5
 ld r,":a;e2\bat12.bmp",5
 ;　朝から何か起こる気はしてましたから。@
-`""`
+`"Desde cedo eu jｧ estava pressentido que aconteceria algo assim.`@
 ld l,":a;e2\ama24.bmp",5
 ;　すでに購買で、旦那の分も確保済みです」@
-`""`
+` Passei na cantina e garanti o seu tambｪm, patrﾃo."`@
 ld r,":a;e2\bat33.bmp",5
 ;「えっ、ええっ。なんだって、本当かよ！」\
-`""`
+`"Eh? Ehhh? Tｧ falando sｪrio?!"`\
 
 ld l,":a;e2\ama6.bmp",5
 ;「本当ですって。@
-`""`
+`"Sｪrrisimo.`@
 ld l,":a;e2\ama2-1.bmp",5
 ;　ほい、カルビ焼肉サンドに照り焼きチキン。@
-`""`
+` Aqui estｧ: sanduｨche de galbi grelgado e frango teriyaki."`
 ld l,":a;e2\ama2-2.bmp",5
 ;　ハムサンドと卵サンドと……」@
-`""`
+`"Sanduｨche de presunto, sanduｨche de ovo e..."`@
 ld r,":a;e2\bat31.bmp",5
 ;「おっ、おおっ！　おおおおっ！」\
-`""`
+`"Oh! Ohhh! Ohhhhh!"`\
 ld l,":a;e2\ama6.bmp",5
 ;「後、一番人気の焼きそばパン。どうですか旦那？」@
-`""`
+`"Por fim, o mais pedido: yakisobapan. Que tal, patrｷ?"`@
 ld r,":a;e2\bat39.bmp",5
 ;「十三ああああああああん！お前はいい奴だなぁ！」@
-`""`
+`"Juuzaaaaaaaan! Tu ｪ cara muito lega1!"`@
 ld l,":a;e2\ama24.bmp",5
 ;「もっと誉めてくれても構いませんぜ」@
-`""`
+`"Nﾃo ligo se elogiar mais."`@
 ld r,":a;e2\bat9.bmp",5
 ;「本ッ当、いい奴だぜ！　ありがとうなあああああああ」\
-`""`
+`"ｴ demais da conta! Valeuuuuuu!"`\
 ld r,":a;e2\bat41.bmp",5
 ;「これ、俺に会えなかったらどうするつもりだったんだ？」@
-`""`
+`"O que ia fazer com tudo isso se nﾃo me encontrasse?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「その時は、適当に片付けるつもりでした。@
-`""`
+`"Aｨ eu iria dando conta de tudo aos poucos."`@
 ld l,":a;e2\ama9.bmp",5
 ;　いやー、昼の人波からこれだけ確保するのは骨が折れましたよ。@
-`""`
+` Sｪrio, deu trabalho conseguir tudo isso no meio da multidﾃo.`@
 ld l,":a;e2\ama24.bmp",5
 ;　あれと戦うのは、山中行軍と同レベルに気合いがいりましたね」\
-`""`
+` Essa guerra demanda a mesma motivaﾆﾃo que marchar nas montanhas, sabia?"`\
 ld r,":a;e2\bat52.bmp",5
 ;「十三あああ！　くっそ、この恩は絶対忘れねぇぜ！@
-`""`
+`"Juuzaaa! Droga, jamais esquecerei essa dｨvida!"`@
 ld r,":a;e2\bat2.bmp",5
 ld l,":a;e2\ama23.bmp",5
 ;　本当によく買ってきてくれたなぁ！」@
-`""`
+` Vocｹ foi ｫtimo comprando tudo isso!"`@
 ld l,":a;e2\ama24.bmp",5
 ;「まぁ、俺の手にかかれば、ざっとこんなもんです。@
 `""`
 ld l,":a;e2\ama14.bmp",5
 ;　いっぱしの男子校生になんざ、負ける気はしませんね」\
-`""`
+` Eu nﾃo perderia para uma escola repleta de jovens."`\
 ld r,":a;e2\bat28.bmp",5
 ;「それなのに、お前、何で毎回苺牛乳買ってくるんだ？」@
-`""`
+`"Entﾃo por que sempre compra leite de morango todo santo dia?"`@
 ld l,":a;e2\ama5.bmp",5
 ;「…………」@
 `"........."`@
 ld r,":a;e2\bat44.bmp",5
 ;「確か苺牛乳は手前で、コーヒー牛乳は奥にあるよな？」@
-`""`
+`"ｴ verdade que o morango fica ﾚ mﾃo, enquanto o cafｪ com leite lｧ no fundo?"`@
 ld l,":a;e2\ama13.bmp",5
 ;「…………」\
 `"........."`\
 ld r,":a;e2\bat28.bmp",5
 「お前、もしかして棚を漁るのが面倒だから。@
-`""`
+`"ｴ porque tem preguiﾆa de procurar no fundo das prateleiras?"`@
 ld r,":a;e2\bat40.bmp",5
 　俺の注文いつも適当に済ませてないか？」@
-`""`
+` Por isso nunca traz certo o que eu pedi?"`@
 ld l,":a;e2\ama12.bmp",5
 ;「………ひゃっは、クール」\
-`""`
+`"......Hyahha, cool."`
 ld r,":a;e2\bat53.bmp",5
 ;「何がクールだあああああああああっ！@
-`""`
+`"Cool ﾛ carambaaaaa!"`@
 ld r,":a;e2\bat39.bmp",5
 ;　いっつもいっつも苺牛乳ばっかり買ってきやがって！@
-`""`
+` Todo santo dia vocｹ sｫ compra leite de morango!"`@
 ld l,":a;e2\ama13.bmp",5
 ld r,":a;e2\bat33.bmp",5
 ;　返せ！　俺の積もりに積もった80円！」@
-`""`
+` Devolva! Devolva os meus 80 ienes que guarda pra si!"`@
 ld l,":a;e2\ama6.bmp",5
 ;「そんなことより旦那ー。早く移動しましょうや」\
-`""`
+`"Mais importante, patrﾃo. ｴ melhor irmos."`\
 ld r,":a;e2\bat53.bmp",5
 ;「人の話を聞けええええ！」@
-`""`
+`"Nﾃo me ignoraaaa!"`@
 ld l,":a;e2\ama9.bmp",5
 ;「ひひっ、で、本当に何処にしますか？@
-`""`
+`"Hihi... Entﾃo, pra onde vamos?"`@
 ld l,":a;e2\ama24.bmp",5
 ;　旦那に希望がないんたら、適当に案内しやすぜ？」@
-`""`
+` Se nﾃo tiver destino, eu te levo pra onde achar melhor, pode ser?"`@
 ld r,":a;e2\bat28.bmp",5
 ;「話を適当に流しやがって……授業はどうすんだ？」\
-`""`
+`"Deixou mesmo pra lｧ como senada tivesse acontecido...... E quanto as aulas?"`@
 ld r,":a;e2\bat1.bmp",5
 
 ;「四時間目は、さぼっちまえばいいでしょう？@
-`""`
+`"Nﾃo ｪ melhor matar o quarto perｨodo?`@
 ld l,":a;e2\ama6.bmp",5
 ;　飯の礼に付き合って下さいよ」@
-`""`
+` Um agradecimento por ajudar na hora do almoﾆo."`@
 ld r,":a;e2\bat26.bmp",5
 ;「お前のことだ。@
-`""`
+`"Tｧ falando de vocｹ?`@
 ld r,":a;e2\bat27.bmp",5
 ;　どーせ、屋上か木の上のニ択だろ？　それなら屋上だな」\
-`""`
+` ｮbvio que sｫ duas escolhas, telhado ou ｧrvore, nｪ? Entﾃo fico com o telhado."`\
 ld l,":a;e2\ama12.bmp",5
 ;「旦那、この前、木から落ちましたもんねぇ」@
-`""`
+`"Da ｸltimas vez vocｹ caiu da ｧrvore, nｪ?"`@
 ld r,":a;e2\bat31.bmp",5
 ;「うるせぇよ！　そ、それは忘れろって！」\
-`""`
+`"Cala a boca! Jｧ disse pra esquecer isso daｨ!"`\
 ld l,":a;e2\ama2-1.bmp",5
 ;「いやいやいや、まさか体育教師の上に落下するとは。@
-`""`
+`"Nﾃo, sｪrio. E foi cair justo em cima do professor de educaﾆﾃo fｨsica.`@
 ld l,":a;e2\ama2-2.bmp",5
 ;　予想外すぎて、流石の俺も泣きそうになりましたよ」\
-`""`
+` Foi tﾃo aleatｫrio que eu quase chorei de tanto rir."`\
 ld r,":a;e2\bat32.bmp",5
 ;「あ、あれは、お前が下を見てみろって急に言いやがるから」@
-`""`
+`"A-Aquilo foi porque do nada vocｹ pediu pra olhar pra baixo."`@
 ld l,":a;e2\ama24.bmp",5
 ;「二人で逃走したはいいものの、バレるのもすぐでしたね。@
-`""`
+`"A gente deu no pｪ juntos, mas descobriram em seguida.`@
 ld l,":a;e2\ama12.bmp",5
 ;　あの時ほど、旦那の髪色を嘆いたことはありませんぜ」\
-`""`
+` Nunca lamentei tanto a cor do meu cabelo quanto naquele dia."`\
 ld r,":a;e2\bat46.bmp",5
 ;「それはお前もだろう、天草十三？@
-`""`
+`"O mesmo pra vocｹ, Amakusa Juuza."`@
 ld r,":a;e2\bat27.bmp",5
 ;　天草君って髪染めてる？　って今年に入って何回聞かれた？」@
-`""`
+` “Amakusa-kun, vocｹ descolore o cabelo, nｪ?” Quantas vezes jｧ te perguntaram isso este ano?"`@
 ld l,":a;e2\ama2.bmp",5
 ;「んー、十回以上は聞かれましたかね？」@
-`""`
+`"Hm, acho que uma dezena de vezes."`@
 ld r,":a;e2\bat31.bmp",5
 ;「はあっ？　そんなに聞かれたのかよ？」\
-`""`
+`"Hﾃ? Perguntam tanto assim?"`\
 ld l,":a;e2\ama12.bmp",5
 ;「この学校以外にも、他校の生徒にも声をかけられたんで。@
-`""`
+`"Estudantes de outras escolas jｧ me pararam para perguntar tambｪm.`@
 ld l,":a;e2\ama24.bmp",5
 ;　会話の糸口としちゃ、無難な話題なんじゃないですかい？」@
-`""`
+` ｴ um bom assunto pra puxar conversa, nﾃo acha?"`@
 ld r,":a;e2\bat27.bmp",5
 ;「はっ、相変わらずいいご身分だな。@
 `""`
 ld r,":a;e2\bat3.bmp",5
 ;　どうせ、その全員が女子だろ。うらやましい奴だぜ」\
-`""`
+` Aposto que sﾃo sempre garotas. Que inveja, cara."`\
 ld l,":a;e2\ama4.bmp",5
 ;「旦那も似たようなもんだと思うんですがねぇ」@
-`""`
+`"Vocｹ nﾃo ｪ muito diferente, nﾃo, patrﾃo."`@
 ld r,":a;e2\bat27.bmp",5
 ;「どこがだよ。理不尽すぎる話だがな。@
-`""`
+`"Onde? Qual a lｫgica de dizer isso?"`@
 ld r,":a;e2\bat28.bmp",5
 ;　俺はお前みたいに声をかけられたことは、一度もないぜ」@
-`""`
+` Nunca me parara pra conversas igual acontece com vocｹ."`@
 ld l,":a;e2\ama12.bmp",5
 ;「お嬢とベアトさんが四六時中一緒じゃあねぇ……」\
-`""`
+`"A ojou e a Beato-san passam o quarto perｨodo juntas, nｪ...?"`\
 ld r,":a;e2\bat41.bmp",5
 ld l,":a;e2\ama6.bmp",5
 ;「まぁいいや。そんなことより、飯行きましょうよ飯。@
-`""`
+`"Bom, que diferenﾆa faz? Bora almoﾆar"`@
 ld l,":a;e2\ama2.bmp",5
 ;　今日は晴れてますし、絶好の昼寝日よりですぜ。@
-`""`
+` Hoje tｧ ensolarado, perfeito pra tirar um cochilo.`@
 ld l,":a;e2\ama6.bmp",5
 ;　食った後、ごろごろするのもたまには悪かねえでしょう？」@
-`""`
+` Dar uma vadiada depois de comer nﾃo ｪ nada mal, hein?"`@
 ld r,":a;e2\bat2.bmp",5
 ;「そうだな。たまには、サボルか」\
-`""`
+`"Pois ｪ, ﾚs vezes ｪ bom matar aula."`\
 ld l,":a;e2\ama9.bmp",5
 br
 ;「お嬢には内緒ですぜ？」@
-`""`
+`"Nﾃo conta pra ojou, combinado?"`@
 ld r,":a;e2\bat9.bmp",5
 ;「ああ、行くか！」\
-`""`
+`"Claro. Vamos logo!"`\
 
 textoff
 cl a,10,800
@@ -5070,53 +5070,53 @@ br
 ld r,":a;e2\bat9.bmp",5
 ld l,":a;e2\ama7.bmp",5
 ;「ごちそうさま！」@
-`""`
+`"Hoje a comida estava boa!"`@
 ;「はい、おそまつさまでした」\
-`""`
+`"Nﾃo tem dｹ que."`\
 ld r,":a;e2\bat2.bmp",5
 ;「結構量があったのに、二人で食べるとすぐだなぁ」@
-`""`
+`"Tinha bastante comida, mas a gente comeu tudo bem rｧpido."`@
 ld l,":a;e2\ama6.bmp",5
 ;「そうですね。いやぁ、俺も満足しました」@
-`""`
+`"Comesmo mesmo. Agora sim eu tﾛ satisfeito."`@
 ld r,":a;e2\bat46.bmp",5
 ;「カルビ焼肉サンドだっけ？　これ温めた方がうまいだろうなぁ」@
-`""`
+`"Ficaria ainda melhor se desse pra esquecer o sanduｨche de galbi."`@
 ld l,":a;e2\ama24.bmp",5
 ;「レンジがないのが、悔やまれますね」\
-`""`
+`"ｴ uma merda nﾃo ter um micro-ondas, nｪ?"`\
 ld l,":a;e2\ama12.bmp",5
 ;「焼きそばパンを二つに割るのは、無謀でしたね」@
-`""`
+`"Foi burrice ter dividido o yakisobapan ao meio."`@
 ld r,":a;e2\bat21.bmp",5
 ;「ああ、しかも潰れてたしな。@
-`""`
+`"Sim, estragou tudo.`@
 ld l,":a;e2\ama13.bmp",5
 ld r,":a;e2\bat3.bmp",5
 ;　でも初めて食べたぜ、ほとんど裏メニュー状態だしな」@
-`""`
+` Mas foi a primeira vez que comi. ｴ quase que um cardｧpio secreto."`@
 ld l,":a;e2\ama12.bmp",5
 ;「正直焼きそばパンの競争率が、異常なんですよこの購買」\
-`""`
+`"Sinceramente, a concorｹncia pelo yakisobapan ｪ coisa de outro mundo."`\
 ld r,":a;e2\bat2.bmp",5
 ;「それにしても、購買でこれだけ食べたのは初めてだぜ。@
-`""`
+`"Ainda assim, nunca comi tanto com uma ｸnica compra na cantina.`@
 ld l,":a;e2\ama1.bmp",5
 ld r,":a;e2\bat46.bmp",5
 ;　毎日、毎日、自分で作って来てるからな。@
-`""`
+` Afinal, eu mesmo sempre preparo todos os dias.`@
 ld r,":a;e2\bat9.bmp",5
 ;　案外美味いもんだなぁ。@
-`""`
+` E por incrｨvel que pareﾆa, fica bom."`@
 ld r,":a;e2\bat27.bmp",5
 ;　これなら、自分の分は手ェ抜いて買うのもいいか」\
-`""`
+` Acho que vou comeﾆar a comprar a minha parte a porﾆﾃo de agora."`\
 ld l,":a;e2\ama6.bmp",5
 ;「そんなことしたらお嬢が怒りますぜ。@
-`""`
+`"A ojou vai se irritar se fizer isso."`@
 ld l,":a;e2\ama9.bmp",5
 ;　普通の高校より味はいいんじゃないですかね？@
-`""`
+` Nﾃo acha que a comida aqui ｪ melhor do que a de escolas normais?"`@
 ld l,":a;e2\ama12.bmp",5
 ;　舌が肥えてる人、がイメージで作ってますからね？」@
 `""`
@@ -5126,22 +5126,22 @@ ld r,":a;e2\bat44.bmp",5
 
 ld l,":a;e2\ama22.bmp",5
 ;「まぁ、そんな感じです」@
-`""`
+`"Bom, tipo isso."`@
 ld r,":a;e2\bat46.bmp",5
 ;「ところで十三、飲み物はあるのか？」@
-`""`
+`"A propｫsito, Juuza. Tem bebida?"`@
 ld l,":a;e2\ama6.bmp",5
 ;「ああ、それならそっちに入ってます。@
-`""`
+`"Claro, tｧ aｨ dentro."`@
 ld l,":a;e2\ama2.bmp",5
 ;　ええっと、ああ、それです」\
-`""`
+` Cadｹ... ah, achei!"`\
 ld r,":a;e2\bat40.bmp",5
 ;「お前、何で苺牛乳ばっかり買ってくるんだよ」@
-`""`
+`"Cara, por que vocｹ sｫ compra leite de morango?"`@
 ld l,":a;e2\ama24.bmp",5
 ;「旦那がそうやって怒るのが、面白いからじゃないですかい？」@
-`""`
+`"Por que ｪ divertido ver vocｹ irritado com isso?"`@
 ld r,":a;e2\bat28.bmp",5
 ;「本当にその理由だったら、次は本気で殴るぞ」@
 `""`
@@ -5600,7 +5600,7 @@ ld r,":a;e2\bat43.bmp",5
 ld l,":a;e2\bea8.bmp",5
 texton
 ;「ん？　なんだ戦人？　二人を探しに行かぬのか？」@
-`""`
+`"Hm? Que foi, Batter? Vai procurar aqueles dois?"`@
 ld l,":a;e2\bea5.bmp",5
 ld r,":a;e2\bat27.bmp",5
 ;「ああ、動くと余計に腹が空きそうだしな。@
