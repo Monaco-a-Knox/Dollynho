@@ -1,5 +1,7 @@
 # Dolly's
 
+Projeto em andamento, traduzindo vagarosamente conforme encontro tempo para dedicar. Previsão para acabar em abril.
+
 Tradução em português do fan-game de Umineko intitulado "[Dolly's Dreaming Awakening -Cradle Song-](https://vndb.org/v5057)".
 
 O jogo original ainda pode ser encontrado neste [link arquivado](https://web.archive.org/web/20130120065944/http://xgamedata.com/demo4/g4257/).
