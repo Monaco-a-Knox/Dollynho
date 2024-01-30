@@ -31,7 +31,7 @@ def prepareFiles():
     # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
     # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
      try:
-         copy_tree('system', f'{output_folder}/system')
+         copy_tree('system', f'{output_folder}/[KT]Umineko.Dolly.PT-BR')
      except FileNotFoundError:
          print("Couldn't find the system folder. Skipping.")
          pass
@@ -39,7 +39,7 @@ def prepareFiles():
        # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
     # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
      try:
-         copy_tree('e1', f'{output_folder}/e1')
+         copy_tree('e1', f'{output_folder}/[KT]Umineko.Dolly.PT-BR')
      except FileNotFoundError:
          print("Couldn't find the e1 folder. Skipping.")
          pass 
