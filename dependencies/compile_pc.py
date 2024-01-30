@@ -16,33 +16,32 @@ def prepareFiles():
     # Lista de ARQUIVOS (não pastas!) que são necessários para montar o patch 
     # (atenção: não incluir o nscript.dat ou arc.nsa que são compilados por esse script posteriormente)
     dependencies = [
-        'onscripter-en.exe'
-        'default.ttf'
-        '0.txt'
+        "onscripter-en.exe",
+        "default.ttf",
+        "0.txt"
     ]
 
     for files in dependencies:
         try:
-            shutil.copy(files, output_folder)
+            shutil.copy(f"[KT] Umineko Dolly/{files}", output_folder)
         except:
             print(f"Couldn't copy {files}")
             pass
     
     # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
     # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
-     try:
-         copy_tree('system', f'{output_folder}/[KT]Umineko.Dolly.PT-BR')
-     except FileNotFoundError:
-         print("Couldn't find the system folder. Skipping.")
-         pass
+    folders = [
+        'system',
+        'e1'
+    ]
+    
+    for folders in folders:
+        try:
+            copy_tree(f"[KT] Umineko Dolly/{folders}", f"{output_folder}/{folders}")
+        except FileNotFoundError:
+            print("Couldn't find the system folder. Skipping.")
+            pass
          
-       # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
-    # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
-     try:
-         copy_tree('e1', f'{output_folder}/[KT]Umineko.Dolly.PT-BR')
-     except FileNotFoundError:
-         print("Couldn't find the e1 folder. Skipping.")
-         pass 
     # este bloco de código deleta a pasta bmp/background
     # try:
     #     shutil.rmtree('bmp/background')
