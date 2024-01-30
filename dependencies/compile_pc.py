@@ -4,7 +4,7 @@ import os, shutil, shlex
 from sys import exit
 
 # Nome da pasta onde os arquivos do patch serão enviados
-output_folder = "[KT]Umineko.Saku.PT-BR(PC)"
+output_folder = "[KT]Umineko.Dolly.PT-BR"
 
 def prepareFiles():
 
@@ -16,7 +16,9 @@ def prepareFiles():
     # Lista de ARQUIVOS (não pastas!) que são necessários para montar o patch 
     # (atenção: não incluir o nscript.dat ou arc.nsa que são compilados por esse script posteriormente)
     dependencies = [
-        'Umineko Saku.exe'
+        'onscripter-en.exe'
+        'default.ttf'
+        '0.txt'
     ]
 
     for files in dependencies:
@@ -28,12 +30,19 @@ def prepareFiles():
     
     # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
     # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
-    # try:
-    #     copy_tree('web', f'{output_folder}/web')
-    # except FileNotFoundError:
-    #     print("Couldn't find the web folder. Skipping.")
-    #     pass
-    
+     try:
+         copy_tree('system', f'{output_folder}/system')
+     except FileNotFoundError:
+         print("Couldn't find the system folder. Skipping.")
+         pass
+         
+       # copia a pasta web. Para copiar outras pastas, reuse este bloco de código
+    # tradução do que está sob o TRY: copy_tree('pasta que você quer copiar', f'{output_folder}/para onde ela vai' << pode ser para dentro dela mesmo, como no caso abaixo)
+     try:
+         copy_tree('e1', f'{output_folder}/e1')
+     except FileNotFoundError:
+         print("Couldn't find the e1 folder. Skipping.")
+         pass 
     # este bloco de código deleta a pasta bmp/background
     # try:
     #     shutil.rmtree('bmp/background')
@@ -54,18 +63,18 @@ def compile():
     
     # caso precise modificar o caminho ou o nome do script, editar ele abaixo
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
-    nscript_args = '-o pscript.dat SCRIPT/0.txt'
+    #nscript_args = '-o pscript.dat SCRIPT/0.txt'
     # shutil.copy('SCRIPTS/PC/hane_pc.txt', '0.txt')
-    run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
-    shutil.move('pscript.dat', output_folder)
+    #run(['dependencies/nscmake.exe'] + shlex.split(nscript_args))
+    #shutil.move('pscript.dat', output_folder)
 
-    nsa_args = 'arc.nsa bmp'
-    run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
-    shutil.move('arc.nsa', output_folder)
+    #nsa_args = 'arc.nsa bmp'
+    #run(['dependencies/nsamake.exe'] + shlex.split(nsa_args))
+    #shutil.move('arc.nsa', output_folder)
 
     # nome do arquivo de destino
     # IMPORTANTE: o nome do arquivo, caso modificado, precisa também ser modificado nos scripts do Github Actions, sob a pasta .github/workflows neste repositório
-    zip_args = f"KT.Umineko.Saku.PT-BR.7z {output_folder}"
+    zip_args = f"[KT]Umineko.Dolly.PT-BR.7z {output_folder}"
     run([r'dependencies/7za.exe', 'a'] + shlex.split(zip_args))
 
 def cleanup():

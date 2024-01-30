@@ -29,7 +29,7 @@ jobs:
     #  uses: softprops/action-gh-release@v1
     #  if: startsWith(github.ref, 'refs/tags/')
     #  with:
-    #    files: KT.Umineko.Saku.PT-BR.7z   # nome do arquivo final que irá para os releases
+    #    files: [KT]Umineko.Dolly.PT-BR.7z   # nome do arquivo final que irá para os releases
     #  env:
     #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
@@ -38,6 +38,6 @@ jobs:
       uses: "WyriHaximus/github-action-get-previous-tag@v1"
       
     - name: Release
-      run: gh release upload ${{ steps.previoustag.outputs.tag }} "KT.Umineko.Saku.PT-BR.7z"
+      run: gh release upload ${{ steps.previoustag.outputs.tag }} "[KT]Umineko.Dolly.PT-BR.7z"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
