@@ -5278,10 +5278,10 @@ bg"e1\ama-1-18.jpg",5
 `"Escuta, vocｹ precisa ter paciｹncia e frequentar, ouviu?"`@
 bg"e1\ama-1-17.jpg",5
 ;「何よりね、嫌なんですよ。思い出しちまう」@
-`""`
+`"ｴ o que eu mais odeia. Me traz lembraﾆas."`@
 bg"e1\ama-1-9.jpg",5
 ;「思い出すって、何をだ？」\
-`""`
+`"Que tipo de lembranﾆas?"`\
 
 bg"e1\ama-1-14.jpg",5
 ;「こう言うと誤解されそうですがね。@
@@ -5373,13 +5373,13 @@ texton
 br
 br
 ;　　　　　　　　　「会いたくなんて、本当はなかったんだ」\
-`　　　　　　　　　""`\
+`　　　　　　　　　"A verdade ｪ que eu nﾃo queria encontrｧ-lo."`\
 bg"e1\ama-1-9.jpg",7
 ;「旦那―――いや、戦人さん。@
 `"Patraos―――Digo, Battler-san."`
 bg"e1\ama-1-14.jpg",5
 ;　遠い昔、アンタに親友がいたとします。@
-`""`
+`"Vamos dizer que antigamente vocｹ tivesse um melhor amigo."`@
 bg"e1\ama-1-1.jpg",5
 ;　ソイツが、自分をどう思っていたのかはわからない。@
 `""`
@@ -5582,7 +5582,7 @@ bg#000000,3
 br
 br
 ;　　　　　　　　　　　　　　　また………明日。\
-`　　　　　　　　　　　　　　　Ate......amanha.`\
+`　　　　　　　　　　　　　　　Ate......amanhﾃ.`\
 textoff
 bgmonce"m\bell.wav"
 bg"e1\last2-a.jpg",9
@@ -5604,12 +5604,16 @@ texton
 ld l,":a;e2\bea5.bmp",5
 ld r,":a;e2\bat27.bmp",5
 ;「ああ、動くと余計に腹が空きそうだしな。@
+`"Ah, vai ficar com fome se sair andando pro aｨ, ｪ?`@
 ld r,":a;e2\bat51.bmp",5
 ;　そう言えば、二人とも昼飯を食べてないみたいだったし。@
+` ｴ mesmo, parece que eles nﾃo almoﾆaram.`@
 ld r,":a;e2\bat49.bmp",5
 ;　今、探しに行っても迷惑になるだけだろう？」\
+` Nﾃo ｪ uma boa ir procurar por eles agora."`\
 ld l,":a;e2\bea2-2.bmp",5
 ;「うむっ、そうか！　それならば、戦人、ついて来い！」@
+`"Hm, entendi! Sendo assim, vem comigo, Battler!"`@
 ld r,":a;e2\bat28.bmp",5
 ;「お前、人の話を聞いてたのか？@
 ld r,":a;e2\bat33.bmp",5
