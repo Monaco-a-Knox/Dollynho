@@ -2998,8 +2998,7 @@ ld r,":a;e2\bat39.bmp",5
 
 ld l,":a;e2\bea39.bmp",5
 ;「ふふん、鈍い男よ。@
-"Fufun... Que homem mais devagar, hein?\
-``
+`"Fufun... Que homem mais devagar, hein?\`
 ld l,":a;e2\bea37.bmp",5
 ;　まさか気づいておらぬとはな。@
 ` E pensar que nﾃo tinha se dado conta.`@
@@ -5616,12 +5615,16 @@ ld l,":a;e2\bea2-2.bmp",5
 `"Hm, entendi! Sendo assim, vem comigo, Battler!"`@
 ld r,":a;e2\bat28.bmp",5
 ;「お前、人の話を聞いてたのか？@
+`"Ei, vocｹ nﾃo tｧ me ouvindo, nﾃo?`@
 ld r,":a;e2\bat33.bmp",5
 ;　動くと腹が減るって言ってるだろうが！」@
+`""`@
 ld l,":a;e2\bea2-4.bmp",5
 ;「ふふん、愚かな奴よ。そこで、チェス盤をひっくり返せ」\
+`Ahaham tolinho. ｴ aqui que viramos o tabuleiro."`\
 ld r,":a;e2\bat42.bmp",5
 ;「………何か、懐かしい響きだなソレ」@
+`"......Essa frase bate uma certa nostalgia..."`@
 ld l,":a;e2\bea2-11.bmp",5
 ;「動くと腹が減る！　それは当然よ、ならば限界突破だ！@
 ld l,":a;e2\bea2-11.bmp",5
@@ -5631,13 +5634,17 @@ ld r,":a;e2\bat40.bmp",5
 ;「どうして空きっ腹でそこまで動かなきゃならないんだよ！」\
 ld l,":a;e2\bea3-3.bmp",5
 ;「というわけで、行くぞ戦人あああああああ！！！」@
+`"Ou seja, vamo logo, Batlerrrr!!!"`@
 ld l,":a;e2\bea3-2.bmp",5
 ld r,":a;e2\bat53.bmp",5
 ;「行くぞじゃねえええええ！！！@
+`"Vamos ﾛ caramba!!!`@
 ld r,":a;e2\bat38.bmp",5
 ;　無理やり人を引っ張るな！　次の授業はっ、て。@
+`"Nﾃo fique arrastando os outros! A prｫxima aula...`@
 ld r,":a;e2\bat39.bmp",5
 ;　べあとおおおおおおおおおオオオオ！！！！」\
+`Beatooooooooooo!!!!`\
 cl a,1,100
 textoff
 bg#000000,8
@@ -5645,54 +5652,73 @@ bg"e1\pool1.jpg",8
 ld l,":a;e2\bea3-1.bmp",5
 texton
 ;「着いたぞ戦人ァアアアアアアアアアッ！！」@
+`"Chegamos, Batlerrrrr!!"`@
 ld r,":a;e2\bat53.bmp",5
 ;「着いたぞじゃねぇ！@
+`"Chegamos ﾛ caramba!`@\
 ld r,":a;e2\bat40.bmp",5
 ;　無理やり人をひっぱりやがって、この馬鹿力！@
+`"Que forﾆa absurda ｪ essa que vocｹ tem para sair puxando os outros assim?!`@ 
 ld r,":a;e2\bat31.bmp",5
 ;　ここは一体なんだ！　どこだ！！　ってプール？」\
+`Afinal, que lugar ｪ esse? Onde fica isso?! ｴ uma piscina?!"`\
 ld r,":a;e2\bat39.bmp",5
 ld l,":a;e2\bea2-2.bmp",5
 ;「急に水遊びがしたくなってな！@
+`"Deu uma vontade de me molhar!`@
 ld l,":a;e2\bea2-4.bmp",5
 ;　まぁ、水は冷たそうだが問題あるまい！@
+`"Bom, a ｧgua parece gelada, mas tranquilo!`@
 ld l,":a;e2\bea2-5.bmp",5
 ld r,":a;e2\bat29.bmp",5
 ;　海ではしゃぐこともできるくらいの季節よ！@
+`Estamos numa estaﾆﾃo que dｧ pra se divertir atｪ no mar!`@
 ld l,":a;e2\bea2-2.bmp",5
 ;　足を突っ込んだり、かけあったりして遊ぼうぜー！」\
 ld r,":a;e2\bat27.bmp",5
 ;「いっひっひ、悪いがお断りだな。@
+`"Ihhihhi... Foi mal, mas essa eu passo.`@
 ld r,":a;e2\bat40.bmp",5
 ;　どうして、腹が空いてんのにそんなことっ！？」@
+`Nﾃo estava morrendo de fome?!"`@
 wave"m\mizu.wav"
 ld r,":a;e2\bat52.bmp",5
 ld l,":a;e2\bea3-1.bmp",5
 ;「ひゃっひゃっひゃっひゃ、隙ありだぜェ！！　右代宮戦人ァ！」@
+"`Hyahhyahhyahhya, vacilou!! Ushiromiya Battlerrr!"@\
 ld r,":a;e2\bat53.bmp",5
 ;「べ、あ、と、り、い、ちぇえええええええッ！！！」\
+"`Be... a... tri... ceeeeeee!!!"`\
 ld l,":a;e2\bea3-2.bmp",5
 ld r,":a;e2\bat40.bmp",5
 ;「もう勘弁ならねぇ！！　覚悟しやがれこの野郎！！」@
+`"Nﾃo aguento mais!! ｴ bom se preparar, maldita!!"`@
 ld l,":a;e2\bea3-3.bmp",5
 ;「おお、その意気よ！！@
+`"Oh, esse ｪ o espｨrito!!`@
 ;　存分に来るがいい右代宮戦人アアアアアアア！！」\
+` Venha com tudo, Ushiromiya Battrlerrrrrr!!"`\
 br
 ld r,":a;e2\bat4-2.bmp",5
 ;「くらいやがれべあとりいちぇえええええ！！！」@
+`"Agora vocｹ vai ver, Beatriceeeee!!!"`@
 wave"m\mizu.wav"
 ld l,":a;e2\bea3-2.bmp",5
 ;「甘い、甘いぞ！！　そんなもんが当たるかよぉおおお！！！」\
+`"Ingｹno, muito ingｹnuo!! Nunca vai me acertar assim!!!"`\
 textoff
 bg#000000,8
 
 
 ;「わはははははは、戦人ァ！　くらえへぶしっ！」@
+`"Wahahahahaha... Battler! Toma essa!"`@
 wave"m\naguru.wav"
 ;「何コケて自滅してんだって、うわッ！」@
 wave"m\mizu.wav"
 ;「ハッ馬鹿がァ！　簡単に油断しおって！」@
+`"Tu ｪ burra?! Se descuidando assim?!"`@
 ;「て、てめぇ、いい加減にしろよこらああああ！！」\
+`"M-Maldita! Para com issoooo!!"`\
 
 bgmfadeout 1000
 bgmstop
@@ -5703,222 +5729,332 @@ bgm"m\beae.mp3"
 setwindow 15,400,795,525,18,18,3,10,20,1,1,#585858,10,390,790,550
 erasetextwindow 0
 ;「はぁ、疲れたなぁ……戦人ぁ」@
+"`Ah... cansei, Battler."`@
 bg"e1\bea-1-2.jpg",5
 ;「ちくしょう、ついノッちまった……くたくたじゃねぇか」@
+`"Droga! Justo quanto estava ficando bom... estou acabada."`@
 bg"e1\bea-1-3.jpg",5
 ;「でも楽しかったなぁ？　どうだ、戦人？」@
+`"Mas foi divertido, nﾃo foi? Battler?"`@
 bg"e1\bea-1-4.jpg",5
 ;「……………うん？」\
+`"......Hm?"`\
 bg"e1\bea-1-5.jpg",5
 ;「まぁ、つまんねぇってことはなかったな」@
+`"Bom... nﾃo foi entediante."`@
 bg"e1\bea-1-6.jpg",5
 ;「クックックッ、よく言うものよ。@
+`"*gargalhada* Como consegue dizer isso?`@
 bg"e1\bea-1-7.jpg",5
 ;　そなたは、こーいう子供っぽい遊びが好きであろう？」@
+` Nﾃo ｪ vocｹ quem ama essas bricadeiras de crianﾆa?"`@
 bg"e1\bea-1-8.jpg",5
 ;「勝手に決めやがって……でも、確かに嫌いじゃねぇな」\
+`"O que sabe sobre mim?! ...Mas nﾃo posso dizer que odeio."\
 bg"e1\bea-1-9.jpg",5
 ;「これで、空腹は忘れたか？」@
+`"Entﾃo, esqueceu que estava faminta?"`@
 bg"e1\bea-1-10.jpg",5
 ;「あ、ああ……そういえば忘れてたな」@
+`"A-Ah... nem lembrava mais disso."`@
 bg"e1\bea-1-11.jpg",5
 ;「そうだろう、そうだろう。笑い遊べば時を忘れる。@
+`"ｴ isso aｨ! Assim que tem que ser. A gente nem vｹ a hora passar quando estamos nos divertindo.`@
 bg"e1\bea-1-12.jpg",5
 ;　こうして騒ぐのも、時には悪くなかろう？」\
+` Dar uma animada assim ﾚs vezes nﾃo ｪ ruim, ｪ?"`\
 bg"e1\bea-1-13.jpg",5
 ;「確かに、腹が空いてたことなんて忘れてたな。@
+`"Realmente, atｪ se esquece da fome.`@
 bg"e1\bea-1-12.jpg",5
 ;　なんだよ、お前、このために俺を誘ったのか？」@
+` Foi por isso que me chamou?"`@
 ;「いや、それは単なる副産物よ。@
+`"Nﾃo, isso ｪ sｫ uma consequｹncia.`@
 bg"e1\bea-1-14.jpg",5
 ;　妾は気まぐれ。わざわざそなたのために動きはせぬわ！」\
+` Eu sou caprichosa. Nﾃo mexeria um dedo por vocｹ sem motivo!"`\
 bg"e1\bea-1-15.jpg",5
 ;「やっぱりそうかよこの野郎！@
+`"Eu jｧ imaginava, maldita!`@
 bg"e1\bea-1-16.jpg",5
 ;　一瞬そうなのかと思った俺が馬鹿だったぜ！」@
 bg"e1\bea-1-17.jpg",5
 ;「ただ、戦人と一緒に遊びたかっただけだ」@
+`"Mas... Eu sｫ queria me divertir com vocｹ."`@
 bg"e1\bea-1-18.jpg",5
 ;「っ……突然ストレートに言うな！！」\
+`"Hﾃ... Vai admitir assim na cara?!"`\
 bg"e1\bea-1-15.jpg",5
 ;「ほぅ、なんだァ？　照れでもしたか？@
+`"Hoh? Que foi? Ficou envergonhado, foi?`@
 bg"e1\bea-1-18.jpg",5
 ;　そうだよな、そうだよなァ。@
+` Ficou, nｪ? Sｫ pode, nｪ?`@
 bg"e1\bea-1-19.jpg",5
 ;　妾のような美女に、遊びたかったと言われれば嬉しいよなァ。@
+` Ficou feliz de ver uma linda garota como eu dizer que queria me divertir com vocｹ, nｪ?`@
 bg"e1\bea-1-20.jpg",5
 ;　好きなだけ喜んでいいぞォ」\
+` Alegre-se o quanto quiser!"`\
 bg"e1\bea-1-21.jpg",5
 ;「ハッ、誰が美女だ誰が。@
+`"Hﾃ? Cadｹ essa linda garota?`@
 bg"e1\bea-1-22.jpg",5
 ;　そんなことで喜ぶかよ。好き勝手人を振り回しやがって」@
+` Atｪ parece que isso me deixaria feliz. Tｧ tentando me manipular!"`@
 bg"e1\bea-1-3.jpg",5
 ;「なんだよォ無理すんじゃねぇよォ。@
+`"Poxa, nﾃo precisa exagerar.`@
 bg"e1\bea-1-7.jpg",5
 ;　お前は振り回してくるタイプの女が好きなんだろォ」\
+` Admita que vocｹ gosta de mulheres manipuladoras"`\
 bg"e1\bea-1-15.jpg",5
 ;「勝手に決めつけるんじゃねぇよ」@
+`"Pare de falar o que nﾃo sabe!"`@
 bg"e1\bea-1-20.jpg",5
 ;「いや、絶対そうだ。ふふん、つまりは妾ではないか。@
+`"Nﾃo, eu tenho certeza. Entﾃo quer dizer que nﾃo sou? *risos*`@
 bg"e1\bea-1-23.jpg",5
 ;　しかも、金髪のボインボインだしよぉ！@
+` Sem contar que sou loira e peituda!`@
 ;　くひゃひゃひゃひゃ、素直に認めてしまえばいいものを」\
+` *gargalhada* Eu adoraria que fosse mais honesto."`\
 bg"e1\bea-1-24.jpg",5
 ;「けっ、好きに言ってろ」@
+`"Quero ver dizer que gosta."`@
 ;「くひゃひゃひゃひゃ………あー………」@
+`"Kuhyakuhyakuhya.... Ah......"`@
 bg"e1\bea-1-21.jpg",5
 ;「どうした？」@
+`"Que foi?"`@
 bg"e1\bea-1-25.jpg",5
 ;「水が気持ちいいなぁ、戦人ぁ」\
+`"Essa ｧgua tｧ uma delｨcia, nﾃo acha, Battler?"`\
 bg"e1\bea-1-26.jpg",5
 ;「ああ、そうだな。確かに、そうだ」@
+`"Ah, tｧ mesmo. Tem razﾃo."`@
 bg"e1\bea-1-27.jpg",5
 ;「こうやって足を漬けてると、海を思い出すよなぁ」@
+`"Molhar os pｪs assim nﾃo te faz lembrar do mar?"`@
 bg"e1\bea-1-28.jpg",5
 ;「海、か……風のせいで波があるからな。@
+`"O mar...? Tem atｪ umas ondas por causa do vento.`@
 bg"e1\bea-1-27.jpg",5
 ;　確かに、目をつぶると海にいるような気がするな」\
+` ｴ mesmo, se apertar bem os olhos, atｪ parece o mar."`\
 bg"e1\bea-1-29.jpg",5
 ;「海は、もう見飽きた。@
+`"Eu cansei de olhar pro mar...`@
 bg"e1\bea-1-30.jpg",5
 ;　だが、こうしていると何処か懐かしい……。@
+` mas vendo assim, bate atｪ uma certa nostalgia...`@
 bg"e1\bea-1-29.jpg",5
 ;　晴れて穏やかな海はいいものよ。@
+` uma mar ensolarado e tranquilo tem seu valor.`@
 ;　真っ青なその色程、美しいものは他にない」\
+` Nﾃo tem nada mais lindo do aquele azul."`@
 bg"e1\bea-1-31.jpg",5
 ;「青い海か、綺麗だな」@
+`"Um mar azul... ｪ mesmo lindo."`@
 bg"e1\bea-1-32.jpg",5
 ;「そなたはきっと見たことがないだろうがな」@
+`"Aposto que nunca deve ter visto, nｪ?"`@
 bg"e1\bea-1-33.jpg",5
 ;「はぁっ？　俺だって見たことくらいあるぞ」@
+`"Hﾃ? Atｪ eu jｧ o vi!"`@
 ;「いや、本当の青色をそなたは知らぬよ」\
+`"Nﾃo, vocｹ nﾃo sabe o que ｪ um mar azul de verdade."`\
 bg"e1\bea-1-34.jpg",5
 ;「外国の海っていうことか？@
+`"Tｧ falando da prais do exterior?`@
 bg"e1\bea-1-35.jpg",5
 ;　青い海……どこかで聞いたことがある気がする。@
+` Mar azul... onde foi que jｧ ouvi isso antes?`@
 ;　確か、誰かが言ってたんだ。@
+` Acho que alguｪm mencionou sobre isso.`@
 bg"e1\bea-1-36.jpg",5
 ;　何か……大事なことだった気がするんだけどなぁ」\
+` Sinto... que estou esquecendo de algo muito importante."`\
 bg"e1\bea-1-35.jpg",5
 ;「たとえ思い出したとしても同じよ。@
+`"Mesmo que lembre, nﾃo vai fazer diferenﾆa.`@
 ;　そなたには、理解できぬだろうな」@
+` ｴ algo que nﾃo conseguiria compreender."`@
 bg"e1\bea-1-33.jpg",5
 ;「俺には理解できないって、なんだよ。@
+`"O que eu nﾃo compreenderia?`@
 ;　どうしてそうやって、お前は諦めるんだ？」\
+` Por que parece que vocｹ perder as esperanﾆas?`"\
 ;「気にするな……何でもない」@
+`"Nem esquenta... nﾃo ｪ nada."`@
 bg"e1\bea-1-35.jpg",5
 ;「何なんだ、一体よ……」@
+`"Sｪrio, o que te deu..."`@
 bg"e1\bea-1-34.jpg",5
 ;「…………なぁ、戦人」@
+`"......Ei, Battler."`@
 ;「…………なんだ、ベアト」\
+`"......Que foi, Beato?"`\
 bg"e1\bea-1-36.jpg",5
 ;「魚が見たい」@
+`"Quero ver peixeis."`@
 bg"e1\bea-1-38.jpg",5
 ;「急になんだ？」@
+`"Assim do nada?"`@
 bg"e1\bea-1-33.jpg",5
 ;「妾は、海を知っている。@
+`"Eu conheﾆo o mar.`@
 ;　けれども、海を泳ぐ魚を多くは知らない」\
+` Mas nﾃo sei muito sobre os peixes que nadam nele."`\
 bg"e1\bea-1-30.jpg",5
 ;「知らない、のか？」@
+`"Sabe alguma coisa?"`@
 bg"e1\bea-1-29.jpg",5
 ;「妾は海に囲まれた場所に住んでいた。@
+`"Eu vivia em um lugar cercado pelo oceano.`@
 ;　だが、妾の屋敷は海から離れていた。@
+` Mas minha casa ficava afastada do mar.`@
 bg"e1\bea-1-30.jpg",5
 ;　海で泳いだことはあるが……それも僅かなことだ」\
+` Foram poucas as vezes... que pude entrar no mar."`\
 bg"e1\bea-1-33.jpg",5
 ;「海の傍に住んでいたのに、か？」@
+`"Mesmo sendo vizinha do mar?"`@
 bg"e1\bea-1-38.jpg",5
 ;「妾は、鳥籠の中に住んでいたようなものだからな。@
+`"Era como se eu vivesse dentro de uma gaiola.`@
 ;　鳥籠の中からは、出ることなど叶わなかった。@
+` Eu nﾃo fui capaz de escapar dela.`@
 bg"e1\bea-1-37.jpg",5
 ;　だから、妾は何も知らない」\
+` ｴ por isso que nﾃo sei nada."`\
 bg"e1\bea-1-30.jpg",5
 ;「思えば妾は獣も魚も、本の中の知識でしか知らない。@
+`"Pensando bem, tudo o que sei sobre animais eu aprendi nos livros.`@
 ;　普段はそんなこと、考えもせぬのにな。@
+` `@
 bg"e1\bea-1-37.jpg",5
 ;　こうして、海に浸っていると思いだす」\
+` Ficar encharcada assim me fez lembrar do mar."`\
 ;「……………」@
 `"........."`@
 bg"e1\bea-1-31.jpg",5
 ;「そなたと二人、晴れた空の下足を浸しているとな。@
+`"Molhar os pｪs deixado de um sol ensolarado assim...`@
 ;　何もかもが、懐かしく曖昧に思えるわ。@
+` evoca uma certa nostalgia...`@
 bg"e1\bea-1-32.jpg",5
 ;　そう、まるで…………」\
+` Sim, como se fosse......"`\
 textoff
 bg#000000,3
 texton
 br
 br
 ;　　　　　　　　　　　「黄金卿のように、温かい」\
+`　　　　　　　　　　　"Aconchegante como a Terra Dourda"\`
 textoff
 bg"e1\bea-1-34.jpg",5
 texton
 ;「行くか、水族館」@
+`"Vamos ao aquｧrio?"`@
 bg"e1\bea-1-39.jpg",5
 ;「ん？　なんだ？　どうした」@
+`"Hﾃ? O que deu em vocｹ?"`@
 bg"e1\bea-1-40.jpg",5
 ;「水族館に一緒に行くか？」@
+`"Nﾃo quer ir ao aquｧrio comigo?"`@
 ;「なんだと？」\
+`"Quｹ?"`\
 bg"e1\bea-1-41.jpg",5
 ;「連れてってやるよ。一緒に行こうぜ？」@
+`"Nﾃo quer me levar? Vamos juntos?"`@
 ;「なっ、それは誠か！　嘘ではあるまいな！」@
+`""`@
 bg"e1\bea-1-40.jpg",5
 ;「嘘じゃねぇって。行ったことがないんだろう？@
+`"Nﾃo pe mentira. Vocｹ nunca foi, ou foi?`@
 bg"e1\bea-1-42.jpg",5
 ;　海の傍に住んでてそれは、悲しい話じゃねぇか」\
 bg"e1\bea-1-43.jpg",5
 ;「行こうぜ、水族館！@
+`"Bora pro aquｧrio!`@
 ;　実物の魚をたくさん見て、ショーとかも見ようぜ。@
+` Ver um monte de peixes de perto, assistir ao show de golfinhos.
 bg"e1\bea-1-44.jpg",5
 ;　いっひっひ、十三や縁寿も一緒に連れて行ってよ。@
+` Ihihi... Vamos levar o Juuza e a Ange tambｪm.`@
 bg"e1\bea-1-44.jpg",5
 ;　一日中、遊び回るのも悪かねぇな」\
+` Seria bom passar um dia todo nos divertindo."`\
 
 bg"e1\bea-1-45.jpg",5
 ;「そなた、それは本気で言っておるのか？@
+`"Tｧ falando sｪrio?`@
 ;　妾を、水族館に連れて行くと？」@
+` Vai mesmo me levar a um aquｧrio?"`@
 bg"e1\bea-1-42.jpg",5
 ;「あぁ本気だ。嘘を吐くつもりの約束なんてしねぇよ。@
+`"Estou. Eu nunca faria uma promessa de mentira.`@
 bg"e1\bea-1-43.jpg",5
 ;　一緒に行こうぜ。約束だ」\
+` Eu prometo que vamos juntos."`\
 bg"e1\bea-1-46.jpg",5
 ;「………約束を、破る気はないと？」@
+`......Nﾃo vai mesmo quebrar sua promessa?"`@
 bg"e1\bea-1-47.jpg",5
 ;「ああ、ない！　一緒に行こうぜ！！」@
+`"Claro que nﾃo! Nｫs vamos juntos!!"`@
 bg"e1\bea-1-48.jpg",5
 ;「………本当に、約束するというのか」@
+`"......Essa promessa ｪ sｪria mesmo?"`@
 bg"e1\bea-1-38.jpg",5
 ;「？　 どうして、お前はそんなに疑うんだよ」\
+`"? Por que tｧ duvidando tanto?"`\
 bg"e1\bea-1-20.jpg",5
 ;「いや、よい。約束だぞ戦人。@
+`"Nﾃo, tudo bem. ｴ uma promessa, Battler.`@
 bg"e1\bea-1-25.jpg",5
 ;　右代宮戦人は、ベアトリーチェと水族館に行く」@
+` Ushiromiya Battler prometeu ir ao aquｧqurio com Beatrice."`@
 bg"e1\bea-1-49.jpg",5
 ;「ああ、それでいい。@
+`"ｴ isso aｨ.`@
 bg"e1\bea-1-50.jpg",5
 ;　いっひっひ、楽しみだな！」\
+` Ihihi, jｧ tﾛ ansioso!"`\
 bg"e1\bea-1-51.jpg",5
 ;「ああ、妾も楽しみよ！@
+`"Eu tambｪm estou!`@
 bg"e1\bea-1-50.jpg",5
 ;　ペンギンやアシカやイルカも見ようぞ！！@
+` Quero ver os pinguis, os leｷes-marinhos e os golfinhos!!`@
 ;　一緒に、魚を見て、ショーを見て、食事をしよう。@
+` Vamos ver os peixes, assistir ao show e almoﾆar.`@
 bg"e1\bea-1-51.jpg",5
 ;　そしてだな！！！　そして……………」\
+` E depois!!! E depois......"`\
 textoff
 bg#000000,3
 texton
 br
 br
 ;　　　　　　　　　　　　　　　　　「嘘つき」\
+`　　　　　　　　　　　　　　　　　"Mentiroso"`\
 
 textoff
 bg"e1\bea-1-30.jpg",5
 texton
 「ベアト、今……？」@
+`"Beato, isso foi...?"`@
 bg"e1\bea-1-33.jpg",5
 「ああ、気持ちいいな。戦人」@
+`"Ah, que ｧgua boa, Battler."`@
 「ベアト………？」@
+`"Beato......?"`@
 「本当に、気持ちいい。まるで」\
+`"ｴ mesmo gostosa... como se..."`\
 textoff
 bg#000000,3
 texton
@@ -5927,6 +6063,7 @@ br
 
 
 ;　　　　　　　　　　「揺り籠で眠っているかのようだ」\
+`　　　　　　　　　　"Estivesse dormindo em um berﾆo."`\
 
 bgmfadeout 1000
 bgmstop
